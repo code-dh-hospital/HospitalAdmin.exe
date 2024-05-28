@@ -6,9 +6,9 @@
 
 #
 ## 3.24.0528.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32405280-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32405280-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32405280-NasDHSolutions.json)
-- ✨: Bổ sung control để chỉnh sửa mã 4750 - dmdantoc, dmNNTN, dmnghe, dmPPVC
-- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/366
-- 📗: ma4750: current.dmdantoc, current.dmNNTN, current.dmnghe, current.dmPPVC
+- 🐛: Fix lỗi không lấy được SO_CCCD trong checkIn
+- ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
 ## [v.3.24.0526.2]()
 - ✨: Hỗ trợ xuất XML4750.xml8 (hoàn thiện)
 - ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
