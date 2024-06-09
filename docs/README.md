@@ -5,6 +5,24 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
+## 3.24.0609.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406091-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406091-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406091-NasDHSolutions.json)
+- ✨: Cập nhật XML06
+- 🐛: Thêm ma4750 trong fhi_dmnoikhangdinhhiv: <NOI_XN_KD>00</NOI_XN_KD> <--Sử dụng mã dùng chung của cơ sở KBCB nơi BN được khẳng định HIV, fhi_dieutriarv.manoikhangdinhhiv liên kết bảng fhi_dmnoikhangdinhhiv(chưa có cột mã dùng chung) ![](https://i.imgur.com/Y5eHEYP.png)
+- 🐛: <MA_LYDO_XNTL_VR />
+- 🐛: <NGAY_XN_TLVR />
+- 🐛: <KQ_XNTL_VR /> 
+- 🐛: <NGAY_KQ_XN_TLVR /> Lấy ngày trên form HIV, được nhập và lưu/load từ fhi_xetnghiem
+- 🐛: <MA_TINH_TRANG_DK /> Có thể check chọn nhiều tình trạng, liên kết bảng fhi_dmchon.loai=4
+- 🐛: <LAN_XN_PCR /> Phần mềm hiện tại chỉ có 2 lần, 4750 thì quy định 3 lần, sẽ yc Pre bổ sung sau, dl từ bảng fhi_dieutriarv.
+- 🐛: <NGAY_XN_PCR /> và <NGAY_KQ_XN_PCR /> Lấy chung 1 ô Ngày PCR.
+- 🐛: <MA_KQ_XN_PCR /> Kết quả - Mã "0": Âm tính; Mã "1": Dương tính.
+- 🐛: <MA_BAC_PHAC_DO /> fhi_gdxutri.maphacdo liên hết fhi.phacdo để lấy bậc
+- 🐛: <NGAY_CHUYEN_PHAC_DO /> và <LY_DO_CHUYEN_PHAC_DO /> Hình 6
+- ☑: https://github.com/dh-hos/92010-send4750/issues/1
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/387
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/388
+- ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
 ## [v.3.24.0607.0]()
 - 🐛: Lỗi - Chỉnh thông tin bệnh nhân nội trú nút Lưu không lưu được
 - ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/65#issuecomment-2153690364
