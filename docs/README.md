@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0609.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406091-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406091-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406091-NasDHSolutions.json)
+## 3.24.0611.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406110-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406110-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406110-NasDHSolutions.json)
+- 🐛: Fix Lỗi - Cập nhật tự động bị mất phiên bản, không cập nhật được version của phiên bản cài đặt
+- ![](https://i.imgur.com/O2Chxhk.png)
+- ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/67
+## [v.3.24.0609.1]()
 - ✨: Cập nhật XML06
 - 🐛: Thêm ma4750 trong fhi_dmnoikhangdinhhiv: <NOI_XN_KD>00</NOI_XN_KD> <--Sử dụng mã dùng chung của cơ sở KBCB nơi BN được khẳng định HIV, fhi_dieutriarv.manoikhangdinhhiv liên kết bảng fhi_dmnoikhangdinhhiv(chưa có cột mã dùng chung) ![](https://i.imgur.com/Y5eHEYP.png)
 - 🐛: <MA_LYDO_XNTL_VR />
