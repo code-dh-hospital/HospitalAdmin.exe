@@ -5,7 +5,16 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0611.5 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406115-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406115-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406115-NasDHSolutions.json)
+## 3.24.0612.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406120-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406120-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406120-NasDHSolutions.json)
+
+- 🐛: XML7: MA_BS sai định dạng mã số BHXH , phần mềm đang lấy chứng chỉ hành nghề-> Mã bác sĩ lấy mã BHXH trưởng khoa. hiện tại chưa có chức năng nhập mã BHXH cho nhân viên -> thêm chức năng nhập mã BHXH trưởng khoa
+![](https://i.imgur.com/J2zWtnF.png) 
+- 🐛: XML1, 2, 3 sai số tiền khi bệnh nhân có chứng nhận miễn (XML không tính được chi phí được hưởng chứng nhận miễn), thẻ 1 và thẻ 2 đều bị sai ![](https://i.imgur.com/E1kZxvR.png) 
+- 🐛: Fix Yêu cầu - Xác định mã lý do vào viện trên bảng kê 6556 và XML 4210 ( trường hợp bệnh nhân có giấy xác nhận cư trú) ![](https://i.imgur.com/lJrTENa.png)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/389
+- ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+## [v.3.24.0611.5]()
 - ✨: xml06.KQ_DTRI_LAO = ""
 ## [v.3.24.0611.4]()
 - ✨: XML06.NGAYBD_DTRI_LAO - Ngày bắt đầu phác đồ đầu tiên điều trị Lao, khi fhi_gdxutri.maxutri=2 liên kết fhi_dmxutri.maxutri, khi lần khám nào có phát sinh phác đồ Lao thì từ đó trờ về sau khám lần nào thì đẩy lần đó
