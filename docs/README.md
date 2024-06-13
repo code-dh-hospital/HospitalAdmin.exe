@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0612.5 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406125-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406125-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406125-NasDHSolutions.json)
+## 3.24.0613.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406130-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406130-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406130-NasDHSolutions.json)
+- 🐛: XML05.DIEN_BIEN_LS (Thêm CDData)
+- 🐛: Fix lỗi chưa có Mã 4750 trên danh mục quốc gia
+- ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+## [v.3.24.0612.5]()
 - 🐛: XML1.MA_NOI_DEN - BN có phiếu chuyển viện nhưng khi xuất XML1 lại chưa có thông tin
 - 🐛: XML6.LOAI_DTRI_LAO, NGAYBD_DTRI_LAO, NGAYKT_DTRI_LAO - Sau khi triển khai ở 2 đơn vị thì thống nhất lại chổ lấy hợp lý hơn là Xử trí phác đồ, khi fhi_dgxutri.maxutri = 2 hoặc 3, gửi khi điều kiện sẽ là tungay=< ngaykham <= denngay, hoặc tungay=< ngaykham, denngay is null
 - ☑: https://github.com/dh-hos/92010-send4750/issues/1
