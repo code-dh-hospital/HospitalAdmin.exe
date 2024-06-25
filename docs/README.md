@@ -5,7 +5,14 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0622.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406220-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406220-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406220-NasDHSolutions.json)
+## 3.24.0625.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406250-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406250-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406250-NasDHSolutions.json)
+- ✨: XML02.tt_thau lấy theo danh mục 4750
+- 🐛: XML05.DIEN_BIEN_LS: Bệnh nhân ngoại trú chưa lấy được <DIEN_BIEN_LS /> dù có nhập chỉ số sinh hiệu
+- 🐛: XML01.NGAY_VAO_NOI_TRU: Bệnh nhân ngoại trú không lập bệnh án lấy dư ngày vào nội trú
+- 🐛: XML05.NGUOI_THUC_HIEN
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+- ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+## [v.3.24.0622.0]()
 - ✨: Bỏ hiển thị 2 cột Cấp và Tên tiếng anh
 - ✨: Thêm groups Trong tỉnh và ngoài tỉnh
 - 🐛: Fix lỗi lấy sai tên viết tắt khi add
