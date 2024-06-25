@@ -5,7 +5,14 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0625.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406250-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406250-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406250-NasDHSolutions.json)
+## 3.24.0625.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406251-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406251-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406251-NasDHSolutions.json)
+- 🐛: Kiểm tra qui tắc số BHXH khi lưu
+- Định dạng: Số BHXH gồm 10 ký tự, tất cả đều là chữ số từ 0 đến 9.
+- Không có ký tự chữ: Số BHXH không bao gồm bất kỳ ký tự chữ nào, chỉ có các con số.
+- Độ dài cố định: Số BHXH luôn có độ dài cố định là 10 chữ số.
+- ![](https://i.imgur.com/jlqCSe6.png)
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/29
+## [v.3.24.0625.0]()
 - ✨: XML02.tt_thau lấy theo danh mục 4750
 - 🐛: XML05.DIEN_BIEN_LS: Bệnh nhân ngoại trú chưa lấy được <DIEN_BIEN_LS /> dù có nhập chỉ số sinh hiệu
 - 🐛: XML01.NGAY_VAO_NOI_TRU: Bệnh nhân ngoại trú không lập bệnh án lấy dư ngày vào nội trú
