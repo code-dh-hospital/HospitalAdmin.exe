@@ -5,7 +5,22 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0627.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406270-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406270-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406270-NasDHSolutions.json)
+## 3.24.0627.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406272-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406272-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406272-NasDHSolutions.json)
+- 🐛: Fix lỗi phát sinh khi add danh mục địa phương 4750 bằng excel - phiên bản postgres 9.4
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+<<<<<<< HEAD
+## [v.3.24.0627.1]()
+- 🐛: Fix lỗi phát sinh khi add danh mục địa phương 4750 bằng excel - phiên bản postgres 9.4
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+## [v.3.24.0627.0]()
+- 🐛: Fix lỗi phát sinh khi add danh mục địa phương 4750 bằng excel - phiên bản postgres 9.4
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+<<<<<<< HEAD
+## [v.3.24.0613.1]()
+- 🐛: Fix lỗi mất cột 4750 ở các danh mục (dân tộc, nghề nghiệp, tai nạn, phương pháp vô cảm)
+=======
+=======
+## [v.3.24.0627.0]()
 - ✨: Thử NAS
 ## [v.3.24.0626.3]()
 - ✨: Test KS
@@ -14,6 +29,7 @@
 - 🐛: Fix lỗi xuất XML4750 ![](https://i.imgur.com/IR465Cc.png)
 - ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
 - ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+>>>>>>> dc4c06299ac0ee184352431b6ca8d58e59db3c61
 ## [v.3.24.0626.1]()
 - 🐛: Fix lỗi xuất XML4750 ![](https://i.imgur.com/IR465Cc.png)
 - ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
@@ -73,6 +89,7 @@
 - 🐛: Fix lỗi stent2
 - ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20#issuecomment-2165074926
 - ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+>>>>>>> c3162f775d68b60918a1d21dcd8976b4d78c527d
 ## [v.3.24.0613.0]()
 - 🐛: XML05.DIEN_BIEN_LS (Thêm CDData)
 - 🐛: Fix lỗi chưa có Mã 4750 trên danh mục quốc gia
