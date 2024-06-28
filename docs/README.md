@@ -5,7 +5,17 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0628.8 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406288-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406288-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406288-NasDHSolutions.json)
+## 3.24.0628.9 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406289-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406289-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32406289-NasDHSolutions.json)
+- ✨: Hỗ trợ chức năng Import ICD 9 từ excel  COD thực hiện.
+- ✨: Hỗ trợ script áp mã ICD 9 cho danh mục cận lâm sàng theo mã tương đương 
+COD thực hiện.
+![](https://i.imgur.com/3dMDbUf.png)
+![](https://i.imgur.com/pnX7oj1.png)
+![](https://i.imgur.com/yJQnkFQ.png)
+- ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN-4750/issues/16
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+- ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+## [v.3.24.0628.8]()
 - 🐛: Sai số tỷ lệ thanh toán dịch vụ phải là số nguyên dương, 
 - 🐛: SO_LUONG, DON_GIA_BV, DON_GIA_BH => toRound(3);
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/426
