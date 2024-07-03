@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0703.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407032-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407032-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407032-NasDHSolutions.json)
+## 3.24.0703.3 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407033-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407033-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407033-NasDHSolutions.json)
+- 🐛: XML06.LOAI_DTRI_LAO: Lấy fhi_dgxutri.maxutri join qua bảng fhi_dmxutri để lấy giá trị cột ma4750 để gửi.
+- ![](https://i.imgur.com/Np7bfnQ.png) ![](https://i.imgur.com/bHw9r5M.png)
+- ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/70
+- ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/70#issuecomment-2206058751
+## [v.3.24.0703.2]()
 - ✨: Bổ sung XML7.MA_DINH_CHI_THAI giá trị mặc định "0"
 - ![](https://i.imgur.com/qAtp6oL.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/441
