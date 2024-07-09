@@ -5,7 +5,15 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0709.3 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407093-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407093-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407093-NasDHSolutions.json)
+## 3.24.0709.4 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407094-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407094-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407094-NasDHSolutions.json)
+- ✨: THỰC HIỆN CHỦ ĐỀ: MÔ TẢ THỰC CẬN LÂM SÀNG THĂM DÒ CHỨC NĂNG (KHO = 'CN')
+- Xử lý thêm Không được xóa các loại CLS mặc định như sau (bổ sung thêm): 
+![](https://i.imgur.com/UpIdIem.png)
+- Cho phép thêm loại thuộc kho CN
+![](https://i.imgur.com/M61PKfh.png)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/460
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/309
+## [v.3.24.0709.3]()
 - 🐛: Fix Lỗi - Bị mất mã giường khi thêm mã giường thủ công
 - ![](https://i.imgur.com/rP5mxvw.png)
 - 🐛: XML01.NGAY_RA, NGAY_TTOAN, khi null (tránh lỗi xml)
