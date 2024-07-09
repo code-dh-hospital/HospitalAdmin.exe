@@ -5,7 +5,20 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0709.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407090-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407090-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407090-NasDHSolutions.json)
+## 3.24.0709.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407092-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407092-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407092-NasDHSolutions.json)
+- 🐛: Fix Lỗi - Bị mất mã giường khi thêm mã giường thủ công
+- ![](https://i.imgur.com/rP5mxvw.png)
+- 🐛: XML01.NGAY_RA, NGAY_TTOAN = '', khi null (tránh lỗi xml)
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+- ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+## [v.3.24.0709.1]()
+- 🐛: Fix Lỗi - Bị mất mã giường khi thêm mã giường thủ công
+- ![](https://i.imgur.com/rP5mxvw.png)
+- 🐛: XML01.NGAY_RA, NGAY_TTOAN, khi null (tránh lỗi xml)
+- ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/74
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+- ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+## [v.3.24.0709.0]()
 - ✨: XML08.NGAY_VAO, CHAN_DOAN_VAO theo mô tả [Mô tả XML130 - Bổ sung QĐ 4750.md](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML130/QD4570/M%C3%B4%20t%E1%BA%A3%20XML130%20-%20B%E1%BB%95%20sung%20Q%C4%90%204750.md)
 - ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
 - ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
