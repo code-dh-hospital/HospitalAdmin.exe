@@ -5,7 +5,21 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0716.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407161-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407161-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407161-NasDHSolutions.json)
+## 3.24.0716.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407162-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407162-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407162-NasDHSolutions.json)
+﻿- ✨: Bổ sung form Danh mục chứng thư số
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/446
+![](https://i.imgur.com/hrBhKo2.png)
+## [v.3.24.0716.1]()
+﻿- ✨: Bổ sung form Danh mục chứng thư số
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/446
+![](https://i.imgur.com/hrBhKo2.png)
+<<<<<<< HEAD
+## [v.3.24.0716.0]()
+﻿- ✨: Bổ sung form Danh mục chứng thư số
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/446
+![](https://i.imgur.com/hrBhKo2.png)
+=======
+## [v.3.24.0716.1]()
 - 🐛: FIX Lỗi xuất, gửi XML4750 khi bệnh nhân có sử dụng CLS có phương pháp vô cảm
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/491
 - ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
@@ -20,6 +34,7 @@
 - ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
 - ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/77
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/489
+>>>>>>> 12353681bff8ff606193e7ef15c9c8eda9abe9dd
 ## [v.3.24.0714.2]()
 - ✨: Test cập nhật
 ## [v.3.24.0714.0]()
