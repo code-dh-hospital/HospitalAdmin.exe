@@ -5,7 +5,16 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0718.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407180-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407180-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407180-NasDHSolutions.json)
+## 3.24.0719.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407190-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407190-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407190-NasDHSolutions.json)
+- 🐛: 
+Lỗi - Lấy sai mã đối tượng khám chữa bệnh XML1 (MA_DOITUONG_KCB) với bệnh nhân nhập viện trái tuyến tại BV tuyến tỉnh
+![](https://i.imgur.com/QyFqKHB.png)
+- 🐛: Xử lý đơn giá thuốc (DON_GIA, DON_GIA_BV, DON_GIA_BH), vtyt lấy giabhyt khi giabhyt>0 (không thuộc thanh toán Stent)
+- ![](https://i.imgur.com/kKOpa7P.png)
+- ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/78
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+- ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+## [v.3.24.0718.0]()
 - ✨: Bổ sung chức năng cấu hình sử dụng chức năng thông tuyến theo 1923/BHXH-CNTT
 - ![](https://i.imgur.com/4WUjZHp.png)
 - ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
