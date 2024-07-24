@@ -5,7 +5,16 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0724.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407240-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407240-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407240-NasDHSolutions.json)
+## 3.24.0724.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407241-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407241-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32407241-NasDHSolutions.json)
+- ✨: Yêu cầu - Bổ sung bảng XML 11 (GIẤY CHỨNG NHẬN NGHỈ HƯỞNG BHXH) ![](https://i.imgur.com/1pHSAuu.png)
+- ✨: Yêu cầu - Mô tả và thực hiện hỗ trợ gởi bệnh nhân BANT thanh toán ngày XML1.ma_loai_kcb ![](https://i.imgur.com/HMSzYM7.png)
+- 🐛: Fix lỗi: XML3 chưa lấy Nguoi_thuc_hien cho Mã Nhóm 2 ![](https://i.imgur.com/IeSaP0d.png)
+- ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN-4750/issues/83
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+- ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+- ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/199
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/519
+## [v.3.24.0724.0]()
 - ✨: Yêu cầu - Bổ sung bảng XML 11 (GIẤY CHỨNG NHẬN NGHỈ HƯỞNG BHXH) ![](https://i.imgur.com/1pHSAuu.png)
 - ✨: Yêu cầu - Mô tả và thực hiện hỗ trợ gởi bệnh nhân BANT thanh toán ngày XML1.ma_loai_kcb ![](https://i.imgur.com/HMSzYM7.png)
 - 🐛: Fix lỗi: XML3 chưa lấy Nguoi_thuc_hien cho Mã Nhóm 2 ![](https://i.imgur.com/IeSaP0d.png)
