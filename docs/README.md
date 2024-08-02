@@ -5,7 +5,15 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0801.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408011-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408011-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408011-NasDHSolutions.json)
+## 3.24.0802.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408020-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408020-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408020-NasDHSolutions.json)
+- ✨: XML01.PP_DIEU_TRI
+![](https://i.imgur.com/Cmw0zVb.png)
+- ✨: XML13.TOMTAT_KQ,PP_DIEUTRI,PP_DIEU_TRI
+![](https://i.imgur.com/y71CGOa.png)![](https://i.imgur.com/MQPZNzG.png)![](https://i.imgur.com/FUO7JOn.png)
+- 🐛: XML03.DON_GIA_BV (trường hợp XML03.DON_GIA_BV < XML03.DON_GIA_BH, xử lý XML03.DON_GIA_BV = XML03.DON_GIA_BH) để phù hợp với công thức T_BNTT = THANH_TIEN_BV - THANH_TIEN_BH
+- 🐛: Tiền T_BNTT < 0 trường hợp CLS có giá BH lớn hơn giá Dịch vụ, dân
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/365
+## [v.3.24.0801.1]()
 - 🐛: XML01.PP_DIEU_TRI (trường hợp không thuộc Bệnh án sẽ lấy [`Ngoại khoa`])
 - ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/82
 ## [v.3.24.0801.0]()
