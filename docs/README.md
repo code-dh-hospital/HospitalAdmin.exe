@@ -5,7 +5,14 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0802.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408021-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408021-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408021-NasDHSolutions.json)
+## 3.24.0803.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408030-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408030-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408030-NasDHSolutions.json)
+- ✨: XML03.ngay_th_yl thực hiện theo mô tả 
+- ![](https://i.imgur.com/0wf6uwP.png)
+- 🐛: XML4570 tính sai tiền BHTT đối với bệnh có nhập chứng nhận miễn (Thiếu điều kiện cùng ngày miễn chi trả), => Lớn hơn hoặc bằng NGAY_MIEN_CT sẽ tính MUC_HUONG = 100_
+- ![](https://i.imgur.com/2i6gwnJ.png) https://i.imgur.com/96n4aGP.png
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/365
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/572
+## [v.3.24.0802.1]()
 - ✨: Yêu cầu - Gủi thông tin XML11.MAU_SO![](https://i.imgur.com/9XcL3Lg.png)
 - ![](https://i.imgur.com/KBSKGbL.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/564
