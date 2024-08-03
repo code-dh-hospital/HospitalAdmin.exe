@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0803.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408030-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408030-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408030-NasDHSolutions.json)
+## 3.24.0803.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408031-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408031-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408031-NasDHSolutions.json)
+- ✨: Thực hiện theo Mô tả Kiểm tra thời gian kết quả HA/CN/TT/PT
+- ![](https://i.imgur.com/VeIVeHQ.png)
+![](https://i.imgur.com/JnFa8mo.png)
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/63
+## [v.3.24.0803.0]()
 - ✨: XML03.ngay_th_yl thực hiện theo mô tả 
 - ![](https://i.imgur.com/0wf6uwP.png)
 - 🐛: XML4570 tính sai tiền BHTT đối với bệnh có nhập chứng nhận miễn (Thiếu điều kiện cùng ngày miễn chi trả), => Lớn hơn hoặc bằng NGAY_MIEN_CT sẽ tính MUC_HUONG = 100_
