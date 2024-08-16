@@ -5,7 +5,13 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0814.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408142-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408142-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408142-NasDHSolutions.json)
+## 3.24.0816.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408161-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408161-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408161-NasDHSolutions.json)
+- 🐛: **Chỉnh lỗi**: **_LỖI KHI GỬI XML4750 LÊN CỔNG VÀ XUẤT XML4750_** ![](https://i.imgur.com/EnsOczn.png)
+- ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN/issues/110
+## [v.3.24.0816.0]()
+- 🐛: **Chỉnh lỗi**: **_LỖI KHI GỬI XML4750 LÊN CỔNG VÀ XUẤT XML4750_** ![](https://i.imgur.com/EnsOczn.png)
+- ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN/issues/110
+## [v.3.24.0814.2]()
 - ✨: **Thực hiện**: **_💼 Thực hiện Xuất XML4750 theo Mô tả XML130 - Bổ sung QĐ 4750 ⏳Dự kiến :  2024-08-19_**
 - ✨: **XML01.MA_DOITUONG_KCB** theo mô tả
 - ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN/issues/109
