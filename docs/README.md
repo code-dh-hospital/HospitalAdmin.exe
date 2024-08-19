@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0819.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408190-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408190-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408190-NasDHSolutions.json)
+## 3.24.0819.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408191-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408191-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408191-NasDHSolutions.json)
+- 🐛: **Chỉnh lỗi**: **_XML3 MA_BAC_SI lấy thông tin sai mô tả (đang lấy bác sĩ chỉ định + bác sĩ trả kết quả)_**
+- 🐛: XML03.MA_BAC_SI: sai khi các dịch vụ có thực hiện PT,TT ![](https://i.imgur.com/yUFHB8P.png)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/609
+## [v.3.24.0819.0]()
 - 🐛: **Chỉnh lỗi**: **_Lỗi XML3 không lấy được NGAY_TH_YL khi mã nhóm CLS CĐHA = 18 (thủ thuật)_**
 - 🐛: XML03.NGAY_TH_YL: lấy sai khi nhóm 8,18 ![](https://i.imgur.com/eRP7uXy.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/607
