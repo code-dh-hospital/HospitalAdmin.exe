@@ -5,7 +5,17 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0821.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408210-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408210-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408210-NasDHSolutions.json)
+## 3.24.0821.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408211-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408211-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408211-NasDHSolutions.json)
+- 🐛: **Chỉnh lỗi**: **_Lỗi - XUẤT XML 4750 THIẾU T_BNTT CỦA VTYT_**
+- ✨: Đối với VTYT (không thuộc stent): TYLE_TT_DV=100, TYLE_TT_BH =100
+- XML03.DON_GIA_BH = nếu pshdxn.giabhyt > 0 lấy pshdxn.giabhyt ngược lại pshdxn.dongia
+- XML03.DON_GIA_BV = pshdxn.dongia, 
+- Trường hợp sử dụng chức năng (option) DON_GIA_BV là DON_GIA_BH (XML03.DON_GIA_BV = XML03.DON_GIA_BH)
+- ✨: Đối với THUỐC (không thuộc stent): TYLE_TT_DV=100, TYLE_TT_BH =100
+- XML02.DON_GIA = nếu pshdxn.giabhyt > 0 lấy pshdxn.giabhyt ngược lại pshdxn.dongia, 
+- ![](https://i.imgur.com/Rc8shLM.png) ![](https://i.imgur.com/wVMqN63.png)
+- ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/90
+## [v.3.24.0821.0]()
 - 🐛: **Chỉnh lỗi**: **_Yêu cầu hỗ trợ thay đổi cách ghi nhận dữ liệu bệnh nhân nhận thuốc lao theo hẹn khi đăng ký KCB và điều kiện lấy mã đối tượng KCB 7.1 (Lĩnh thuốc không khám bệnh)_**
 - 🐛: XML01.MA_DOITUONG_KCB lấy sai điều kiện 7.1 ![](https://i.imgur.com/hHMPD3g.png)
 - ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN/issues/105
