@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0823.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408230-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408230-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408230-NasDHSolutions.json)
+## 3.24.0823.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408231-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408231-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408231-NasDHSolutions.json)
+- ✨: **💼**: **_Yêu cầu - BỆNH NHÂN ĐIỀU TRỊ OPC CHƯA LẤY ĐÚNG XML1.MA_DOITUONG_KCB_**
+- ✨: Thực hiện XML01.MA_DOITUONG_KCB: theo mô tả [Table xml130.bang01](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML130/QD4570/Table%20xml130.bang01%20-%20%5BPh%E1%BB%A5%20l%E1%BB%A5c%20-%20M%C3%B4%20t%E1%BA%A3%20XML130%20-%20B%E1%BB%95%20sung%20Q%C4%90%204750%5D.md) ![](https://i.imgur.com/TK2eONV.png) 
+- ![](https://i.imgur.com/TinUOhF.png)
+- ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/266
+## [v.3.24.0823.0]()
 - ✨: **Thực hiện**: **_Yêu cầu - Bổ sung tham số cho phép người dùng tự cập nhật nội dung XML1.pp_dieu_tri đối với bệnh nhân khám ngoại trú/toa xuất viện_**
 - ✨: Hỗ trợ cấu trúc thêm option chọn XML01.PP_DIEU_TRI đối với Ngoại trú, Toa xuất viện ![](https://i.imgur.com/YKtd4K4.png) ![](https://i.imgur.com/NjTbBOi.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/621
