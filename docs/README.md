@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0822.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408222-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408222-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408222-NasDHSolutions.json)
+## 3.24.0823.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408230-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408230-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408230-NasDHSolutions.json)
+- ✨: **Thực hiện**: **_Yêu cầu - Bổ sung tham số cho phép người dùng tự cập nhật nội dung XML1.pp_dieu_tri đối với bệnh nhân khám ngoại trú/toa xuất viện_**
+- ✨: Hỗ trợ cấu trúc thêm option chọn XML01.PP_DIEU_TRI đối với Ngoại trú, Toa xuất viện ![](https://i.imgur.com/YKtd4K4.png) ![](https://i.imgur.com/NjTbBOi.png)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/621
+## [v.3.24.0822.2]()
 - ✨: **Thực hiện**: **_Yêu cầu - ĐIỀU CHỈNH CÁCH LẤY XML13.TEN_DV_**
 - ✨: XML13.TEN_DICH_VU: Xử lý loại bỏ trùng ![](https://i.imgur.com/ZzKJTPO.png)
 - ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/267
