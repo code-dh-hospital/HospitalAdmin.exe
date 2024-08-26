@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0823.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408231-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408231-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408231-NasDHSolutions.json)
+## 3.24.0826.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408260-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408260-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408260-NasDHSolutions.json)
+- ✨: **💼**: **_Yêu cầu - Bổ sung thêm chức năng lưu Loại bênh nhân 4750_**
+- ✨:XML06.MA_LOAI_BN lấy theo loaibenhnhan4750 trong fhi_dieutriarv nếu khác rỗng, ngược lại lấy theo cách hiện tại
+- ![](https://i.imgur.com/AspaKbC.png)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/595
+## [v.3.24.0823.1]()
 - ✨: **💼**: **_Yêu cầu - BỆNH NHÂN ĐIỀU TRỊ OPC CHƯA LẤY ĐÚNG XML1.MA_DOITUONG_KCB_**
 - ✨: Thực hiện XML01.MA_DOITUONG_KCB: theo mô tả [Table xml130.bang01](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML130/QD4570/Table%20xml130.bang01%20-%20%5BPh%E1%BB%A5%20l%E1%BB%A5c%20-%20M%C3%B4%20t%E1%BA%A3%20XML130%20-%20B%E1%BB%95%20sung%20Q%C4%90%204750%5D.md) ![](https://i.imgur.com/TK2eONV.png) 
 - ![](https://i.imgur.com/TinUOhF.png)
