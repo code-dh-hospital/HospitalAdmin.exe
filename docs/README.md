@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0829.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408292-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408292-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408292-NasDHSolutions.json)
+## 3.24.0829.3 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408293-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408293-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408293-NasDHSolutions.json)
+- 🐛: **💼**: **_Module admin không hoạt động được khi thực hiện gửi xml 4750_**
+- 🐛: Bỏ thông báo lỗi khi gửi nhiều hồ sơ
+- ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN/issues/116
+## [v.3.24.0829.2]()
 - ✨: **💼**: **_Yêu cầu - Module Reports bổ sung form xuất XML130 (theo Quyết định 4750) và Mẫu C79 (được lấy từ dữ liệu XML4750)._**
 - ✨: Bổ sung chức năng kiểm tra thiếu hồ sơ so với C79-HD![](https://i.imgur.com/GBIaQMZ.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/577
