@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0827.4 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408274-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408274-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408274-NasDHSolutions.json)
+## 3.24.0829.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408290-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408290-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408290-NasDHSolutions.json)
+- 🐛: **💼**: **_Lỗi - XML2 LẤY SỐ LƯỢNG CẤN TRỪ THUỐC TRẢ SAI THEO MÃ THẺ_**
+- 🐛: XML02,03 cấn trừ thuốc sai số lượng theo mức hưởng ![](https://i.imgur.com/Sa7ypak.png)
+- ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/92
+## [v.3.24.0827.4]()
 - ✨: **💼**: **_Hỗ trợ khách hàng - Chức năng chọn nhiều mã liên kết từ Cổng GĐBHYT trả về_**
 - ✨: Thêm chức năng cho phép load danh sách bệnh nhân từ tập tin Excel (từ cổng GĐ trả về). Điều kiện là trong tệp Excel phải có cột `ma_lk` hoặc `Mã liên kết` hoặc `malk`
 - ![](https://i.imgur.com/zLL6uMI.png) ![](https://i.imgur.com/iKyBWo9.png) ![](https://i.imgur.com/oicGBLN.png)
