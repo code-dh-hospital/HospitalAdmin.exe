@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0829.3 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408293-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408293-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408293-NasDHSolutions.json)
+## 3.24.0829.4 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408294-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408294-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408294-NasDHSolutions.json)
+- ✨: **💼**: **_Yêu cầu - Hỗ trợ trường hợp lỗi báo từ cổng BHXH Ngày Thực hiện y lệnh không hợp lệ_**
+- Thêm chức năng cấu hình ![](https://i.imgur.com/98ifU0F.png) ![](https://i.imgur.com/o3teEcA.png)
+- ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/275
+## [v.3.24.0829.3]()
 - 🐛: **💼**: **_Module admin không hoạt động được khi thực hiện gửi xml 4750_**
 - 🐛: Bỏ thông báo lỗi khi gửi nhiều hồ sơ
 - ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN/issues/116
