@@ -5,7 +5,13 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0830.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408301-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408301-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408301-NasDHSolutions.json)
+## 3.24.0830.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408302-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408302-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408302-NasDHSolutions.json)
+- ✨: **💼**: **_Yêu cầu - Module Reports bổ sung form xuất XML130 (theo Quyết định 4750) và Mẫu C79 (được lấy từ dữ liệu XML4750)._**
+- ✨: Bổ sung chức năng kiểm tra thiếu hồ sơ, sai chi phí XML4750 và XML4210
+- ✨: Xem XML4750 giống phân hệ Reports
+- ![](https://i.imgur.com/5bkiE5w.png)![](https://i.imgur.com/eS7uh4L.png) ![](https://www.youtube.com/watch?v=UREWiotZZZw)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/577
+## [v.3.24.0830.1]()
 - ✨: **💼**: **_Yêu cầu - Module Reports bổ sung form xuất XML130 (theo Quyết định 4750) và Mẫu C79 (được lấy từ dữ liệu XML4750)._**
 - ✨: Bổ sung chức năng kiểm tra thiếu hồ sơ, sai chi phí XML4750 và XML4210
 - ✨: Xem XML4750 giống phân hệ Reports
