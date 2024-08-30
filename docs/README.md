@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0830.3 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408303-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408303-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408303-NasDHSolutions.json)
+## 3.24.0830.4 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408304-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408304-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408304-NasDHSolutions.json)
+- ✨: **💼**: **_Yêu cầu - Hỗ trợ XML1 mã loại KCB = 02_**
+- ✨: Thêm cấu hình để lựa chọn NGAY_RA theo QĐ4750 hoặc theo ngày in phiếu ![](https://i.imgur.com/8WzOVwC.png)![](https://i.imgur.com/kmTDmJp.png)
+- ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/277
+## [v.3.24.0830.3]()
 - ✨: **💼**: **_Yêu cầu - Module Reports bổ sung form xuất XML130 (theo Quyết định 4750) và Mẫu C79 (được lấy từ dữ liệu XML4750)._**
 - ✨: Bổ sung chức năng kiểm tra thiếu hồ sơ, sai chi phí XML4750 và XML4210
 - ✨: Xem XML4750 giống phân hệ Reports
