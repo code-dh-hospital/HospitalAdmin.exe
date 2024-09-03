@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0830.4 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408304-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408304-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32408304-NasDHSolutions.json)
+## 3.24.0903.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409030-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409030-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409030-NasDHSolutions.json)
+- 🐛: **💼**: **_XML13: TOMTAT_KQ không load dữ liệu_**
+- 🐛:XML13.TOMTAT_KQ không lấy được dữ liệu ![](https://i.imgur.com/tDtuPN9.png)
+- ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN/issues/120
+## [v.3.24.0830.4]()
 - ✨: **💼**: **_Yêu cầu - Hỗ trợ XML1 mã loại KCB = 02_**
 - ✨: Thêm cấu hình để lựa chọn NGAY_RA theo QĐ4750 hoặc theo ngày in phiếu ![](https://i.imgur.com/8WzOVwC.png)![](https://i.imgur.com/kmTDmJp.png)
 - ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/277
