@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0904.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409041-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409041-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409041-NasDHSolutions.json)
+## 3.24.0904.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409042-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409042-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409042-NasDHSolutions.json)
+- 🐛: **💼**: **_Yêu cầu - Cập nhật mô tả cột pp_dieutri của XML13 theo cấu hình trên Admin_**
+- 🐛: XML07.PP_DIEU_TRI lấy theo XML01 ![](https://i.imgur.com/iPQdv5s.png)
+- ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/279
+## [v.3.24.0904.1]()
 - 🐛: **💼**: **_Yêu cầu - Cập nhật mô tả cột pp_dieutri của XML13 theo cấu hình trên Admin_**
 - 🐛: XML01.PP_DIEU_TRI, PP_DIEUTRI lấy theo XML01 ![](https://i.imgur.com/rlz2Pa0.png)
 - ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/279
