@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0904.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409042-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409042-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409042-NasDHSolutions.json)
+## 3.24.0909.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409090-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409090-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409090-NasDHSolutions.json)
+- ✨: Đổi màu tab XML đang chọn ![](https://i.imgur.com/xI6Iny8.png)
+- ✨: **💼**: **_💼 DLL - Thực hiện không lưu hồ sơ XML130 khi chi phí bằng 0 ⏳Dự kiến :  2024-09-13_**
+- ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN/issues/124
+## [v.3.24.0904.2]()
 - 🐛: **💼**: **_Yêu cầu - Cập nhật mô tả cột pp_dieutri của XML13 theo cấu hình trên Admin_**
 - 🐛: XML07.PP_DIEU_TRI lấy theo XML01 ![](https://i.imgur.com/iPQdv5s.png)
 - ☑: https://github.com/dh-hos/Yeu_cau_ho_tro/issues/279
