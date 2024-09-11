@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0911.3 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409113-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409113-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409113-NasDHSolutions.json)
+## 3.24.0911.4 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409114-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409114-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409114-NasDHSolutions.json)
+- ✨: **💼**: **_Lỗi - XML9 cột NGAY_SINH_NND nếu để năm sinh +0000 khi bệnh nhân chỉ có năm sinh gởi cổng báo lỗi_**
+- ✨: **XML09.NGAYSINH_NND** xử lý nếu **0000**, thì thay đổi thành **0101** ![](https://i.imgur.com/hdxiWLE.png)
+- ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/96
+## [v.3.24.0911.3]()
 - 🐛: **💼**: **_Lỗi - VTYT lấy sai DON_GIA_BV trên XML03 Trường hợp sử dụng chức năng (option) DON_GIA_BV là DON_GIA_BH_**
 - 🐛: Xử lý DON_GIA_BV theo cấu hình trên Admin ![](https://i.imgur.com/wca7ckz.png)
 - ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/94
