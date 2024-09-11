@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0911.4 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409114-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409114-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409114-NasDHSolutions.json)
+## 3.24.0911.5 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409115-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409115-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409115-NasDHSolutions.json)
+- 🐛: **💼**: **_Bệnh nhân nội trú có thanh toán chi phí ngoại trú XML4750 admin không load được hs ngoại trú_**
+- 🐛:Fix lỗi load thiếu hồ sơ ngoại trú (khi có bệnh án nội trú ) ![](https://i.imgur.com/ILGskmX.png)
+- ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN/issues/126
+## [v.3.24.0911.4]()
 - ✨: **💼**: **_Lỗi - XML9 cột NGAY_SINH_NND nếu để năm sinh +0000 khi bệnh nhân chỉ có năm sinh gởi cổng báo lỗi_**
 - ✨: **XML09.NGAYSINH_NND** xử lý nếu **0000**, thì thay đổi thành **0101** ![](https://i.imgur.com/hdxiWLE.png)
 - ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/96
