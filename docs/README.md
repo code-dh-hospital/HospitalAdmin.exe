@@ -5,7 +5,15 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0912.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409120-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409120-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409120-NasDHSolutions.json)
+## 3.24.0912.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409121-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409121-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409121-NasDHSolutions.json)
+- ✨: Thực hiện Mo-ta-he-thong/XML130/QD4570/ma_loai_kcb.md ![](https://i.imgur.com/tqOYdLS.png)
+- ✨: **XML01.MA_LOAI_KCB** = 07 khi psdangky.trangthaichuyentuyen IN (5,6)
+- ✨: Thực hiện Mo-ta-he-thong/XML130/QD4570/ma_doituong_kcb.md ![](https://i.imgur.com/1Rzz1jh.png)
+- ✨: **XML01.MA_DOITUONG_KCB**
+- ✨: ![](https://i.imgur.com/eVvUwns.png)
+- ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN/issues/127
+- ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN/issues/130
+## [v.3.24.0912.0]()
 - ✨: **💼**: **_💼 Admin - Thực hiện xóa hồ sơ XML4750 khi thực hiện trả về điều trị BA Nội trú⏳Dự kiến : 2024-09-12_**
 - ✨: Xóa hồ sơ XML4750 khi trả về điều trị BA Nội trú ![](https://i.imgur.com/bzNTtj7.png)![](https://i.imgur.com/X1BO3hk.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/645
