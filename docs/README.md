@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0911.6 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409116-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409116-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409116-NasDHSolutions.json)
+## 3.24.0912.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409120-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409120-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409120-NasDHSolutions.json)
+- ✨: **💼**: **_💼 Admin - Thực hiện xóa hồ sơ XML4750 khi thực hiện trả về điều trị BA Nội trú⏳Dự kiến : 2024-09-12_**
+- ✨: Xóa hồ sơ XML4750 khi trả về điều trị BA Nội trú ![](https://i.imgur.com/bzNTtj7.png)![](https://i.imgur.com/X1BO3hk.png)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/645
+## [v.3.24.0911.6]()
 - 🐛: Lỗi - XML13 thông tin TEN_THUOC bị trùng tên thuốc (1 thuốc bị lập lại nhiều lần) ![](https://i.imgur.com/oj9W0ZL.png)
 - ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/95
 ## [v.3.24.0911.5]()
