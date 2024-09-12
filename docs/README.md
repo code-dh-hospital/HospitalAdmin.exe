@@ -5,7 +5,13 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0912.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409121-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409121-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409121-NasDHSolutions.json)
+## 3.24.0912.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409122-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409122-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409122-NasDHSolutions.json)
+- ✨: **💼**: **_Yêu cầu - Hỗ trợ admin loại bỏ hồ sơ trùng_**
+- ✨: Thêm chức năng kiểm tra trùng lặp khi bắt đầu lấy dữ liệu. Nếu có trùng MA_LK sẽ hỏi có xử lý xóa trùng hay không?
+- ✨: **Xử lý xóa trùng lặp theo nguyên tắt sau: ưu tiên giữ lại dòng có trường daguibhxh lớn hơn, rồi đến ngay_ttoan lớn hơn**
+- ![](https://i.imgur.com/FkeiMDa.png)![](https://i.imgur.com/AIGNQJC.png)![](https://i.imgur.com/po3VM8B.png)![](https://i.imgur.com/cFxyZ0A.png)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/644
+## [v.3.24.0912.1]()
 - ✨: Thực hiện Mo-ta-he-thong/XML130/QD4570/ma_loai_kcb.md ![](https://i.imgur.com/tqOYdLS.png)
 - ✨: **XML01.MA_LOAI_KCB** = 07 khi psdangky.trangthaichuyentuyen IN (5,6)
 - ✨: Thực hiện Mo-ta-he-thong/XML130/QD4570/ma_doituong_kcb.md ![](https://i.imgur.com/1Rzz1jh.png)
