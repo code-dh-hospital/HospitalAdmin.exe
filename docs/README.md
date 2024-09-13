@@ -5,7 +5,10 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0912.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409122-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409122-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409122-NasDHSolutions.json)
+## 3.24.0913.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409130-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409130-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409130-NasDHSolutions.json)
+- ✨: **💼**: **_Thực hiện lưu lại XML4750 khi thực hiện thay đổi tháng ra viện ⏳Dự kiến : 2024-09-11_**
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/634
+## [v.3.24.0912.2]()
 - ✨: **💼**: **_Yêu cầu - Hỗ trợ admin loại bỏ hồ sơ trùng_**
 - ✨: Thêm chức năng kiểm tra trùng lặp khi bắt đầu lấy dữ liệu. Nếu có trùng MA_LK sẽ hỏi có xử lý xóa trùng hay không?
 - ✨: **Xử lý xóa trùng lặp theo nguyên tắt sau: ưu tiên giữ lại dòng có trường daguibhxh lớn hơn, rồi đến ngay_ttoan lớn hơn**
