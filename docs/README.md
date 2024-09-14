@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0913.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409130-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409130-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409130-NasDHSolutions.json)
+## 3.24.0914.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409140-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409140-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409140-NasDHSolutions.json)
+- 🐛: **💼**: **_XML 4750 Bệnh nhân lao (BANT ngày) lấy sai mã đối tượng (BV Quảng ngãi)_**
+- 🐛: Thực hiện: Mo-ta-he-thong/XML130/QD4570/ma_doituong_kcb.md ![](https://i.imgur.com/YyOLxCN.png)
+- 🐛: **XML01.MA_DOITUONG_KCB** ![](https://i.imgur.com/MNeWvLS.png)
+- ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN/issues/127
+## [v.3.24.0913.0]()
 - ✨: **💼**: **_Thực hiện lưu lại XML4750 khi thực hiện thay đổi tháng ra viện ⏳Dự kiến : 2024-09-11_**
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/634
 ## [v.3.24.0912.2]()
