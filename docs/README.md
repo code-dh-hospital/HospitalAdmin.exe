@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0918.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409180-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409180-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409180-NasDHSolutions.json)
+## 3.24.0918.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409181-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409181-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409181-NasDHSolutions.json)
+- ✨: **💼**: **_Yêu cầu hỗ trợ trường hợp 1 bệnh nhân có dữ liệu XML trong 2 tháng gây lệch số hồ sơ Admin_**
+- ✨: ***Xử lý trùng ma_lk trong current.psxml*** _Thực hiện loại bỏ các hồ sơ bị trùng, **Đồng thời** cập nhật lại giá trị ma_lk, ngay_ttoan, thang_qt, nam_qt trường hợp trùng (các giá trị này được lấy chi tiết từ psdangky và bnnoitru dựa vào loaihosokcb)_ 
+- ✨: Việc kiểm tra trùng này trong chức năng ***[Lấy dữ liệu]*** trên form ![](https://i.imgur.com/vXVq6SD.png)
+- ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN/issues/131
+## [v.3.24.0918.0]()
 - 🐛: **💼**: **_Hỗ trợ khách hàng - Không cập nhật được XML4750_**
 - 🐛: Chỉnh năng lưu lại XML4750 mới, không xóa được thông tin các XML cũ trước đó.
 - ![](https://i.imgur.com/80JsJBI.png) ![](https://i.imgur.com/RH0z4TX.png) ![](https://i.imgur.com/0Hfyv5R.png)
