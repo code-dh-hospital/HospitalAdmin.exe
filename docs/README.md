@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0921.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409210-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409210-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409210-NasDHSolutions.json)
+## 3.24.0921.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409211-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409211-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409211-NasDHSolutions.json)
+- 🐛: **💼**: **_Admin thống kê XML bệnh nhân tháng cũ khi chọn ngày thống kê có ngày của tháng cũ (ngày cuối tháng cũ trùng ngày đầu tháng mới)_**
+- 🐛: Lấy danh sách hồ theo theo THANG_QT, NAM_QT trên Form quản lý hồ sơ 4750 ![](https://i.imgur.com/hN7DGwT.png)
+- 🐛: Chỉnh lỗi không tạo được ngày giờ kết thúc của tháng cũ, và ngày giờ bắt đầu của tháng mới ![](https://i.imgur.com/ulTI8Ok.png)
+- ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN/issues/133
+## [v.3.24.0921.0]()
 - ✨: **💼**: **_Hỗ trợ khách hàng - Yêu cầu có chức năng chỉ xuất XML hồ sơ_**
 - ✨: Bổ sung chức năng chỉ xuất XML4750 (không xuất XML check in), sử dụng khi đã sử dụng Services để gửi checkin 
 - ![](https://i.imgur.com/58udEc1.png) ![](https://i.imgur.com/HZumWEN.png) ![](https://i.imgur.com/sczh8gL.png)
