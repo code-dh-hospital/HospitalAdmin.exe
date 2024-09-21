@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0919.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409191-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409191-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409191-NasDHSolutions.json)
+## 3.24.0921.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409210-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409210-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409210-NasDHSolutions.json)
+- ✨: **💼**: **_Hỗ trợ khách hàng - Yêu cầu có chức năng chỉ xuất XML hồ sơ_**
+- ✨: Bổ sung chức năng chỉ xuất XML4750 (không xuất XML check in), sử dụng khi đã sử dụng Services để gửi checkin 
+- ![](https://i.imgur.com/58udEc1.png) ![](https://i.imgur.com/HZumWEN.png) ![](https://i.imgur.com/sczh8gL.png)
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/101
+## [v.3.24.0919.1]()
 - ✨: **💼**: **_Yêu cầu hỗ trợ trường hợp 1 bệnh nhân có dữ liệu XML trong 2 tháng gây lệch số hồ sơ Admin_**
 - ✨:***Chỉnh lỗi trùng hồ sơ khi lấy dữ liệu trên Form xuất 4750 (chức năng kiểm tra thiếu hồ sơ nội trú)*** ![](https://i.imgur.com/Ip8ejcB.gif)
 - ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN/issues/131
