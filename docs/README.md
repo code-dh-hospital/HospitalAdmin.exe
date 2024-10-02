@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0930.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409301-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409301-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32409301-NasDHSolutions.json)
+## 3.24.1002.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410020-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410020-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410020-NasDHSolutions.json)
+- 🐛: **💼**: **_Lỗi - CLS thuộc loại thủ thuật vẫn load vào xml4 4750(bv Ung Bướu)_**
+- 🐛: Loại bỏ những CLS thuộc kho TT, PT ra ngoài danh sách XML04 ![](https://i.imgur.com/yrSEyJW.png)
+- ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/100
+## [v.3.24.0930.1]()
 - ✨: **💼**: **_Yêu cầu - Bổ sung nội dung diễn biến vào XML5.dien_bien_ls đối với xml4750 (BV Châu Thành Đồng Tháp) _**
 - ✨: Thay đổi DIEN_BIEN_LS theo mô tả ![](https://i.imgur.com/e1MAHv7.png)
 - ![](https://i.imgur.com/J4qyYT1.png)
