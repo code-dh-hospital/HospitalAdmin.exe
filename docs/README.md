@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1004.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410040-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410040-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410040-NasDHSolutions.json)
+## 3.24.1004.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410041-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410041-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410041-NasDHSolutions.json)
+- 🐛: **💼**: **_Lỗi - Bệnh nội trú không có nhập thông tin con vẫn có XML9 4750 (bv Ô môn)_**
+- 🐛: Thêm điều kiện lấy chính xác thông tin con, dữ liệu giấy chứng sinh XML09 ![](https://i.imgur.com/unyCqh6.png)
+- ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/102
+## [v.3.24.1004.0]()
 - ✨: **💼**: **_Lỗi - BANT theo ngày khi kết thúc bệnh án thì tạo thêm XML130 có mã bệnh án làm tăng số lượng XML Reports (trùng dữ liệu XML)_**
 - ✨: ***Bổ sung chức năng xóa hồ sơ thừa so với danh sách hồ sơ 4210 trên chức năng kiểm tra chi phí***
 - ![](https://i.imgur.com/diz3Crb.png) ![](https://i.imgur.com/Jvc3xOV.png) ![](https://i.imgur.com/yBv8fyT.png) ![](https://i.imgur.com/dV92tXP.png) ![](https://i.imgur.com/NM5DcTh.png)
