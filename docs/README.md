@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1004.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410042-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410042-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410042-NasDHSolutions.json)
+## 3.24.1004.3 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410043-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410043-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410043-NasDHSolutions.json)
+- 🐛: **💼**: **_Lỗi - Report XML130 bảng 2 double số lượng thuốc_**
+- 🐛: Chỉnh lỗi XML4750.bang3 bị tăng số lượng CLS và VTYT. ![](https://i.imgur.com/X06MDoL.png)
+- Lưu ý: nếu cập nhật bản mới vẫn còn, thì vào chức năng ***`Kiểm tra chi chí lại`***
+- ☑: https://github.com/dh-hos/dhg.hospitalreports/issues/135
+## [v.3.24.1004.2]()
 - 🐛: **💼**: **_Lỗi - Report XML130 bảng 2 double số lượng thuốc_**
 - 🐛: Chỉnh lỗi XML4750.bang2 bị tăng số lượng thuốc. ![](https://i.imgur.com/QgoL17P.png)
 - Lưu ý: nếu cập nhật bản mới vẫn còn, thì vào chức năng ***`Kiểm tra chi chí lại`***
