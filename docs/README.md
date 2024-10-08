@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1004.4 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410044-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410044-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410044-NasDHSolutions.json)
+## 3.24.1008.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410080-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410080-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410080-NasDHSolutions.json)
+- 🐛: **💼**: **_Lỗi - Admin, Report XM3 4750 không lấy được mã DỊCH VỤ khi cho Vật tư kèm theo**
+- 🐛: ***Chỉnh lỗi: XML03.MA_DICH_VU, XML03.TEN_DICH_VU thiếu đối với những VTYT đánh theo CLS,DV*** ![](https://i.imgur.com/SkH5ZCH.png)
+- ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/103
+## [v.3.24.1004.4]()
 - 🐛: **💼**: **_Lỗi - Report XML130 bảng 2 double số lượng thuốc_**
 - 🐛: Chỉnh lỗi XML4750.bang2,3 bị tăng số lượng thuốc. ![](https://i.imgur.com/QgoL17P.png)
 - ✨: ***Bổ sung chức năng xóa Hồ sơ XML4750 thừa (không nằm trong danh sách của 4210, chỉ áp dụng khi chọn Combo `Tất cả`, và không tìm theo Mã bệnh nhân, và chọn tất cả đối tượng )***
