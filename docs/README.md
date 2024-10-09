@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1009.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410090-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410090-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410090-NasDHSolutions.json)
+## 3.24.1009.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410091-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410091-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410091-NasDHSolutions.json)
+- ✨: **💼**: **_💼 Admin - Thực hiện - Mô tả ICD10 theo QĐ 4469 - BYT -⏳Dự kiến :  2024-10-09_**
+- ✨: ***Thêm chức năng chỉnh ICD loại trừ theo QDD4469 BYT*** ![](https://i.imgur.com/YecaNVk.png)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/676
+## [v.3.24.1009.0]()
 - ✨: **💼**: **_Mô tả và thực hiện hỗ trợ gởi bệnh nhân BANT thanh toán ngày XML1.ma_loai_kcb_**
 - ✨: Thực hiện theo mô tả tham số ***`ma_loai_kcb.ba_ngoai_ngay`*** ![](https://i.imgur.com/FuxGUHO.png) ![](https://i.imgur.com/24t6x0q.png)
 - ☑: https://github.com/dh-hos/To_Trien_Khai/issues/84
