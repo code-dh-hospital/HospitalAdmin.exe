@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1015.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410152-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410152-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410152-NasDHSolutions.json)
+## 3.24.1015.3 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410153-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410153-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410153-NasDHSolutions.json)
+- ✨: **💼**: **_Yêu cầu - Hỗ trợ xuất dữ liệu XML4750 và Mẫu 79/80 đối với bệnh nhân điều trị nội trú ban ngày ma_loai_kcb = 04 (BV YHCT)_**
+- ✨: ***Hỗ trợ `ma_loai_kcb` theo mô tả*** ![](https://i.imgur.com/wMyG7C0.png)
+- ✨: Mô tả [ma_loai_kcb](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML130/QD4570/ma_loai_kcb.md)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/701
+## [v.3.24.1015.2]()
 - ✨: Thực hiện [Mô tả Người nuôi dưỡng cho thông tin con](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML130/QD4570/M%C3%B4%20t%E1%BA%A3%20Ng%C6%B0%E1%BB%9Di%20nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20cho%20th%C3%B4ng%20tin%20con.md).
 - 🐛: Xuất XML09 theo mô tả trên ![](https://i.imgur.com/BFEmLM2.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/697
