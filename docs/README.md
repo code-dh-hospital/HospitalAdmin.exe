@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1015.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410151-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410151-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410151-NasDHSolutions.json)
+## 3.24.1015.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410152-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410152-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410152-NasDHSolutions.json)
+- ✨: Thực hiện [Mô tả Người nuôi dưỡng cho thông tin con](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML130/QD4570/M%C3%B4%20t%E1%BA%A3%20Ng%C6%B0%E1%BB%9Di%20nu%C3%B4i%20d%C6%B0%E1%BB%A1ng%20cho%20th%C3%B4ng%20tin%20con.md).
+- 🐛: Xuất XML09 theo mô tả trên ![](https://i.imgur.com/BFEmLM2.png)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/697
+## [v.3.24.1015.1]()
 - ✨: **💼**: **_Yêu cầu - Cập nhật tháng quyết toán (BV Thốt Nốt)_**
 - ✨: ***Chỉnh lỗi không cập nhật được các hồ sơ bị thiếu (Có trên 4210 mà không có trong 4750)*** ![](https://i.imgur.com/qwyaAGG.gif)
 - ✨: Tính những hồ sơ hợp lệ không so sánh tiền `t_bncct`, Cập nhật lại mô tả [kiem-tra-4210-130.md](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML130/QD4570/kiem-tra-4210-130.md)
