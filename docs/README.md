@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1012.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410121-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410121-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410121-NasDHSolutions.json)
+## 3.24.1015.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410150-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410150-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410150-NasDHSolutions.json)
+- ✨: **💼**: **_Yêu cầu - XỬ LÝ CÁC HỒ SƠ SAI \"NGOAI_TRU_XUAT_VIEN\"_**
+- ✨: ***Chỉnh lỗi không cập nhật được hồ sơ BANT sai (không khớp giữa 4210 và 4750)*** ![](https://i.imgur.com/DDvhL01.png) ![](https://i.imgur.com/zDXkLFq.png) ![](https://i.imgur.com/Yi8Bty7.png)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/704
+## [v.3.24.1012.1]()
 - ✨: **💼**: **_Yêu cầu - Bổ sung và điều chỉnh chức năng Kiểm tra chi phí so với XML130_**
 - ✨: ***Xử lý ghi nhận số lượng hồ sơ xảy ra lỗi trong quá trình cập nhật, tránh tình trạng phải thực hiện lại những hồ sơ đã cập nhật thành công.***
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/698
