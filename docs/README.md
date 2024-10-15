@@ -5,7 +5,13 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1015.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410150-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410150-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410150-NasDHSolutions.json)
+## 3.24.1015.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410151-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410151-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410151-NasDHSolutions.json)
+- ✨: **💼**: **_Yêu cầu - Cập nhật tháng quyết toán (BV Thốt Nốt)_**
+- ✨: ***Chỉnh lỗi không cập nhật được các hồ sơ bị thiếu (Có trên 4210 mà không có trong 4750)*** ![](https://i.imgur.com/qwyaAGG.gif)
+- ✨: Tính những hồ sơ hợp lệ không so sánh tiền `t_bncct`, Cập nhật lại mô tả [kiem-tra-4210-130.md](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML130/QD4570/kiem-tra-4210-130.md)
+- ✨: Cập nhật lại ngày 02/10/2024 ![](https://i.imgur.com/cJAb0vQ.png) ![](https://i.imgur.com/FrJDosQ.png)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/683 
+## [v.3.24.1015.0]()
 - ✨: **💼**: **_Yêu cầu - XỬ LÝ CÁC HỒ SƠ SAI \"NGOAI_TRU_XUAT_VIEN\"_**
 - ✨: ***Chỉnh lỗi không cập nhật được hồ sơ BANT sai (không khớp giữa 4210 và 4750)*** ![](https://i.imgur.com/DDvhL01.png) ![](https://i.imgur.com/zDXkLFq.png) ![](https://i.imgur.com/Yi8Bty7.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/704
