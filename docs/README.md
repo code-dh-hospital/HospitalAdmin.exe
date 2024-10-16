@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1016.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410160-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410160-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410160-NasDHSolutions.json)
+## 3.24.1016.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410161-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410161-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410161-NasDHSolutions.json)
+- 🐛: **💼**: **_Lỗi - CHỨC NĂNG KIỂM TRA CẬP NHẬT CHI PHÍ 4210 CẬP NHẬT THIẾU HỒ SƠ NGOẠI TRÚ_**
+- 🐛: Chỉnh lỗi khi thực hiện thao tác Đối soát hồ sơ ![](https://i.imgur.com/OpDeZn9.png) ![](https://i.imgur.com/TbFcgdH.png)
+- ☑: https://github.com/dh-hos/dhg.hospitalreports/issues/141
+## [v.3.24.1016.0]()
 - 🐛: **💼**: **_Yêu cầu - Hỗ trợ xuất dữ liệu XML4750 và Mẫu 79/80 đối với bệnh nhân điều trị nội trú ban ngày ma_loai_kcb = 04 (BV YHCT)_**
 - 🐛: ***Chỉnh lỗi thiếu XML08 khi xuất ma_loai_kcb=04*** ![](https://i.imgur.com/4WLomgU.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/701
