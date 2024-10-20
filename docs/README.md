@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1020.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410200-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410200-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410200-NasDHSolutions.json)
+## 3.24.1020.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410201-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410201-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410201-NasDHSolutions.json)
+- ✨: **💼**: **_Lỗi - XML130 vẫn lấy hs không có chi phí thanh toán bhyt (BV Trà Cú)_**
+- ✨: ***Thêm option để tùy chọn loại chi phí BHYT trên bảng kê Hồ sơ 4750*** (`BHYT`: Hồ sơ có `XML01.T_TONGCHI_BH >0`, `Không BHYT`: `XML01.T_TONGCHI_BH <=0`, `Tất cả`: `Lấy tất cả hồ sơ`)
+- ✨: ![](https://i.imgur.com/jfPrrJ5.gif)
+- ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/106
+## [v.3.24.1020.0]()
 - ✨: **💼**: **_💼 Admin - Cải tiến chức năng gửi dữ liệu BHXH thường xuyên bị treo_**
 - ✨: Cải tiến chức năng thông báo, ghi nhận log lỗi vào file nếu gặp tình trạng treo (tệp nowait.log) ![](https://i.imgur.com/7hCxH51.png) ![](https://i.imgur.com/6hJhoVW.gif)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/714
