@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1017.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410171-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410171-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410171-NasDHSolutions.json)
+## 3.24.1020.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410200-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410200-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalAdminexe%2F32410200-NasDHSolutions.json)
+- ✨: **💼**: **_💼 Admin - Cải tiến chức năng gửi dữ liệu BHXH thường xuyên bị treo_**
+- ✨: Cải tiến chức năng thông báo, ghi nhận log lỗi vào file nếu gặp tình trạng treo (tệp nowait.log) ![](https://i.imgur.com/7hCxH51.png) ![](https://i.imgur.com/6hJhoVW.gif)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/714
+## [v.3.24.1017.1]()
 - ✨: **💼**: **_Lỗi - CHỨC NĂNG KIỂM TRA CẬP NHẬT CHI PHÍ 4210 CẬP NHẬT THIẾU HỒ SƠ NGOẠI TRÚ_**
 - ✨: Chỉnh lỗi khi Đối soát hồ sơ đối Nội trú ![](https://i.imgur.com/YHMXGYD.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalreports/issues/141
