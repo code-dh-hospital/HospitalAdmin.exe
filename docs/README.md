@@ -6,6 +6,9 @@
 
 #
 
+## [v.3.24.1026.6]() [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32410266-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32410266-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32410266-NasDHSolutions.json)
+- ✨: srcSections
+
 ## [v.3.24.1026.5]()
 - ✨:     const outputPath = `e:/CLOUDCODE/dh-hos-code/dh-javascript-sources/gitignoreJS/hau-readme/combinedSortedFile.md`;
 
