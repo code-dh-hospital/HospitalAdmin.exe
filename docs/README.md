@@ -6,6 +6,33 @@
 
 #
 
+## [v.3.24.1114.9]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411149-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411149-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411149-NasDHSolutions.json)</sup></sup></sub>
+- ✨:
+
+## [v.3.24.1114.8]()
+- ✨:
+
+## [v.3.24.1114.7]()
+- ✨:
+
+## [v.3.24.1114.6]()
+- ✨:
+
+## [v.3.24.1114.5]()
+- ✨: s
+
+## [v.3.24.1114.4]()
+- ✨:
+
+## [v.3.24.1114.3]()
+- ✨:
+
+## [v.3.24.1114.2]()
+- 🐛: ***Lỗi - BN BHYT load qua tiêu chí Không BHYT***
+- 🐛: Trường hợp hồ sơ đã ghi nhận sai phải dùng chức năng kiểm tra chi phí giữa XML4210 và XML130 mới cập nhật đúng trạng thái của hồ sơ lại.
+- ![](https://i.imgur.com/K9rVM6E.png) ![](https://i.imgur.com/I9txJ9v.png)
+- ☑: https://github.com/dh-his/Ghi_Nhan_Loi/issues/6
+
 ## [v.3.24.1114.1]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411141-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411141-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411141-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: **💼**: **_Lỗi - XML3 không lấy được MA_BENH_YHCT (BV Hồng Ngự)_**
 - 🐛: Chỉnh lỗi thiếu mã YHCT khi xuất XML4750 ![](https://i.imgur.com/QyV1wmb.png)
