@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.24.1118.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411182-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411182-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411182-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Hỗ trợ bảng kê XML4750 lấy theo chi phí để phân loại BHYT, Không BHYT
+- 🐛: Lỗi - XML03.NGAY_TH_YL lớn hơn XML01.NGAY_Ra
+- ☑: https://github.com/dhhiswork/Loi/issues/4
+
 ## [v.3.24.1118.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411181-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411181-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411181-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: ***Lỗi - XML03.NGAY_TH_YL lớn hơn XML01.NGAY_RA***
 - ✨: Thực hiện kiểm tra đối với trường hợp tự động thêm NGAY_TH_YL (gây lỗi), những trường hợp XML03.NGAY_TH_YL > XML01.NGAY_RA, sẽ lấy XML03.NGAY_TH_YL = XML03.NGAY_YL ![](https://i.imgur.com/A2mIzkD.png) ![](https://i.imgur.com/JVx4b4C.png)
