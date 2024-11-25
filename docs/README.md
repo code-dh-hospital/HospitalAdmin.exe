@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.24.1125.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411252-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411252-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411252-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - PK Minh Quang: Hỗ trợ trường hợp thẻ BH của quân đội, công an có mã tỉnh đăng ký thẻ và 2 ký tự đầu mã nơi đăng ký ban đầu khác với 2 ký tự đầu mã BV KCB
+- ✨: Cập nhật chức năng xuất XML4750.MA_DOITUONG_KCB. theo mô tả [ma_doituong_kcb](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/ma_doituong_kcb.md) 
+- ✨: ![](https://i.imgur.com/dplvjO9.png) ![](https://i.imgur.com/fr4UZa4.png) ![](https://i.imgur.com/KmIFZSm.png) ![](https://i.imgur.com/HXrTVv4.png)
+- ☑: https://github.com/dhhiswork/YeuCau/issues/14
+
 ## [v.3.24.1125.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411251-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Chỉnh lỗi tính sai  MIEN_CUNG_CT đối với thẻ BHYT thứ 2 ![](https://i.imgur.com/CdWCyus.png)
 - ☑: https://github.com/dhhiswork/Loi/issues/24
