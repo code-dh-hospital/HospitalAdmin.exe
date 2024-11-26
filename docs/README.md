@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.24.1126.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411260-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Lỗi - XML5_4750 load thiếu thông tin thủ thuật (BV Quảng ngãi)
+- 🐛: Chỉnh lỗi lấy thiếu thông tin phẫu thuật, thủ thuật ![](https://i.imgur.com/pki39Uk.png)
+- ☑: https://github.com/dhhiswork/Loi/issues/41
+
 ## [v.3.24.1125.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411252-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411252-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411252-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - PK Minh Quang: Hỗ trợ trường hợp thẻ BH của quân đội, công an có mã tỉnh đăng ký thẻ và 2 ký tự đầu mã nơi đăng ký ban đầu khác với 2 ký tự đầu mã BV KCB
 - ✨: Cập nhật chức năng xuất XML4750.MA_DOITUONG_KCB. theo mô tả [ma_doituong_kcb](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/ma_doituong_kcb.md) 
