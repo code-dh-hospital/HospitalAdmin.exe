@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.24.1128.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411281-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411281-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411281-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - XML4750 BANT thanh toán ngày có toa thuốc ghi nhận sai mã loại KCB (BV Ô Môn)
+- 🐛: Chỉnh lỗi sai MA_LOAI_KCB khi bệnh nhân có Công khám và VTYT ![](https://i.imgur.com/cF8Ey30.png)
+- ☑: https://github.com/dhhiswork/Loi/issues/50
+
 ## [v.3.24.1128.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411280-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Register, Prescription không nhập được cân nặng với 4 kí tự
 - 🐛: Kiểm tra cân nặng vượt quá 200 thì cảnh báo
