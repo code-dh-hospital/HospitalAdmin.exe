@@ -6,6 +6,21 @@
 
 #
 
+## [v.3.24.1129.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411294-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411294-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411294-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Reports XML4210 và XML4750 MA_BENHKHAC VÀ MA_BENH_KT ghi nhận luôn mã bệnh YHCT (PK Đông Tây) ![](https://i.imgur.com/AbsLJUr.png). 
+- 🐛: Lưu ý: Những hồ sơ đã lưu sai phải dùng chức năng đối soát để cập nhật lại.
+- ☑: https://github.com/dhhiswork/Loi/issues/58
+
+## [v.3.24.1129.3]()
+- 🐛: Lỗi - Reports XML4210 và XML4750 MA_BENHKHAC VÀ MA_BENH_KT ghi nhận luôn mã bệnh YHCT (PK Đông Tây) ![](https://i.imgur.com/AbsLJUr.png). 
+- 🐛: Lưu ý: Những hồ sơ đã lưu sai phải dùng chức năng đối soát để cập nhật lại.
+- ☑: https://github.com/dhhiswork/Loi/issues/58
+
+## [v.3.24.1129.2]()
+- 🐛: Lỗi - Reports XML4210 và XML4750 MA_BENHKHAC VÀ MA_BENH_KT ghi nhận luôn mã bệnh YHCT (PK Đông Tây) ![](https://i.imgur.com/AbsLJUr.png). 
+- 🐛: Lưu ý: Những hồ sơ đã lưu sai phải dùng chức năng đối soát để cập nhật lại.
+- ☑: https://github.com/dhhiswork/Loi/issues/58
+
 ## [v.3.24.1129.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411291-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411291-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411291-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV Số 10: Phần mềm lấy sai XML1.SO_NGAY_DTRI bệnh nhân bệnh án nội trú ban ngày 
 - 🐛: Chỉnh lỗi sai ngày điều trị khi ma_loaikcb=04 ![](https://i.imgur.com/U7KYnpz.png)
