@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.24.1130.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411300-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Cập nhật form Thông Tin CTS
+![](https://i.imgur.com/djVMxH0.png)
+- ☑: https://github.com/dhhiswork/To_lap_trinh/issues/3
+
 ## [v.3.24.1129.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411294-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411294-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411294-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Reports XML4210 và XML4750 MA_BENHKHAC VÀ MA_BENH_KT ghi nhận luôn mã bệnh YHCT (PK Đông Tây) ![](https://i.imgur.com/AbsLJUr.png). 
 - 🐛: Lưu ý: Những hồ sơ đã lưu sai phải dùng chức năng đối soát để cập nhật lại.
