@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.24.1201.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412010-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Thực hiện ký số khi với XML lên cổng (test cổng đào tạo) 
+- ✨: Bổ sung chức năng xuất XML có ký số với đối tác SoftDream ![](https://i.imgur.com/wPeXx1J.png) ![](https://i.imgur.com/Vyt5JOO.png)
+- ✨: Bổ sung chức năng Gửi cổng đào tạo có kèm ký số với đối tác SoftDream ![](https://i.imgur.com/grF8hAj.png)
+- ✨: Thêm cấu hình thông số kết nối với cổng đào tạo. Khi thực hiện các nghiệp vụ có liên quan tới cổng đào tạo sẽ sử dụng những thông tin này. ![](https://i.imgur.com/yM3IxvG.png)
+- ☑: https://github.com/dhhiswork/YeuCau/issues/20
+
 ## [v.3.24.1130.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411301-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411301-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32411301-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung checkbox XML, các module ký XML dựa vào check để lấy chữ ký
 - 🐛: ![](https://i.imgur.com/uvLyTnQ.png)
