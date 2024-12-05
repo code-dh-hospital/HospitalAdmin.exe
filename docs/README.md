@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.24.1205.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412052-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412052-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412052-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Lỗi - chức năng gửi xml4750 (BV Ô Môn)
+- 🐛: Chỉnh lỗi lấy sai thông tin cấu hình khi gửi hồ sơ XML4750
+- ☑: https://github.com/dhhiswork/Loi/issues/69
+
 ## [v.3.24.1205.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412051-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412051-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412051-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Xử lý lỗi NGAY_RA đối với chức năng gửi BN HIV 
 - ✨: Khi xuất XML4750 riêng đối với HIV, trường hợp NGAY_RA rỗng sẽ lấy giá trị `psdangky.ngayinphieu`, nếu rỗng (chưa in phiếu 01) sẽ lấy tại `fhi.fhi_qtdieutri.ngaydt` ![](https://i.imgur.com/QpK53lN.png)
