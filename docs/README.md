@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.24.1205.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412050-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Lỗi - chức năng gửi xml4750 (BV Ô Môn)
+- 🐛: Bổ sung ghi nhận chi tiết lỗi khi gửi Hồ sơ 4750 khi gửi gặp lỗi, chi tiết 
+```
+05/12/2024 08:15:36: AGiamDinhAPIERROR: KHÔNG THỂ LẤY PHIÊN LÀM VIỆC: EMPTY access_token, id_token. Response: . Options: {"username":"92007_BV","passwordHash":"09E4A8C7E1C3B47D40F2B935D0E0BEF5","url":"https://egw.baohiemxahoi.gov.vn","tokenResource":"/api/token/take","hosoXMLResource":"/api/qd130/guiHoSoXmlQD4750","checkInResource":"/api/qd130/checkInKcbQd4750"}
+DebugOTH.exe
+DebugOTH.exe
+1.24.1031.1
+```
+- ☑: https://github.com/dhhiswork/Loi/issues/69
+
 ## [v.3.24.1203.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412032-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412032-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412032-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Thực hiện ký số khi với XML lên cổng (test cổng đào tạo)
 - ✨: Cập nhật code loại bỏ hết namespace attributes theo Yêu cầu của đối tác Ký số ![](https://i.imgur.com/VS2GqiW.png) ![](https://i.imgur.com/3MoKpkR.gif)
