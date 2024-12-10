@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.24.1210.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412100-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - ADMIN 4750 - XML3: PP_VO_CAM Công khám và Xét nghiệm đều lấy mã PP_Vo_Cam=4 ·
+- 🐛: Bỏ cấu hình mặc định PP_VO_CAM=4 nếu không ![](https://i.imgur.com/qV5Z3Tn.png)
+- ☑: https://github.com/dhhiswork/Loi/issues/77
+
 ## [v.3.24.1209.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412090-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Prescription, Treatment bổ sung tham cảnh báo giờ lập phiếu TT/PT cùng ekip ![](https://i.imgur.com/1O4wEGI.png) (***Có cập nhật cấu trúc mới***)
 - ✨: Thực hiện theo [Mô tả Kiểm tra thời gian kết quả HA-CN-TT-PT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/M%C3%B4%20t%E1%BA%A3%20Ki%E1%BB%83m%20tra%20th%E1%BB%9Di%20gian%20k%E1%BA%BFt%20qu%E1%BA%A3%20HA-CN-TT-PT.md)
