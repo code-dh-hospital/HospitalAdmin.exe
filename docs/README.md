@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.24.1217.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412170-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Hiệu chỉnh thông tin chỉnh đối tượng bệnh nhân không lưu được đối tượng cần chỉnh (BV Ung Bướu)
+![](https://i.imgur.com/oq4vzxU.gif)
+- ☑: https://github.com/dhhiswork/Loi/issues/68
+
 ## [v.3.24.1213.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412130-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Hiệu chỉnh thông tin chỉnh đối tượng bệnh nhân không lưu được đối tượng cần chỉnh (BV Ung Bướu)
 - ✨: Trường hợp `psdangky.dain = 1` thông báo đến người dùng không thể thay đổi đối tượng
