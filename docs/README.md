@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.24.1224.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412241-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Mô tả thực hiện QĐ3176-BYT
+- ✨: ***Bổ sung theo [Mô tả thực hiện QĐ3176-BYT](https://github.com/dhhiswork/To_lap_trinh/issues/7)*** 
+![](https://i.imgur.com/vpL3Ju9.png)
+![](https://i.imgur.com/oF5XL2O.png)
+![](https://i.imgur.com/qUfDQ6X.png)
+![](https://i.imgur.com/A9TwVDy.png)
+![](https://i.imgur.com/jf1vb6N.png)
+- ☑: https://github.com/dhhiswork/To_lap_trinh/issues/7
+
 ## [v.3.24.1224.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412240-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Mô tả thực hiện QĐ3176-BYT
 - ✨: ***Bổ sung theo [Mô tả thực hiện QĐ3176-BYT](https://github.com/dhhiswork/To_lap_trinh/issues/7)*** 
