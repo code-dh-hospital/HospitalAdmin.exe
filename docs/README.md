@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.24.1226.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412260-NasDHSolutions.json)</sup></sup></sub>
+- ✨: DUAN - Phân luồng Bệnh Viện Phụ Sản Cần Thơ
+- ✨: Thực hiện Bổ sung danh mục khu vực
+![](https://i.imgur.com/P9DKFtS.png)
+![](https://i.imgur.com/Is4HYVF.png)
+- ☑: https://github.com/dhhiswork/DuAn/issues/7
+
 ## [v.3.24.1224.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412242-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412242-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32412242-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Tích hợp ký số XML lên cổng BHXH theo tài liệu mới từ đối tác SoftDream
 - ![](https://i.imgur.com/8VSMycW.png) ![](https://i.imgur.com/mZz7KGC.png)
