@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0105.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501050-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Admin: danh mục CLSTT37, Tham số hệ Thống, Nhật ký hệ thống (BV Phụ Sản) - (dh-issue/LOI/#21) ![](https://i.imgur.com/qAwyzVW.png)
+- 🐛: Chỉnh lỗi mất giao diện và Menu Hệ thống không có tác dụng khi click vào.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/21
+
 ## [v.3.25.0104.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501041-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - ADMIN 4750: XML3 CỘT NGAY_KQ SAI THỜI GIAN SO VỚI chidinhcls.ngaykq - (dh-issue/LOI/#19) ![](https://i.imgur.com/KyisVS7.png)
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/19
