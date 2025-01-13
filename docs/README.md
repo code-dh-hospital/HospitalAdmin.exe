@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0113.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501131-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Yêu cầu: Register mở chức năng Đăng ký khám Online cho BV ĐKTP Cần Thơ và BV Ô Môn - (dh-issue/YEUCAU/#26)
+- ✨: Mở rộng chức năng cập nhật các chức năng triển khai riêng. ![](https://i.imgur.com/rdSrg7Y.png) ![](https://i.imgur.com/zFZOBRi.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/26
+
 ## [v.3.25.0113.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501130-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Register mở chức năng Đăng ký khám Online cho BV ĐKTP Cần Thơ và BV Ô Môn - (dh-issue/YEUCAU/#26)
 - ✨: Mở rộng chức năng cập nhật các chức năng triển khai riêng. ![](https://i.imgur.com/rdSrg7Y.png)
