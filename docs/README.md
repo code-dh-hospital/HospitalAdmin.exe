@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.25.0114.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501140-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Thêm thông tin Cấp CMKT cho danh mục Bệnh viện và Hỗ trợ Cấp CMKT cho danh mục ICD10
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/20
+
+![](https://i.imgur.com/9F1ltXf.png)
+
+-Thêm Thông tin Cấp CMKT cho danh mục Bệnh viện
+![](https://i.imgur.com/f9huVO4.png)
+
+-Thêm thông tin Hỗ trợ cấp CMKT cho danh mục ICD10
+![](https://i.imgur.com/s0Y3RcI.png)
+
 ## [v.3.25.0113.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501131-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Yêu cầu: Register mở chức năng Đăng ký khám Online cho BV ĐKTP Cần Thơ và BV Ô Môn - (dh-issue/YEUCAU/#26)
