@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0206.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32502060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32502060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32502060-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV Trà Cú: Không xuất được XML 4750 kèm ký số demo và gửi XML 4750 kèm chữ ký số demo (cổng đào tạo) - (dh-issue/LOI/#51)
+- ![](https://i.imgur.com/II6z9C2.png) ![](https://i.imgur.com/UZ78MXu.png) ![](https://i.imgur.com/AaqTEyE.png) ![](https://i.imgur.com/kPRS3TE.png) ![](https://i.imgur.com/NpQr5Vn.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/51
+
 ## [v.3.25.0114.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32501141-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Thêm thông tin Cấp CMKT cho danh mục Bệnh viện và Hỗ trợ Cấp CMKT cho danh mục ICD10 - Chỉnh bố cục form
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/20
