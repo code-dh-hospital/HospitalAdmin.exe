@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0223.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32502230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32502230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32502230-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - xuất Excel cv 3360 mẫu 79/80 - 19, 20, 21 (BV Ung Bướu) - YEUCAU - dh-issue- #61
+- ✨:  ***Thêm option để cấu hình.*** ![](https://i.imgur.com/5jcqYjJ.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/61
+
 ## [v.3.25.0221.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32502210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32502210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32502210-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: LỖI - XML4 - DON_VI_DO: Đơn vị đo % không hiển thị - (dh-issue/LOI/#76)
 - 🐛: ***Chỉnh lỗi mất XML04.DON_VI_DO, những hồ sơ đã ghi nhận sai phải thực hiện đối soát lại.*** ![](https://i.imgur.com/8JNfwKW.png)
