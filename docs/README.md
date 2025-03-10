@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.0310.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503100-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu Cầu - Bổ sung dấu hiệu trên danh mục CLS cho trường hợp CLS gửi đơn vị khác thực hiện
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/84
+
+- Cập nhật script trước khi sử dụng
+
+![](https://i.imgur.com/AxCwSua.gif)
+
 ## [v.3.25.0228.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32502280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32502280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32502280-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ràng buộc số điện thoại bệnh nhân - cập nhật Form chỉnh thông tin ngoại trú - nội trú
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/74
