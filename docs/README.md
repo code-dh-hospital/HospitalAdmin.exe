@@ -6,6 +6,24 @@
 
 #
 
+## [v.3.25.0312.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503123-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503123-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503123-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Lệch tiền XML4750 và Bảng kê 6556 (BV Ung Bướu) #114
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/114
+<<<<<<< HEAD
+
+## [v.3.25.0312.2]()
+- 🐛: Lỗi - Lệch tiền XML4750 và Bảng kê 6556 (BV Ung Bướu) #114
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/114
+
+## [v.3.25.0312.1]()
+- 🐛: Lỗi - Lệch tiền XML4750 và Bảng kê 6556 (BV Ung Bướu) #114
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/114
+
+## [v.3.25.0312.0]()
+- 🐛: Lỗi - Lệch tiền XML4750 và Bảng kê 6556 (BV Ung Bướu) #114
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/114
+=======
+
 ## [v.3.25.0310.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503100-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu Cầu - Bổ sung dấu hiệu trên danh mục CLS cho trường hợp CLS gửi đơn vị khác thực hiện
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/84
