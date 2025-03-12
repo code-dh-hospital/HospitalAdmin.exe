@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0312.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503124-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503124-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503124-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bắt buộc nhập CCCD đối với đối tượng Khám sức khỏe (BV Thanh Bình)
+- Cập nhật theo mô tả:
+![](https://i.imgur.com/fJ9ckLv.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/82
+
 ## [v.3.25.0312.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503123-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503123-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503123-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Lệch tiền XML4750 và Bảng kê 6556 (BV Ung Bướu) #114
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/114
