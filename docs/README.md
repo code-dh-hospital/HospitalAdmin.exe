@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0313.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503134-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503134-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503134-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Chức năng xuất dữ liệu `XML4750` và `XML3176` các chi phí trong và ngoài phạm vi. Theo mô tả: [XML130/Xuat-du-lieu-XML4750-va-XML3176.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Xuat-du-lieu-XML4750-va-XML3176.md)
+![](https://i.imgur.com/LRUbP9v.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/55
+
 ## [v.3.25.0313.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503133-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503133-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503133-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Chức năng xuất dữ liệu `XML4750` và `XML3176` các chi phí trong và ngoài phạm vi. Theo mô tả: [XML130/Xuat-du-lieu-XML4750-va-XML3176.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Xuat-du-lieu-XML4750-va-XML3176.md)
