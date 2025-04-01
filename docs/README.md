@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0401.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32504010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32504010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32504010-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Form Xuất XML4750: Sửa lỗi xuất XML và gửi XML có chi phí ngoài bảo hiểm (pham_vi=2).
+![](https://i.imgur.com/VZ790v6.png)
+![](https://i.imgur.com/SccuRKn.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/189
+
 ## [v.3.25.0329.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503291-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503291-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32503291-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung cấu trúc hỗ trợ khách hàng thay đổi URL gửi SMS đối với VNPT ![](https://i.imgur.com/ZbwWdzu.png)
 
