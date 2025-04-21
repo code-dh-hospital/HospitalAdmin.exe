@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0421.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32504210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32504210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32504210-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi XML 4750, C79, 21 khi bệnh nhân có CLS thanh BHYT có check lấy giá DV.
+![](https://i.imgur.com/MBKgtk5.png)
+![](https://i.imgur.com/XqiI8g0.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/249
+
 ## [v.3.25.0416.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32504160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32504160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32504160-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Treatment, Admin: Cho phép chỉnh thời gian nhập viện trước thời gian đăng ký KCB trong Hiệu chỉnh thông tin bệnh nhân nội trú
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/239
