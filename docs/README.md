@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0423.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32504230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32504230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32504230-NasDHSolutions.json)</sup></sup></sub>
+- ✨: YÊU CẦU - Bổ sung chức năng cập nhật Danh mục bệnh viện trên module Admin
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/185
+
+- Bổ sung kiểm tra và cảnh báo mã tỉnh không tồn tại hoặc không xác định khi thêm dữ liệu vào Danh mục bệnh viện
+![](https://i.imgur.com/rWznwmx.png)
+
 ## [v.3.25.0422.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32504221-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32504221-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32504221-NasDHSolutions.json)</sup></sup></sub>
 - ✨: YÊU CẦU - Bổ sung chức năng cập nhật Danh mục bệnh viện trên module Admin
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/185
