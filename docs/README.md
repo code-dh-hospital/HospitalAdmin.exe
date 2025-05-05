@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0505.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505050-NasDHSolutions.json)</sup></sup></sub>
+- ✨: YÊU CẦU - SẢN NHI TRÀ VINH - Đăng ký nhận bệnh BHYT có mã nơi ĐKBĐ 84001 thì mặc định Đúng Tuyến
+- ✨: https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH-THONGTUYEN/Tiep-nhan-benh-dung-tuyen-BV-tuyen-tinh.md
+- ✨: ![](https://i.imgur.com/jF3XNjp.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/107
+
 ## [v.3.25.0423.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32504233-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32504233-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32504233-NasDHSolutions.json)</sup></sup></sub>
 - ✨: YÊU CẦU - Bổ sung chức năng cập nhật Danh mục bệnh viện trên module Admin
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/185
