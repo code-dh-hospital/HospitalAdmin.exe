@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0512.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505120-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung thêm cấu hình trên danh mục Giường bệnh 4210
+- ✨: Trên form Danh mục giường bệnh, bổ sung thêm checkbox để ghi nhận trạng thái sử dụng của giường bệnh.
+![](https://i.imgur.com/jLtL6Ve.png)
+https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/NOITRU/Mo-ta-bo-sung-chuc-nang-cau-hinh-su-dung-danh-muc-giuong.md
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/204
+
 ## [v.3.25.0510.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505100-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - BV Ô Môn: XML9 lấy sai thông tin con (lấy dữ liệu con đã xóa) - LOI - dh-issue- #292
 - 🐛:  ***Xử lý XML09 lấy theo trạng thái xoa = 0.*** ![](https://i.imgur.com/dTgBqtG.png)
