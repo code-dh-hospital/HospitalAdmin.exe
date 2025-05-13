@@ -6,6 +6,20 @@
 
 #
 
+## [v.3.25.0513.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505131-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Prescription chức năng nhập viện chuyển toa thuốc tủ trực ngoại trú đã thu (BV Đặng Thùy Trâm) #286
+	- Cập nhật admin: hỗ trợ cập nhật lại những hồ sơ bị sai qua chức năng đối soát
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/286
+<<<<<<< HEAD
+
+## [v.3.25.0513.0]()
+- 🐛: Lỗi - Prescription chức năng nhập viện chuyển toa thuốc tủ trực ngoại trú đã thu (BV Đặng Thùy Trâm) #286
+	- Cập nhật admin: hỗ trợ cập nhật lại những hồ sơ bị sai qua chức năng đối soát
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/286
+=======
+
 ## [v.3.25.0512.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505120-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Bổ sung thêm cấu hình trên danh mục Giường bệnh 4210
 - ✨: Trên form Danh mục giường bệnh, bổ sung thêm checkbox để ghi nhận trạng thái sử dụng của giường bệnh.
