@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0514.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505140-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu: Hỗ trợ Lấy số thứ tự tại Kios cho Bệnh viện đa khoa thành phố Cần Thơ
+- ✨: Tại module Admin: Danh mục phong, bổ sung thêm control cho phép quản trị phần mềm cấu hình phòng khám hiển thị tại Kiosk để người bệnh chọn (tương ứng cập nhật giá trị cột dmphong.showkiosk). Tại Kiosk chỉ hiển thị các phòng có cấu hình được phép hiển thị.
+![](https://i.imgur.com/cQpkvKX.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/192
+
 ## [v.3.25.0513.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505131-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Prescription chức năng nhập viện chuyển toa thuốc tủ trực ngoại trú đã thu (BV Đặng Thùy Trâm) #286
 	- Cập nhật admin: hỗ trợ cập nhật lại những hồ sơ bị sai qua chức năng đối soát
