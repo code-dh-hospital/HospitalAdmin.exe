@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0515.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505151-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505151-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505151-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung thêm cấu hình trên danh mục Giường bệnh 4210
+![](https://i.imgur.com/6Egj7fu.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/204
+
 ## [v.3.25.0515.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505150-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Sau khi thực hiện cấu hình hiển thị Kiosk một phòng bất kỳ và Lưu lại, thì phần mềm load lại danh mục phòng có cả phòng được đánh dấu cột `dmphong.xoa=1`
 ![](https://i.imgur.com/TacDQkV.gif)
