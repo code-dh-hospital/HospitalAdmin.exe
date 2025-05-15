@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0515.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505150-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Sau khi thực hiện cấu hình hiển thị Kiosk một phòng bất kỳ và Lưu lại, thì phần mềm load lại danh mục phòng có cả phòng được đánh dấu cột `dmphong.xoa=1`
+![](https://i.imgur.com/TacDQkV.gif)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/192
+
 ## [v.3.25.0514.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505140-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Hỗ trợ Lấy số thứ tự tại Kios cho Bệnh viện đa khoa thành phố Cần Thơ
 - ✨: Tại module Admin: Danh mục phong, bổ sung thêm control cho phép quản trị phần mềm cấu hình phòng khám hiển thị tại Kiosk để người bệnh chọn (tương ứng cập nhật giá trị cột dmphong.showkiosk). Tại Kiosk chỉ hiển thị các phòng có cấu hình được phép hiển thị.
