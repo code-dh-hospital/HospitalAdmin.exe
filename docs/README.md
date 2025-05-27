@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0527.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505270-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - BV Tim Mạch CT: Đề nghị phần mềm bổ sung tính năng Hỗ trợ KCB theo thông tư 01/2025
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/122
+- 📗: Tại form [Danh mục bệnh ICD10]8: Bổ sung control hỗ trợ người dùng xác định có hỗ trợ chuyển tuyến hay không, tương ứng với cột dmicd.giatri1nam (áp dụng cho trường hợp xử trí chuyển tuyến người bệnh có bệnh theo Phụ lục III của Thông tư 01).
+![](https://i.ibb.co/C3GSYyWt/Debug-Hospital-Admin-i-Xp-KGBE4-OD.png)
+https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Thong-tu-01-2025-BYT.md#user-content-fnref-2025-04-19-02-c10ebfa67abd0291dd40b079b461049d
+
 ## [v.3.25.0519.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505190-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu: Thay đổi cách tính stent thứ 2 ở các module (Reports - Admin - Services -Treatment) - YEUCAU - dh-issue- #232
 - ✨:  ***Chỉnh lỗi sai thanh_tien_bh.*** ![](https://live.staticflickr.com/65535/54529635929_a9d30f0a27_b.jpg)
