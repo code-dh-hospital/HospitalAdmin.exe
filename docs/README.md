@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0605.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32506050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32506050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32506050-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Chức năng đổi mã bệnh án ngoại trú thanh toán theo ngày (BV Thốt Nốt)
+![](https://upanh.tv/image/PgManager-qe337kq2uC.e4Nxn)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/346
+
 ## [v.3.25.0527.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32505270-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - BV Tim Mạch CT: Đề nghị phần mềm bổ sung tính năng Hỗ trợ KCB theo thông tư 01/2025
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/122
