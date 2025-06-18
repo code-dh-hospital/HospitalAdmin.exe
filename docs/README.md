@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.0618.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32506180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32506180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32506180-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu Cầu - Bổ sung hàm xử lý hóa đơn điện tử VIETTEL
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/282
+
+- Cập nhật chức năng kiểm tra phiếu thu theo tham số ngoaitru.phieuthu, cập nhật lại trạng thái thuchi.hddt_thaythe cho các phiếu thu đã lập HDDT khi hoàn thành chỉnh thông tin bệnh nhân tại Form Chỉnh thông tin bệnh nhân ngoại trú.
+- Ghi nhật ký thêm thông tin chỉnh thông tin khi bệnh nhân đã có phiếu thu.
+- Theo mô tả [BO_SUNG_CHINH_VA_THAY_THE_HDDT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/FEES/BO_SUNG_CHINH_VA_THAY_THE_HDDT.md)
+![](https://live.staticflickr.com/65535/54597868030_a900845925_b.jpg)
+
 ## [v.3.25.0606.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32506060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32506060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32506060-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Chức năng đổi mã bệnh án ngoại trú thanh toán theo ngày (BV Thốt Nốt)
 - 🐛: Chức năng đổi mã bệnh án ngoại trú theo ngày chưa cập nhật được thuốc.
