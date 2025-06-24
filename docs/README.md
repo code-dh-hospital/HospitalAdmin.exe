@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.0624.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32506240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32506240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32506240-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu Cầu - Bổ sung hàm xử lý hóa đơn điện tử VIETTEL
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/282
+
+- Fix lỗi không thông báo cập nhật hoá đơn khi đã mở khoá thay thế
+- Theo mô tả : [BO_SUNG_CHINH_VA_THAY_THE_HDDT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/FEES/BO_SUNG_CHINH_VA_THAY_THE_HDDT.md)
+
+![](https://live.staticflickr.com/65535/54610905713_57883a3132_b.jpg)
+
 ## [v.3.25.0618.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32506180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32506180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32506180-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu Cầu - Bổ sung hàm xử lý hóa đơn điện tử VIETTEL
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/282
