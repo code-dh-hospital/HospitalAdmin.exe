@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0703.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507031-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507031-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507031-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Cập nhật MA_LOAI_RV khi xử trí Chuyển viện theo yêu cầu - YEUCAU - dh-issue- #285
+- ✨:  ***Xử lý theo mô tả [XML01.MA_LOAI_RV.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/XML01.MA_LOAI_RV.md).*** ![](https://live.staticflickr.com/65535/54630180893_2f2ecef2f4_c.jpg) 
+- ✨:  ***Bổ sung chức năng chọn ma4750 trên danh mục xử trí.*** ![](https://live.staticflickr.com/65535/54629136822_e86f8729b0_b.jpg)
+- ✨:  ***Xuất XML theo cấu hình.*** ![](https://live.staticflickr.com/65535/54629112902_952fc57ba5_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/285
+
 ## [v.3.25.0703.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507030-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Reports - Admin: Chức năng Kiểm tra và cập nhật hồ sơ XML130 lệch số tiền - LOI - dh-issue- #362
 - 🐛:  ***Bỏ kiểm tra cột t_bntt giữa 4210 và 130, lý do lưu dữ liệu xml là lưu đầy đủ chi phí kể cả pham_vi=2, nên việc so sánh giữa 4210 và 130 không còn hợp lý.*** ![](https://live.staticflickr.com/65535/54629991409_b318fa7cd7_b.jpg)
