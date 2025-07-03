@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0703.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507030-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Reports - Admin: Chức năng Kiểm tra và cập nhật hồ sơ XML130 lệch số tiền - LOI - dh-issue- #362
+- 🐛:  ***Bỏ kiểm tra cột t_bntt giữa 4210 và 130, lý do lưu dữ liệu xml là lưu đầy đủ chi phí kể cả pham_vi=2, nên việc so sánh giữa 4210 và 130 không còn hợp lý.*** ![](https://live.staticflickr.com/65535/54629991409_b318fa7cd7_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/362
+
 ## [v.3.25.0624.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32506240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32506240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32506240-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu Cầu - Bổ sung hàm xử lý hóa đơn điện tử VIETTEL
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/282
