@@ -6,6 +6,22 @@
 
 #
 
+## [v.3.25.0711.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507111-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507111-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507111-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bảng kê 6556 bệnh nhân ngoại trú BV Tim Mạch Cần thơ #294
+	- Cập nhật:
+	![](https://i.vgy.me/IJ5BbP.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/294
+<<<<<<< HEAD
+
+## [v.3.25.0711.0]()
+- ✨: Yêu cầu - Bảng kê 6556 bệnh nhân ngoại trú BV Tim Mạch Cần thơ #294
+	- Cập nhật:
+	![](https://i.vgy.me/IJ5BbP.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/294
+=======
+
 ## [v.3.25.0703.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507031-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507031-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507031-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Cập nhật MA_LOAI_RV khi xử trí Chuyển viện theo yêu cầu - YEUCAU - dh-issue- #285
 - ✨:  ***Xử lý theo mô tả [XML01.MA_LOAI_RV.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/XML01.MA_LOAI_RV.md).*** ![](https://live.staticflickr.com/65535/54630180893_2f2ecef2f4_c.jpg) 
