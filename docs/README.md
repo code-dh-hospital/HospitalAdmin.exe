@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.0722.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507220-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Printer: Cập nhật đối tượng chưa đúng khi bệnh nhân BANT (theo ngày, theo đợt) có hiệu chỉnh thông tin
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/409
+
+- Cập nhật chức năng chỉnh thông tin bệnh nhân ngoại trú khi chỉnh đối tượng BANT
+
+![](https://live.staticflickr.com/65535/54670835746_2c16d78b00_b.jpg)
+![](https://live.staticflickr.com/65535/54671073814_533ed2e4d7_b.jpg)
+
 ## [v.3.25.0721.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507210-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  YÊU CẦU - XML3 cột Nguoi_thuc_hien load thêm CCHN của Bác sĩ trực (Bác sĩ đọc kết quả) - YEUCAU - dh-issue- #223
 - ✨:  ***Thực hiện XML03.NGUOI_THUC_HIEN theo mô tả [QD4570/XML03.NGUOI_THUC_HIEN.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/XML03.NGUOI_THUC_HIEN.md).*** ![](https://staging-jubilee.flickr.com/65535/54668781689_51c3e753a3_c.jpg)![](https://staging-jubilee.flickr.com/65535/54668868520_e47197ae00_b.jpg) ![](https://staging-jubilee.flickr.com/65535/54668770278_4fd7a8c602_b.jpg)
