@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0725.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507251-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  YÊU CẦU - XML - Ký số dữ liệu chi phí khám chữa bệnh bảo hiểm y tế - YEUCAU - dh-issue- #337
+- ✨:  ***Chỉnh lỗi xuất XML dạng base64 sau khi ký số, (ký số thành công, trả về định dạng xml như bình thường).*** 
+- ![](https://live.staticflickr.com/65535/54677671426_0b324be99c_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/337
+
 ## [v.3.25.0725.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507250-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  YÊU CẦU - XML - Ký số dữ liệu chi phí khám chữa bệnh bảo hiểm y tế - YEUCAU - dh-issue- #337
 - ✨:  ***Chỉnh lỗi không tính được tổng chi khi xuất XML.*** ![](https://live.staticflickr.com/65535/54677510690_8fc526e776_b.jpg)
