@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0730.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507300-NasDHSolutions.json)</sup></sup></sub>
+- ✨: YÊU CẦU - XML - Ký số dữ liệu chi phí khám chữa bệnh bảo hiểm y tế #337
+- ✨: Bổ sung chức năng sinh file log `CHUKYSO_LOG.txt` vào thư mục cài đặt của module khi ký số phát sinh lỗi.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/337
+
 ## [v.3.25.0729.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507291-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507291-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507291-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Cập nhật dll `DH.ChuKySo.dll` , bổ sung log khi ký xml báo lỗi
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/337
