@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.0804.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508042-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508042-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508042-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment, Prescription hỗ trợ bắt chọn mã máy khi lập phiếu TT/PT dựa vào Danh mục cận lâm sàng
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/381
+
+- Bổ sung thông tin checkbox batbuoc_mamay DMCLS theo mô tả [BO_SUNG_THONG_TIN_NHAP_MA_MAY_PTTT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Quan-tri-Admin/BO_SUNG_THONG_TIN_NHAP_MA_MAY_PTTT.md)
+
+![](https://i.vgy.me/Mwhkew.png)
+![](https://i.vgy.me/FUKvaE.png)
+
 ## [v.3.25.0804.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508041-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - BV Sa Đéc: XML 130 sai số tiền và số lượng thuốc khi bệnh nhân có chỉ định số lượng 3 số thập phân - LOI - dh-issue- #422
 - 🐛:  ***Tăng số chữ số làm tròn đối với tiền thuốc, vtyt lên 3 con số.*** ![](https://live.staticflickr.com/65535/54698688405_7329156e63_b.jpg)
