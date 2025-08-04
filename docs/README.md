@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0804.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508040-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Admin - Reports XML1 4750 không lấy được GIAY_CHUYEN_TUYEN đối với BANT thanh toán ngày (BV Cái Răng) - LOI - dh-issue- #434
+- 🐛:  ***Chỉnh lỗi không lấy được giay_chuyen_tuyen khi có chuyển viện đối với BANT thanh toán ngày lưu thiếu maba trong bảng chuyenvien.*** ![](https://live.staticflickr.com/65535/54697493202_52f3c99dd9_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/434
+
 ## [v.3.25.0730.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507302-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507302-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32507302-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Reports - Admin: Chức năng Kiểm tra và cập nhật hồ sơ XML130 lệch số tiền - LOI - dh-issue- #362
 - 🐛:  ***Tính lại Tổng chi đối với 4210 khi so sánh với 130 (Chỉ BHYT).*** ![](https://live.staticflickr.com/65535/54688413261_8c8fa58002_b.jpg)
