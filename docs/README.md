@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.0806.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508062-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508062-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508062-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - BV Nghĩa Hành: Đổi mẫu xét nghiệm qua mẫu XN theo thông tư 32
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/60
+
+- Bổ sung thông tin cấu hình thứ tự kết quả trên phiếu chuẩn
+- Theo mô tả [Mau-Xet-Nghiem.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XETNGHIEM/Mau-Xet-Nghiem.md).
+
+![](https://i.vgy.me/X0hqFx.png)
+
 ## [v.3.25.0806.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508061-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508061-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508061-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Lỗi Void DH.XML4750.HOSO..ctor khi in bảng kê - cập nhật tháng kế toán, cập nhật đối chiếu hồ sơ XML - LOI - dh-issue- #448
 - 🐛:  ***Chỉnh lỗi không cập nhật được hồ sơ.***
