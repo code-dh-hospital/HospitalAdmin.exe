@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0818.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508180-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Prescription: Cập nhật toa thuốc theo thông tư 26
+- ✨: Bổ sung checkbox `ICD được kê đơn thuốc trên 30 ngày - TT26` tại form Danh Mục ICD
+![](https://i.vgy.me/1qt2Jc.png)
+![](https://i.vgy.me/tRNf8P.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/367
+
 ## [v.3.25.0808.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508080-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - BV Phụ Sản: Cập nhật danh mục mã đối tượng khám bệnh chữa bệnh theo QĐ 2010/QĐ-BYT - YEUCAU - dh-issue- #376
 - ✨:  ***Cập nhật theo mô tả [ma_doituong_kcb_qd2010.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/ma_doituong_kcb_qd2010.md).*** 
