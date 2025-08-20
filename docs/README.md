@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0820.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508201-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508201-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508201-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Treatment , Prescription hỗ trợ tham số không bắt buộc nhập Phương pháp vô cảm khi lập phiếu TT/PT
+- ✨: Cho phép cấu hình không bắt buộc nhập phương pháp vô cảm khi lập phiếu TT/PT
+![](https://i.vgy.me/SDoNFx.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/380
+
 ## [v.3.25.0820.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508200-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix chỉ hiển thị cập nhật thông tin cấu hình phiếu kết quả chuẩn cho mã loại : SH, HH, NT, ND, CM, VS1 sử dụng cho TT32
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/60
