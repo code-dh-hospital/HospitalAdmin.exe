@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0821.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508210-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix không lưu được cấu hình phiếu chuẩn cho Vi sinh khi chỉnh và ghi nhật ký thay đổi cấu hình phiếu chuẩn.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/60
+
+![](https://i.vgy.me/A6Dzbe.png)
+
 ## [v.3.25.0820.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508202-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508202-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32508202-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - BV Phụ Sản: Cập nhật danh mục mã đối tượng khám bệnh chữa bệnh theo QĐ 2010/QĐ-BYT - YEUCAU - dh-issue- #376
 - ✨:  ***Cập nhật theo mô tả [ma_doituong_kcb_qd2010.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/ma_doituong_kcb_qd2010.md).*** 
