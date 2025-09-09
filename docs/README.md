@@ -6,6 +6,29 @@
 
 #
 
+## [v.3.25.0909.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32509090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32509090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32509090-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Admin: Chức năng Cập nhật danh mục bệnh viện theo cổng BHXH cập nhật sai cấp CMKT
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/510
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/498
+
+- Ban đầu
+
+![](https://i.vgy.me/n76hw4.png)
+
+- Cập nhật lại
+
+![](https://i.vgy.me/76x8U8.png)
+
+- Sau khi cập nhật
+
+![](https://i.vgy.me/l38dPy.png)
+
+![](https://i.vgy.me/nFIGU6.png)
+
+![](https://i.vgy.me/LKdK5k.png)
+
+![](https://i.vgy.me/dBJfb2.png)
+
 ## [v.3.25.0908.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32509080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32509080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32509080-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - XML3 VTYT khi xuất có ngày kết quả và mã máy (BV Tam Nông)
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/478
