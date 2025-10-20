@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.1020.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510200-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Hỗ trợ chức năng cấp thẻ tạm theo địa phương 2 cấp (BV Thạnh trị) - YEUCAU - dh-issue- #525
+- ✨:  ***Chỉnh lỗi không lấy được danh sách địa phương 2 cấp.*** ![](https://i.vgy.me/c9gERW.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/525
+
 ## [v.3.25.1015.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510150-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Bổ sung chức năng kiểm tra hạn dùng thẻ BHYT (BV Thạnh Trị) #517
 https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Thong-mo-ta-tham-so-kiem-tra-han-dung-the.md
