@@ -6,6 +6,10 @@
 
 #
 
+## [v.3.25.1024.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510240-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Cập nhật/Bổ sung chức năng khảo sát CareMe theo mô tả [CareMe/CareMe.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/CareMe/CareMe.md).
+
 ## [v.3.25.1020.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510200-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Hỗ trợ chức năng cấp thẻ tạm theo địa phương 2 cấp (BV Thạnh trị) - YEUCAU - dh-issue- #525
 - ✨:  ***Chỉnh lỗi không lấy được danh sách địa phương 2 cấp.*** ![](https://i.vgy.me/c9gERW.png)
