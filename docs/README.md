@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.1029.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510292-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510292-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510292-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Laboratory: tham số xn.sudungmauchuan=8 Hỗ trợ phiếu kết quả gom tất cả các Xét nghiệm trên cùng một phiếu và nhóm theo loại cls
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/463
+
+- 📗: Bổ sung cấu trúc theo mô tả [CAU_HINH_PHIEUYC_PHIEUKQ_THEO_MA_LOAI_CLS.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Quan-tri-Admin/CAU_HINH_PHIEUYC_PHIEUKQ_THEO_MA_LOAI_CLS.md)
+- 📕: Bổ sung thông tin phieuyc và phieukq trên Form Danh mục loại CLS
+
+![](https://files.catbox.moe/ivq4ae.png)
+
 ## [v.3.25.1029.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510291-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510291-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510291-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Cập nhật `ma_doituong_kcb` theo [Quyết định 3276/QĐ-BYT](https://gofile.me/78TQg/twkbxNC6l) và theo mô tả [XML130/QD4570/ma_doituong_kcb_qd3276.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/ma_doituong_kcb_qd3276.md) khi xuất dữ liệu XML4750/XML3176.
