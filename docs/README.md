@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1103.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511030-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Admin khi xem và xuất XML4750 - LOI - dh-issue- #602
+- 🐛:  ***Chỉnh lỗi loại bỏ ký tự đặc biệt trong địa chỉ.*** ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/03/DESKTOP-2FLMTI6-explorer-2025-11-03-13h31p32.140.png)
+- 🐛: ***Lưu ý: chỉ loại được ký tự đặc biệt đã biết, trường hợp khác thì thử nhập lại địa chỉ.***
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/602#issuecomment-18125
+
 ## [v.3.25.1029.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510292-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510292-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32510292-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Laboratory: tham số xn.sudungmauchuan=8 Hỗ trợ phiếu kết quả gom tất cả các Xét nghiệm trên cùng một phiếu và nhóm theo loại cls
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/463
