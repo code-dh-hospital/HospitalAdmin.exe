@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1104.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511043-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511043-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511043-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  LỖI - XML13: Ten_dich_vu tối đa 4000 ký tự - LOI - dh-issue- #524
+- 🐛:  ***Xử lý lại XML13.TEN_DICH_VU (không lấy tên vật tư).***
+- ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/04/DESKTOP-2FLMTI6-explorer-2025-11-04-15h05p11.457.png)
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/04/DESKTOP-2FLMTI6-explorer-2025-11-04-15h03p50.125.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/524
+
 ## [v.3.25.1104.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511042-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511042-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511042-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung vai trò chữ ký số thứ 2 trên danh mục chức vụ và form cấu hình vai trò chữ ký số thứ 2 trên các mẫu HSBA. Theo mô tả: [EMR/So-hoa/So-hoa-ky-so.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/EMR/So-hoa/So-hoa-ky-so.md)
