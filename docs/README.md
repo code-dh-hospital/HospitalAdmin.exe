@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1104.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511040-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Prescription không ghi nhận phần trăm cùng chi trả khi tổng tiền bảo hiểm lớn hơn 15% mức lương cơ sở - LOI - dh-issue- #606
+- 🐛:  ***Chỉnh lỗi tính sai tiền Miễn cùng chi trả (khi không có check mienchitra, mà lại có ngày miễn chi trả ngaymienct). Xét đồng thời 2 điều kiện, phải có check mienchitra.***
+- ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/04/DESKTOP-2FLMTI6-explorer-2025-11-04-09h46p16.603.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/606#issuecomment-18290
+
 ## [v.3.25.1103.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511030-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Admin khi xem và xuất XML4750 - LOI - dh-issue- #602
 - 🐛:  ***Chỉnh lỗi loại bỏ ký tự đặc biệt trong địa chỉ.*** ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/03/DESKTOP-2FLMTI6-explorer-2025-11-03-13h31p32.140.png)
