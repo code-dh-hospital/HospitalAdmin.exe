@@ -6,6 +6,10 @@
 
 #
 
+## [v.3.25.1104.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511042-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511042-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511042-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung vai trò chữ ký số thứ 2 trên danh mục chức vụ và form cấu hình vai trò chữ ký số thứ 2 trên các mẫu HSBA. Theo mô tả: [EMR/So-hoa/So-hoa-ky-so.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/EMR/So-hoa/So-hoa-ky-so.md)
+
 ## [v.3.25.1104.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511041-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung vai trò chữ ký số thứ 2 trên danh mục chức vụ và form cấu hình vai trò chữ ký số thứ 2 trên các mẫu HSBA. Theo mô tả: [EMR/So-hoa/So-hoa-ky-so.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/EMR/So-hoa/So-hoa-ky-so.md)
