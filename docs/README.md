@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1105.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511050-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung Danh mục loại giấy tờ (Menu: `[Khai báo số liệu] => [Con người] => [Loại giấy tờ]`).
+![](https://lh3.googleusercontent.com/pw/AP1GczOpaD4zWqcS9H10TRKazIoIVpnrc_SvAuzH2pOPM1JbDfFOHQyktAxXy6Lhy7KLK56Z34MCZwPk2MdjLl80s8fYhX4AitcotRq54CnO8P17-KU9tOVbmJs0Hakh5OdkSgsO49NqY8w-Bh50s2yq37aS=w1168-h772-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/552
+
 ## [v.3.25.1104.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511044-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511044-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511044-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi `MA_DOITUONG_KCB = 1.3`: psdangky.trangthaichuyentuyen=2 -> mã 1.3 nhưng phần mềm xuất mã khác.
