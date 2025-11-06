@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1106.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511060-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung Danh mục loại giấy tờ (Menu: `[Khai báo số liệu] => [Con người] => [Loại giấy tờ]`). Theo mô tả [THONG-TIN-BENH-NHAN/Xuat-Excel-Tom-tat-ho-so-benh-an.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONG-TIN-BENH-NHAN/Xuat-Excel-Tom-tat-ho-so-benh-an.md)
+![](https://lh3.googleusercontent.com/pw/AP1GczMIj7x-_Ou_Oh_tNeIXFN8ylCysMwVqji9cIu6gQfPg2vmtK-2os3p9Vm5qtq10U77Rz1NrFb03Art2cNfi4D8fsTe01JcK4_V7G1NfaxD9UeAvTkB2rbrW1YOSygHgQcPgSOX35hd224-9wKMoXGG5=w1153-h705-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/552
+
 ## [v.3.25.1105.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511050-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung Danh mục loại giấy tờ (Menu: `[Khai báo số liệu] => [Con người] => [Loại giấy tờ]`).
