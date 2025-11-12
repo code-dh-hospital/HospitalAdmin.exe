@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.1112.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511120-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Admin Chức năng trích xuất dữ liệu theo mã bệnh nhân (BV Thốt Nốt) - LOI - dh-issue- #616
+- 🐛:  ***Chỉnh lỗi không được dữ liệu của bảng bnnoitru, lý do, danh sách nhiều bệnh nhân quá, mà command của window lại hạn chế nên không lấy được dữ liệu.*** ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/12/DESKTOP-2FLMTI6-explorer-2025-11-12-15h40p47.812.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/616
+
 ## [v.3.25.1109.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511090-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  LỖI - Đăng ký nhận bệnh tìm kiếm tên địa phương - chọn tên đia phương có trùng tên viết tắt thì lỗi khi Chọn - LOI - dh-issue- #455
 - 🐛:  ***Chỉnh lỗi khi chọn Xã, lại thể hiện sai thông tin.*** 
