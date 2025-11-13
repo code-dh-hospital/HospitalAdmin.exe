@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.1113.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511131-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Chức năng hiệu chỉnh thông tin bệnh nhân ngoại trú không load được thông tin bệnh nhân (BV Ô Môn ) #542(tt)
+![](https://i.vgy.me/HaHFw6.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/619
+
 ## [v.3.25.1113.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32511130-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Thêm đơn vị đo để gửi kết quả xét nghiệm lên DHS.EMR
 - ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/13/DESKTOP-2FLMTI6-DH.UpModuleToDrive-2025-11-13-14h20p50.832.png)
