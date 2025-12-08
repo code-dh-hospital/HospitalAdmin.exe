@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1208.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512080-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Hỗ trợ hàm tra cứu lịch sử KCB BHYT (BV Ô Môn) - YEUCAU - dh-issue- #549
+- ✨:  ***Cập nhật chức năng lấy thêm thông tin lịch sử KCB theo công văn mới trường hợp cổng không trả về, theo tài liệu: api/egw/Lskcb2025.*** 
+- ✨:  ***Xử lý gom chung logic kiểm tra thẻ giữa các phân hệ và Ordinal (theo tham số: kios.taikhoanthongtuyen)***
+- ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/12/08/DESKTOP-2FLMTI6-explorer-2025-12-08-11h41p42.454.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/549
+
 ## [v.3.25.1206.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512060-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung ghi nhận chẩn đoán đầu tiên cập nhật theo mô tả [XML130/QD4570/bang1.chan_doan_vao.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/bang1.chan_doan_vao.md).
