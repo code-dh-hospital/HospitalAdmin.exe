@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1209.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512090-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Admin : Hiệu chỉnh thời gian của ngày đăng ký - Ngày in phiếu 01KCB không lưu được - LOI - dh-issue- #658
+- 🐛:  ***Chỉnh lỗi không lưu được dữ liệu khi gõ ngày thay đổi mà không chọn.*** 
+- ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/12/09/DESKTOP-2FLMTI6-explorer-2025-12-09-09h28p18.536.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/658#issuecomment-20267
+
 ## [v.3.25.1208.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512081-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Hỗ trợ hàm tra cứu lịch sử KCB BHYT (BV Ô Môn) - YEUCAU - dh-issue- #549
 - ✨:  ***Cập nhật chức năng lấy thêm thông tin lịch sử KCB theo công văn mới trường hợp cổng không trả về, theo tài liệu: api/egw/Lskcb2025.*** 
