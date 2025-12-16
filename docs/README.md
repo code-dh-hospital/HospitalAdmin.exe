@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1216.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512160-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi danh mục cận lâm sàng => Chức năng tạo CLS từ CLS khác (nữa giá) ==> Lấy thiếu thông tin.
+![](https://lh3.googleusercontent.com/pw/AP1GczMgFaueSqV6xePSBHe-NEV5Hx4JIsqEzUv64fD0qPQcPGQab9KRX1F4ze6FivYUHmqgKjIqfggUQ-30UoqYWQ0-bkcNwaWvGnwEsSgs6uApvVo7EXo7WU_l9VmdxPzTxmSjFCYXUDwADBwPUA8dq0E-=w1658-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/666
+
 ## [v.3.25.1209.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512092-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512092-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512092-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Hỗ trợ hàm tra cứu lịch sử KCB BHYT (BV Ô Môn) - YEUCAU - dh-issue- #549
 - ✨:  ***Chỉnh thời gian token (phiên làm việc giá trị 10 phút, tự động lấy lại token mới khi hết hạn).*** ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/12/09/DESKTOP-2FLMTI6-explorer-2025-12-09-14h09p11.227.png) ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/12/09/DESKTOP-2FLMTI6-explorer-2025-12-09-13h45p09.655.png)
