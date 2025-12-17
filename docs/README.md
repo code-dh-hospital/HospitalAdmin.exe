@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.25.1217.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512170-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Hỗ trợ chức năng bổ sung chỉ số chuẩn đoán hình ảnh đối với XML4
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/585
+
+- 📗: Theo mô tả [CAU_HINH_CHI_SO_XML4_CHO_CDHA.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Quan-tri-Admin/CAU_HINH_CHI_SO_XML4_CHO_CDHA.md)
+- 📕: Bổ sung option tách dòng chỉ số XML4 cho CDHA theo tham số ha.sudungmotabenhly
+
+![](https://i.vgy.me/iFm8pZ.png)
+
+![](https://i.vgy.me/8coRWd.png)
+
 ## [v.3.25.1216.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512160-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi danh mục cận lâm sàng => Chức năng tạo CLS từ CLS khác (nữa giá) ==> Lấy thiếu thông tin.
