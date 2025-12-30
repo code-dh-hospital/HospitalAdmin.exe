@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1230.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512301-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512301-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512301-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Tích hợp CKS Viettel (Token) với XML thanh toán BHYT.
+![](https://i.vgy.me/ct0BT5.png)
+![](https://i.vgy.me/T3Trnr.gif)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/616
+
 ## [v.3.25.1230.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512300-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Admin chức năng xuất XML 4750 bổ sung XML13.ten_dich_vu đối với bệnh nhân không có chi phí cls (BV Ô Môn) - YEUCAU - dh-issue- #622
 - ✨:  ***Bổ sung cấu hình mặc định khi XML13 không có dịch vụ được chỉ định.***
