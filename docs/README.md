@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0106.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601060-NasDHSolutions.json)</sup></sup></sub>
+- ✨: DỰ ÁN XEM KẾT QUẢ CLS TRÊN WEB
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/28
+- 📕: Bổ sung option API KEY và Bucket Option Json cho Option Web API
+
+![](https://i.vgy.me/Y2n41Y.png)
+
 ## [v.3.25.1231.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32512310-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - PK Đông Tây: Cấu hình số phút từ ngày giờ cấp toa, kết quả CLS đến ngày giờ in phiếu
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/570
