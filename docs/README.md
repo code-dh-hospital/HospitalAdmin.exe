@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0113.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601130-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung kiểm tra trường hợp bệnh nhân không lấy thuốc
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/570
+
+- 📕: Kiểm tra bệnh nhân không lấy thuốc chungtu.dain = 3 thì không kiểm tra số phút tối thiểu loại trừ giờ toa thuốc
+
+![](https://i.vgy.me/FM2hRn.png)
+
 ## [v.3.26.0108.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601080-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Tích hợp CKS Viettel (Token) với XML thanh toán BHYT.
 - ✨: Bổ sung các nghiệp vụ ký số USB Viettel tương tự ký số đối với SoftDream.
