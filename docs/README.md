@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0114.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601140-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Admin: Form Hiệu chỉnh thông tin ngoại trú
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/690
+- 📕: Hiển thị thanh cuộn nếu màn hình độ phân giải thấp cho phần thông tin của Form hiệu chỉnh thông tin bệnh nhân ngoại trú
+
+![](https://files.catbox.moe/6ss8g7.png)
+
 ## [v.3.26.0113.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601130-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung kiểm tra trường hợp bệnh nhân không lấy thuốc
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/570
