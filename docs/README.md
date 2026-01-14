@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0114.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601141-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix khi kiểm tra giờ toa thuốc thiếu trạng thái chungtu.dain = 2
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/570
+- 📕: Bổ sung bắt theo trạng thái chungtu.dain = 2 hoặc 3 thì không kiểm tra thời gian ra toa
+
+![](https://i.vgy.me/qim2Yv.png)
+
 ## [v.3.26.0114.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601140-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Admin: Form Hiệu chỉnh thông tin ngoại trú
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/690
