@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0116.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601160-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Diagnose ghi nhận mã máy BYT mặc định theo Người thực hiện y lệnh và người đọc kết quả
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/613
+- 📕: Bổ sung trường mã loại CLS lên Form danh mục mã máy cho người dùng cấu hình
+
+![](https://i.vgy.me/BH6Hlr.png)
+
 ## [v.3.26.0114.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601141-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix khi kiểm tra giờ toa thuốc thiếu trạng thái chungtu.dain = 2
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/570
