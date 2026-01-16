@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0116.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601162-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601162-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601162-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Diagnose ghi nhận mã máy BYT mặc định theo Người thực hiện y lệnh và người đọc kết quả
+- 🐛: Fix Load lại danh mục loaicls khi thao tác lưu hoặc bỏ qua của Form Danh mục mã máy
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/613
+
+![](https://i.vgy.me/IdMWMO.png)
+
 ## [v.3.26.0116.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601161-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601161-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601161-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix lỗi dư cột khi chọn Loại CLS trong Danh mục mã máy
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/613
