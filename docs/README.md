@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0122.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601220-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Hiệu chỉnh thông tin bệnh nhân có BANT không chỉnh được thông tin lãnh thuốc Lao, thông tin chuyển viện #710
+
+![](https://i.vgy.me/44GRcO.png)
+
+![](https://i.vgy.me/8Swtms.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/710
+
 ## [v.3.26.0120.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601200-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Lỗi - Admin: Chức năng cấu hình chỉ số cls nhập từ tập tin không cập nhật dữ liệu - TOLAPTRINH - dh-issue- #96
 - ✨:  ***Chỉnh chức năng không cập nhật trường ĐVT EMR khi nhập từ tệp tin.*** ![](https://images-worker.tlt22.workers.dev/i/019bd932-de71-79eb-98ef-ac6499633bde)
