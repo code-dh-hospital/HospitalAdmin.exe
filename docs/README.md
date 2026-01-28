@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0128.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601282-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601282-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601282-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Mở rộng `mamay` lên 255 ký tự.
+![](https://lh3.googleusercontent.com/pw/AP1GczOjHc3WM_8WDjG1OFWZqp5nVE92i7xvoeaOJ5LbTV23cF5XTmXS66y4PhZXx1-obtltKYOmJA1dDuAsXHsyACdHf9xcoqo7zwHBfob6GShLucrY8s8NYAFpXjH4BD_830e0ky6U3rO9GMxX39X5YiuD=w1665-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/667
+
 ## [v.3.26.0128.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601281-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601281-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601281-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Form đối soát: Bổ sung cột [Đặt lại trạng thái CHƯA gửi BHXH]: Khi thực hiện các chức năng `Cập nhật XML130 Hồ sơ được chọn`, `Cập nhật XML130 Hồ sơ chưa đúng (màu vàng)`, `Cập nhật XML130 Tất cả hồ sơ trên lưới` theo mô tả: [XML130/QD4570/kiem-tra-4210-130.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/kiem-tra-4210-130.md).
