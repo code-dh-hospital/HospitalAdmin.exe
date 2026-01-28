@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0128.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601281-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601281-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601281-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Form đối soát: Bổ sung cột [Đặt lại trạng thái CHƯA gửi BHXH]: Khi thực hiện các chức năng `Cập nhật XML130 Hồ sơ được chọn`, `Cập nhật XML130 Hồ sơ chưa đúng (màu vàng)`, `Cập nhật XML130 Tất cả hồ sơ trên lưới` theo mô tả: [XML130/QD4570/kiem-tra-4210-130.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/kiem-tra-4210-130.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczOyhNQ0wZneNyGRIMhgfKNcyjnbrl52CWv-udgmSzBRNvRK4syKeMhU_aozg7FFBZ7cj1FR4vUSW8jkjapqhPfcExxFTiipJj4eIvRlRy3X0lnclZylRQdfb9HEDuGENh_FFja0TZunkHF5KMU6v0GW=w1661-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/659
+
 ## [v.3.26.0128.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601280-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Printer hỗ trợ cập nhật lại đúng Chẩn đoán Ra viện của Bệnh án ngoại trú theo ngày khi In phiếu 01KCB
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/665
