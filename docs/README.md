@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0128.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601283-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601283-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601283-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Printer hỗ trợ cập nhật lại đúng Chẩn đoán Ra viện của Bệnh án ngoại trú theo ngày khi In phiếu 01KCB
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/665
+- 📕: Mô tả https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/KHAMBENH/THAY_DOI_LAY_CHAN_DOAN_BANT_NGAY_XML_6556.md
+
+![](https://files.catbox.moe/36ia02.png)
+
+![](https://files.catbox.moe/mw347o.png)
+
 ## [v.3.26.0128.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601282-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601282-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601282-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Mở rộng `mamay` lên 255 ký tự.
