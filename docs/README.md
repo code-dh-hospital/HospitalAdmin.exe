@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0129.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601290-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Prescription hỗ trợ cảnh báo hoặc chặn Đối với bệnh mãn tính có số ngày uống Toa thuốc nhỏ hơn số ngày uống cấu hình
+[Mô tả](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Thong-mo-ta-bo-sung-chuc-nang-cau-hinh-so-ngay-uong-theo-icd.md)
+![](https://i.vgy.me/4AHiKt.png)
+![](https://i.vgy.me/nGRNLT.png)
+![](https://i.vgy.me/6huTnt.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/666
+
 ## [v.3.26.0128.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601283-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601283-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32601283-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Printer hỗ trợ cập nhật lại đúng Chẩn đoán Ra viện của Bệnh án ngoại trú theo ngày khi In phiếu 01KCB
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/665
