@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0202.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602022-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602022-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602022-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  YÊU CẦU - Admin bổ sung Tùy chọn Xuất XML3176 - XML1 cột SO_NGAY_DTRI lấy theo QĐ4750 - YEUCAU - dh-issue- #673
+- ✨:  ***Điều chỉnh XML13 theo 3176 (Bỏ: PP_DIEU_TRI, PP_DIEUTRI, MA_NOI_DEN,MA_NOI_DI).***
+- ✨:  ***Điều chỉnh XML13 theo 3176 (Lấy lại: TEN_THUOC, TEN_DICH_VU).***
+- ✨:  ***Điều chỉnh XML11 theo 3176 (MA_BS: lấy theo cchn trưởng khoa).***
+- Lưu ý: XML07.MA_BS (đã lấy theo cchd)
+- ✨: Thay đổi menu `Gửi XML4750 theo cấu hình` thành `Gửi XML theo cấu hình` gửi XML theo tham số áp dụng QĐ3176
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/673#issuecomment-23355
+
 ## [v.3.26.0202.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602021-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602021-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602021-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  YÊU CẦU - Admin bổ sung Tùy chọn Xuất XML3176 - XML1 cột SO_NGAY_DTRI lấy theo QĐ4750 - YEUCAU - dh-issue- #673
 - ✨:  ***Điều chỉnh XML13 theo 3176 (Bỏ: PP_DIEU_TRI, PP_DIEUTRI, MA_NOI_DEN,MA_NOI_DI).***
