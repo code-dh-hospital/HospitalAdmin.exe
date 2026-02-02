@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0202.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602020-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Admin bổ sung chức năng Ngưng sủ dụng chữ ký số và thêm nút Xóa Chữ ký số
+![](https://i.vgy.me/g9DF4R.png)
+[Mô tả](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Thong-mo-ta-chuc-nang-ngung-su-dung-chu-ky-so.md)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/657
+
 ## [v.3.26.0201.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602010-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  YÊU CẦU - Admin bổ sung Tùy chọn Xuất XML3176 - XML1 cột SO_NGAY_DTRI lấy theo QĐ4750 - YEUCAU - dh-issue- #673
 - ✨:  ***Bổ sung tùy chọn để cấu hình số ngày điều trị mặc định theo mã loại kcb.***
