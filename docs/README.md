@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.26.0204.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602040-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  YÊU CẦU - Admin bổ sung Tùy chọn Xuất XML3176 - XML1 cột SO_NGAY_DTRI lấy theo QĐ4750 - YEUCAU - dh-issue- #673
+- ✨: Thay đổi menu `Gửi XML4750 theo cấu hình` thành `Gửi XML theo cấu hình` gửi XML theo tham số áp dụng QĐ3176
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/673#issuecomment-23355
+
 ## [v.3.26.0203.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602032-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602032-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602032-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  YÊU CẦU - Admin bổ sung Tùy chọn Xuất XML3176 - XML1 cột SO_NGAY_DTRI lấy theo QĐ4750 - YEUCAU - dh-issue- #673
 - ✨:  ***Điều chỉnh XML13 theo 3176 (Bổ sung: PP_DIEUTRI).*** ![](https://images-worker.tlt23.workers.dev/i/019c2246-ac4a-7375-9239-a76fd45d8db0)
