@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0204.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602041-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung form cấu hình `[Cấu hình tùy chọn in phiếu chỉ định cận lâm sàng]`
+![](https://lh3.googleusercontent.com/pw/AP1GczNozxJNhVBwXP6xP-4zLD1pkqswciIHH8XwGEcvtWSwy2CTbvkFZTd611qFICS0FgMhdZ2oveCezqoXg2F9asGbwNCVPvxxEHkiQfBepBdF9CmMX7x8SQZ8XNdOndLGlFkSPR9pddw5sOTy475EPOur=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPobttMRXcIagsXSYRrUkdHnLF6hz76uEEK3UlJ2RFyf_Il_U14d1NmGsDpZESgeIxyCprPhXHWBELtOE2WX1k0WWOwR5rgXsQED2BUe-q6tKJro8wk9iNxKTEjcolut-JX_fYyiLltSoHznT9lMMkA=w1658-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/672
+
 ## [v.3.26.0204.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32602040-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  YÊU CẦU - Admin bổ sung Tùy chọn Xuất XML3176 - XML1 cột SO_NGAY_DTRI lấy theo QĐ4750 - YEUCAU - dh-issue- #673
 - ✨: Thay đổi menu `Gửi XML4750 theo cấu hình` thành `Gửi XML theo cấu hình` gửi XML theo tham số áp dụng QĐ3176
