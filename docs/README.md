@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0310.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603102-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603102-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603102-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Thay đổi đặc tả SMS Viettel BV Da Liễu- Yêu
+- ✨:  ***Bổ sung các chức năng cấu hình theo tài liệu mới. https://gofile.me/78TQg/6eoMIeCMO/.*** 
+![](https://images-worker.tlt09.workers.dev/i/019cd6f5-caf0-7278-a55a-4d4e3b5b8203)
+![](https://images-worker.tlt11.workers.dev/i/019cd6f1-d31c-7114-9618-3b27200fa832)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/697#issuecomment-2475
+
 ## [v.3.26.0310.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603101-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung hàm chung để kiểm tra dữ liệu trước khi lưu dữ liệu, bổ sung trên các phân hệ có chức năng nhập thông tin này.
 	+ Cập nhật:
