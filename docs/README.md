@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0318.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603180-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
+- 🐛: Fix lỗi khi chỉnh danh mục
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
+- 📕: Điều chỉnh lại sửa và xoá theo id không dựa vào madv cho Danh mục đơn vị TT12
+- 📕: Bổ sung chức năng xuất excel, excel mẫu và thêm Danh mục đơn vị bằng Excel
+
+![](https://files.catbox.moe/o3vfti.png)
+
 ## [v.3.26.0317.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603171-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603171-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603171-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Services: Gửi không thành công hồ sơ Checkin ký số USB Viettel Token
 ![](https://i.vgy.me/2075No.png)
