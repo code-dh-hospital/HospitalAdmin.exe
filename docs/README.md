@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.26.0324.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603243-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603243-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603243-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
+- 🐛: Form 01 và 02: Khi mở form Thêm danh mục, chọn thêm dữ liệu từ option Chọn từ danh mục, sau khi chọn dữ liệu ra xong, vẫn còn 1 số cột chưa thể hiện đủ tên cột, mặc dù đã có thanh cuộn scroll bar.
+![](https://files.catbox.moe/64epa8.png)
+![](https://files.catbox.moe/f924u5.png)
+- 🐛: Form 02: Chức năng Thêm/Lưu dữ liệu từ danh mục.: Sau khi chọn nhân viên từ danh mục, khi nhấn Đồng ý không còn phát sinh lỗi nữa nhưng không lưu được dữ liệu. Xem clip sau.
+- 🐛: Khi thông tin để trống trên form, thì lúc XML cũng không có tên thẻ dữ liệu luôn, dẫn đến gửi cổng bị lỗi thiếu thẻ dữ liệu trong XML, nguyên tắt không có dữ liệu thì cũng phải tên trường dữ liệu.
+- 🐛: Khi đã có đầy đủ dữ liệu, khi xuất xml lại không có thẻ Mã CSKCB
+- 🐛: Chức năng xuất excel, cột MA_CSKCB không có dữ liệu.
+![](https://files.catbox.moe/s6kqje.png)
+![](https://files.catbox.moe/1knk3q.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
+
 ## [v.3.26.0324.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603242-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603242-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603242-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
