@@ -6,6 +6,25 @@
 
 #
 
+## [v.3.26.0324.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603241-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi danh mục Thông tư 12.
+1. Danh mục thuốc:
+=> Sửa lỗi: Giao diện chính của form có một khoảng cách ở đầu form. Giao diện của lưới dữ liệu em góp ý nên hiển thị đầy đủ tên cột luôn vì hiện tại vẫn đang bị khuất.
+![](https://lh3.googleusercontent.com/pw/AP1GczMgFrwHMmBzez4UyMxuO_ZPEBqmBlFha9OtVyHFSTod8_DPVZXzd_vFl59y84Z-SqLfq3lgeyvPVRHNIqZFCm3WmGTZVMVz6N1B7ydDXIf2RN9-AeUQOklOegwUbuWLhhxyb6caQe6cv1Gt2FkIXOxx=w1659-h879-s-no-gm?authuser=0)
+=> Sửa lỗi: Chức năng xuất XML: Lưu file XML thành công nhưng khi gửi dữ liệu cổng tiếp nhận báo sai cấu trúc.
+![](https://lh3.googleusercontent.com/pw/AP1GczOKXfg5p0S0IQq5U-Qic1r7LEmBXAU4MdqGXrMcXUnUtrgRVayGqnUgf9TRF3C_wvr7hWkBX-X3RqnUC08HVGSkBuQD4KmcMvtkz7ygOcxAd76osRcYAI-wgXIwYT4w67bg3ZQSi6pB4MuAIDvgynRQ=w1752-h794-s-no-gm?authuser=0)
+
+2. Danh mục VTYT:
+=> Sửa lỗi: Chức năng thêm dữ liệu từ danh mục: Đã load được lên danh sách các dữ liệu được chọn sau đó chọn Đồng ý nhưng danh mục bên ngoài không hiển thị dữ liệu.
+![](https://lh3.googleusercontent.com/pw/AP1GczOiMci7JCG3eWBvAC9fISG-q1rIqFD7pG2N0TmpnFdlrqtyLH1qS8ODbimyQcVNyZpL481iJvhlKU5XJeeSk9IOllj4tL7WrFeWUOCe7WObK7jI1RQ2stgg4R6xXaogu-wSBlb0vCBZftwFeVbBXnZA=w1658-h879-s-no-gm?authuser=0)
+=> Sửa lỗi: Chức năng xuất Excel: bấm vào không có tác dụng
+![](https://lh3.googleusercontent.com/pw/AP1GczNTOs-gyr2eRlXTVRW1DmKh_4Ax4jlOXHzVDr_PaaL41DPVKtjRkg7hEacOSNlxZFvfTZW3hg0AqZr7eAMDM5cYTuDm3Y1mZU5XavDLppLaB17CO9yaFgM3uRRy2iMmZdTZD-Jsgqp5xrx0CRoZvrPT=w1658-h879-s-no-gm?authuser=0)
+=> Chức năng xuất XML: thông báo trường `Nhóm vật tư` bị trống dữ liệu nhưng lúc chỉnh sửa dữ liệu thì ô này và một số ô khác bị disabled không nhập được. <== trường Nhóm vật tư được cập nhật từ danh mục nhóm sản phẩm.
+![](https://lh3.googleusercontent.com/pw/AP1GczOZlNirON51eiQQY2FT2WthSgH941veh2n5gUy4oYYQeqHqWRXmymRPtWxUa5_CT6TXxMf3DdrTws0pSIHeY3id1yUurtXALNO6AMo4tmZSysBi9otVh8u87YPBg8NyXRPScpAf-lnAB1nOvcRS5qpX=w1654-h879-s-no-gm?authuser=0)
+=> Chức năng chỉnh dữ liệu: một số ô không nhập được dữ liệu <== Xem chi tiết mô tả [XML130/Thong-tu-12-BTC/Xuat-xml-danh-muc-Thong-tu-12.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Thong-tu-12-BTC/Xuat-xml-danh-muc-Thong-tu-12.md) để biết 1 số cột không được phép điều chỉnh.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
+
 ## [v.3.26.0324.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603240-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
 - 🐛: Tiêu đề cột tại form chọn Danh mục đơn vị và Thêm danh mục chưa đủ độ rộng để thể hiện đủ.
