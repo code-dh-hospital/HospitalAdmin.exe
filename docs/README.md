@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.26.0324.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603244-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603244-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603244-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
+- 🐛: From 01 : Chức năng xuất file excel, thêm dữ liệu từ file excel vừa xuất: Báo lỗi cột MADV không tồn tại do chức năng xuất Excel thiếu cột MADV
+![](https://files.catbox.moe/ofl4na.png)
+- 🐛: From 02: Chức năng xuất excel và thêm lại dữ liệu bằng file excel: báo lỗi cột MANV không tồn tại do chức năng xuất Excel thiếu cột MANV
+- 🐛: Sau khi chỉnh sửa lại file excel để thêm cột MANV và thêm lại thấy có cột chon không có tác dụng khi click vào:
+- 🐛: Chức năng thêm dữ liệu từ danh mục: Khi thêm xong không có dữ liệu hiển thị trên lưới
+- 🐛: Chức năng cập nhật dữ liệu: thông tin tài khoản cập nhật lần cuối không tự động lấy theo tài khoản đang đăng nhập khi không nhập dữ liệu
+- 🐛: Chức năng xuất XML: xuất và lưu file thành công nhưng gửi cổng tiếp nhận báo sai cấu trúc
+![](https://files.catbox.moe/pl13zj.gif)
+![](https://files.catbox.moe/0oc1my.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
+
 ## [v.3.26.0324.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603243-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603243-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603243-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
 - 🐛: Form 01 và 02: Khi mở form Thêm danh mục, chọn thêm dữ liệu từ option Chọn từ danh mục, sau khi chọn dữ liệu ra xong, vẫn còn 1 số cột chưa thể hiện đủ tên cột, mặc dù đã có thanh cuộn scroll bar.
