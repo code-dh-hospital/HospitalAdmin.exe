@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.26.0325.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603253-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603253-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603253-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
+- ✨: Xuất file XML và excel xuất ra thì phần tên file như excel thì có ghép thêm ngày giờ xuất, tên file XML thì có thêm tên mẫu và ngày giờ xuất để dễ phân biệt.
+- 🐛: Lỗi **Form 02**:
+- Chức năng Check chọn tất cả ở các form danh mục khi check chọn rồi bỏ chọn thì thứ tự các dòng dữ liệu bị thay đổi liên tục
+- Khi chỉnh rồi lưu dữ liệu thì thứ tự các dòng cũng bị thay đổi liên tục
+![](https://files.catbox.moe/rd9gu4.gif)
+- Mẫu 02/DM và 03/DM xuất XML hoặc Excel bị sai STT
+![](https://files.catbox.moe/6n3odv.png)
+- Form và mẫu 02/DM xuất XML hoặc Excel lấy sai thông tin Giới tính
+![](https://files.catbox.moe/4cwvz1.png
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
+
 ## [v.3.26.0325.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603252-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603252-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603252-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
 - 🐛: Lỗi **Form 02**:
