@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.26.0325.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603252-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603252-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603252-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
+- 🐛: Lỗi **Form 02**:
+- Chức năng chỉnh dữ liệu: ở form 01/DM thì chỗ Ngày chỉnh sửa không có tác dụng khi click vào và tự động lấy theo thời gian của hệ thống, còn ở form 02/DM thì có thể chọn và lưu tùy ý.
+![](https://files.catbox.moe/kfkbym.gif)
+- Ở cột Tài khoản cập nhật cuối cùng vẫn chưa tự động lấy theo tài khoản đăng nhập
+![](https://files.catbox.moe/jo3qch.gif)
+- Nhập Quyết định chuyển giao kỹ thuật báo lỗi 
+![](https://files.catbox.moe/7scm10.png)
+- Chức năng Xuất XML vẫn còn lỗi khi gửi tiếp nhận
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
+
 ## [v.3.26.0325.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603251-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
 - 🐛: Lỗi **Form 02**:
