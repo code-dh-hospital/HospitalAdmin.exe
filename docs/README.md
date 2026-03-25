@@ -6,6 +6,25 @@
 
 #
 
+## [v.3.26.0325.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603250-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi **Form 03 và 04**:
+1. Sửa lỗi: Mẫu số 03/DM `Danh mục thuốc, máu, chế phẩm máu`
+	- Giao diện lần đầu mở bị khuất một số nút, chỉ khi bấm vào một nút nào đó mới load các nút đủ:
+![](https://lh3.googleusercontent.com/pw/AP1GczPSjVhYF6g_GduJcPStZVlyjPGXJHORGbFowRgJYXsz2y_2PbnaqKk2CZMT_ecDmRoE0zCr3sf-Of1F7Snznnz6UvkK8bXK-xY1pGzD_MNTb-jJo5cGsMrqb7kLIy7ocK-8O2Rt6wxBDv27STVRSdSJ=w1654-h879-s-no-gm?authuser=0)
+	- Chức năng xuất excel và thêm dữ liệu từ file excel: File excel xuất thiếu cột `MAHH` nên khi thêm dữ liệu báo lỗi: 
+=> Chức năng xuất Excel từ form là mẫu Excel theo chuẩn cổng BHXH, phục vụ để upload lên cổng nên sẽ không có cột MAHH. Chỉ có chức năng xuất Excel mẫu (phục vụ import) mới có cột MAHH.
+- Chức năng click chọn dòng dữ liệu: Khi click chọn tất cả và bỏ click thì vẫn còn dấu tích chọn ở 2 dòng đầu tiên:
+![](https://lh3.googleusercontent.com/pw/AP1GczM_OMT9j9qg4kC6lLQLmhoc0sjXxDe4bQeJ9dXWbqy3zeLUVWYeCrDolLFBPIyzYvwfwXwlSVZmdo9BocCv9R_58klPJyZvfg4IdXhyVqDQh2BtNjnxr-MeWXLwymF_cBD4kxCGSxhLL0NFh5COaz6V=w1661-h879-s-no-gm?authuser=0)
+2. Sửa lỗi: Mẫu số 04/DM `Danh mục VTYT`
+	- Giao diện lần đầu mở bị khuất một số nút, chỉ khi bấm vào một nút nào đó mới load các nút đủ
+![](https://lh3.googleusercontent.com/pw/AP1GczOseL-RIvikotN3jd4I5lGY2yVcc92AFUyp04Kljz76auBTWHjFEThTb5tRT3Lw2_G9UzvsdXDZllg3_6VeJkrXifq1SH5Y-uPpcFKi0UngBwHMF5SjUiKGhBX3eDOALZzMdCjFSX8QDCVV0ozfXKfz=w1658-h879-s-no-gm?authuser=0)
+	- Chức năng xuất excel và thêm dữ liệu từ file excel: File excel xuất thiếu cột `MAHH` nên khi thêm dữ liệu báo lỗi
+=> Chức năng xuất Excel từ form là mẫu Excel theo chuẩn cổng BHXH, phục vụ để upload lên cổng nên sẽ không có cột MAHH. Chỉ có chức năng xuất Excel mẫu (phục vụ import) mới có cột MAHH.
+	- Chức năng click chọn dòng dữ liệu: Khi click chọn tất cả và bỏ click thì vẫn còn dấu tích chọn ở dòng đầu tiên
+![](https://lh3.googleusercontent.com/pw/AP1GczM_OMT9j9qg4kC6lLQLmhoc0sjXxDe4bQeJ9dXWbqy3zeLUVWYeCrDolLFBPIyzYvwfwXwlSVZmdo9BocCv9R_58klPJyZvfg4IdXhyVqDQh2BtNjnxr-MeWXLwymF_cBD4kxCGSxhLL0NFh5COaz6V=w1661-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
+
 ## [v.3.26.0324.5]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603245-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603245-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603245-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
