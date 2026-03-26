@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0326.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603263-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603263-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603263-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Xây dựng chức năng tiếp nhận, tạo lập mẫu 09/BH hồ sơ điều chỉnh, ký số, gửi cổng tiếp nhận theo thông tư 12/2026/TT-BTC
+- Bổ sung Menu trên phân hệ Reports theo thứ tự: Danh Mục (các form danh mục đang thực hiện ở Admin), Tổng hợp chi phí (đang có), Điều chỉnh chi phí (form mới). Xử lý thống nhất tên menu giữa 2 phân hệ: Reports và Admin, tên bám sát với tên mà TT12 qui định.
+![](https://files.catbox.moe/epxsar.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/696
+
 ## [v.3.26.0326.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603262-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603262-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603262-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Xây dựng chức năng tiếp nhận, tạo lập mẫu 09/BH hồ sơ điều chỉnh, ký số, gửi cổng tiếp nhận theo thông tư 12/2026/TT-BTC
 - Bổ sung Menu trên phân hệ Reports theo thứ tự: Danh Mục (các form danh mục đang thực hiện ở Admin), Tổng hợp chi phí (đang có), Điều chỉnh chi phí (form mới). Xử lý thống nhất tên menu giữa 2 phân hệ: Reports và Admin, tên bám sát với tên mà TT12 qui định.
