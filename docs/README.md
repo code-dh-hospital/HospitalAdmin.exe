@@ -6,6 +6,33 @@
 
 #
 
+## [v.3.26.0326.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603260-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
+
+
+☑ Form 5 DM Cận lâm sàng
+- 🐛: Fix : Chức năng thêm dữ liệu từ danh mục: Chưa load được đơn giá dịch vụ
+
+![](https://files.catbox.moe/v2nriv.png)
+![](https://files.catbox.moe/2xxwlm.png)
+
+- 🐛: Fix Chức năng xuất XML: thông tin thuốc phóng xạ kèm theo nếu không nhập ở danh mục thì khi xuất XML không có các thẻ này nên gây ra lỗi sai cấu trúc.
+
+![](https://files.catbox.moe/51zld0.png)
+
+---
+
+☑ Form 6 DM Thiết bị
+
+- 🐛: Fix Chức năng chỉnh dữ liệu: trường năm sử dụng có định dạng dữ liệu không đúng khi hiển thị dạng thập phân.
+
+![](https://files.catbox.moe/dxq46u.png)
+
+- 🐛: Fix Chức năng thêm dữ liệu từ file Excel: file có nhập thông tin mã máy nhưng lúc import thì báo cột này trống
+
+![](https://files.catbox.moe/864jyp.png)
+
 ## [v.3.26.0325.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603253-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603253-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603253-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
 - ✨: Xuất file XML và excel xuất ra thì phần tên file như excel thì có ghép thêm ngày giờ xuất, tên file XML thì có thêm tên mẫu và ngày giờ xuất để dễ phân biệt.
