@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.26.0327.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603271-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603271-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603271-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi Form 03 và 04:
+	- Mẫu 03: Vẫn không hiển thị đường dùng và dạng bào chế, không xuất được XML, excel dạng bào chế, Vẫn còn lỗi và treo phần mềm khi chọn Bộ phận.:
+	- Mẫu 03: Khi tích chọn vài hồ sơ bấm xuất XML xong hoặc cancel bấm lên danh sách thì danh sách bị lỗi mất dòng, dòng trùng lặp, tự tích chọn:
+![](https://lh3.googleusercontent.com/pw/AP1GczM5FxmpzEr5MzqYbMzF47Yd2SYIApItTYDhLlkNEt5L0t-zifJduPJE3NoJMqcgblwTQBx42v43Oln_PyTFxr6PncJfP5JpJsfEgSId0SeJCh_Ja3WD9AujvD9ToirTrNqpfDe34zd6ua2RXOujQUlf=w1658-h879-s-no-gm?authuser=0)
+	- Mẫu 04: Nhập sai dữ liệu phần mềm khóa form và các chức năng khác không thao tác được phải tắt phần mềm mở lại:
+	- Mẫu 04: Bấm chỉnh rồi lưu hoặc tích chọn tất cả rồi bỏ chọn thì danh sách bị đổi thứ tự, xuất excel sai STT:
+	- Mẫu 04: dữ liệu dạng số có thể nhập số âm, nhập sai thông tin bị treo phần mềm, không chỉnh được tỉ lệ thanh toán (nếu không cho chỉnh thì khóa lại):
+![](https://lh3.googleusercontent.com/pw/AP1GczMmInZ9DQU0sYmInrAdccruYwRuXNfUWgjSHPFFaBKpmXl1K-eqnPFIr_78oN1Ae1kaYmrIKDBVkRj9ZXYYDF6kIqYgRUMUj0-fN5DywuiY_gFSutJUD5XBP1BQ-pnUG8FbuL2R_MFauUtYL--HTF5p=w1658-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695#issuecomment-25440
+
 ## [v.3.26.0327.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603270-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
 - 🐛: Form 01 - Tích chọn tất cả rồi bỏ qua vẫn đổi thứ tự trên danh sách, Bấm xuất xml rồi bấm lên danh sách thì mất các dòng không có chọn, tự tích chọn, bị khóa 1 số dòng không chọn được, bấm xuất excel thoát thì danh sách cũng bị đổi. 
