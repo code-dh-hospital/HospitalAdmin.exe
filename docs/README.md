@@ -6,6 +6,22 @@
 
 #
 
+## [v.3.26.0330.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603300-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Xây dựng chức năng tiếp nhận, tạo lập mẫu 09/BH hồ sơ điều chỉnh, ký số, gửi cổng tiếp nhận theo thông tư 12/2026/TT-BTC #696
+- 🐛: 1 số thông tin bị sai chữ, sai thứ tự, không lưu được dữ liệu:
+![](https://files.catbox.moe/p9wiyx.png)
+- 🐛: Thống nhất thông tin các tiêu đề và sữa lỗi không lưu được thông tin của trường 'Thông tin gốc'
+![](https://files.catbox.moe/ogvzpj.png)
+- 🐛: khóa chức năng gõ chữ vào Trạng thái, chỉ cho chọn từ danh sách.
+- 🐛: Tên chức năng thêm số mẫu vào để dễ nhận biết.
+- 🐛: Treo phần mềm khi quên chọn trạng thái lúc chỉnh.
+- 🐛: Xuất excel tích chọn xuất vài bệnh nhân mà phần mềm xuất hết danh sách.
+![](Xuất excel tích chọn xuất vài bệnh nhân mà phần mềm xuất hết danh sách)
+- 🐛: Tích chọn tất cả bỏ chọn tất cả thứ tự danh sách bị thay đổi.
+- 🐛: Xuất XML thiếu thẻ khi không nhập đủ dữ liệu.
+![](https://files.catbox.moe/272qig.gif)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/696
+
 ## [v.3.26.0327.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603272-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603272-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603272-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
