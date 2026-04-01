@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.26.0401.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604013-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604013-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604013-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Sửa lỗi: Mẫu 01 và 02
+- Mẫu 01: Tích chọn xuất excel vài bệnh nhân mà phần mềm xuất hết danh sách, Xuất XML sai dữ liệu thẻ STT:
+![](https://files.catbox.moe/ht10rm.gif)
+- Mẫu 01: Dữ liệu nhập sai bị treo phần mềm:
+![](https://files.catbox.moe/q8inw9.gif)
+- Mẫu 02: Tích chọn xuất excel vài bệnh nhân mà phần mềm xuất hết danh sách:
+- Mẫu 02: Dữ liệu nhập sai bị treo phần mềm:
+![](https://files.catbox.moe/m9o694.gif)
+! Mẫu 02: Xuất XML thiếu thẻ dữ liệu , sai giới tính -> Dù không có dữ liệu thì vẫn phải xuất file đủ thẻ:
+![](https://files.catbox.moe/zei4m2.gif)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
+
 ## [v.3.26.0401.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604012-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604012-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604012-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi: Mẫu 03: Lỗi chức năng nhập từ file excel dòng cuối file mẫu bắt buộc phải có dữ liệu TEN_HOAT_CHAT, TEN_THUOC, DON_VI_TINH, MA_DUONG_DUNG (nhập gì cũng được).
