@@ -6,6 +6,22 @@
 
 #
 
+## [v.3.26.0401.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604010-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
+- 🐛: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
+
+- Fix Form 5 Không cho phép lưu giá trị số nhỏ hơn 0
+
+![](https://files.catbox.moe/wyib83.png)
+
+- Fix Form 5 xuất XML thiếu giá trị thẻ TU_NGAY và DEN_NGAY
+
+![](https://files.catbox.moe/q0enwf.png)
+
+- Fix Form 6 không lock form khi nhập sai giá trị.
+
+![](https://files.catbox.moe/bsuhvr.gif)
+
 ## [v.3.26.0331.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603312-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603312-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32603312-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Cập nhật ghi nhận cột XML3.GOI_VTYT theo mô tả [XML130/QD3176/Table xml3176.bang03 - [Phụ lục - Mô tả XML3176].md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD3176/Table%20xml3176.bang03%20-%20%5BPh%E1%BB%A5%20l%E1%BB%A5c%20-%20M%C3%B4%20t%E1%BA%A3%20XML3176%5D.md).
