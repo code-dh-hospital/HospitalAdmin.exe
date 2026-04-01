@@ -6,6 +6,21 @@
 
 #
 
+## [v.3.26.0401.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604011-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604011-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604011-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi Mẫu số 03 và 04, danh mục Thông tư 12.
+	- Mẫu 03: Tích chọn xuất excel vài bệnh nhân mà phần mềm xuất hết danh sách:
+	![](https://lh3.googleusercontent.com/pw/AP1GczNg3qN27k-4oXO1q6ZgfZ_S9a-RNyTyNhVrHNUD0qnz32YKUucpVH6bzhI_IZg4Ya7Ga2Ad8F7kgQWCwfj6rYQadCtIi3nOf34t29V-IF4NZ39JDCA-tk7lX7L8sKTzMvuJ4v2skV0mi8mV8luAMQUZ=w1656-h879-s-no-gm?authuser=0)
+	- Mẫu 03: Dữ liệu nhập sai bị treo phần mềm và nhập được số âm:
+	![](https://lh3.googleusercontent.com/pw/AP1GczMQ7rzkxi6cUcOeYOzbO7cL5M2UXURW1T1NEqVVyefGaTRkf2TP_nHc8iLBOLC4YWj3ljP82614qotUeV91Vi2Lav-HTkfVRXO0j53mySxSodTW5b-8A_iovbAfaQlwPvorubFjPlNovHKVFLOeSUBo=w1658-h879-s-no-gm?authuser=0)
+	- Mẫu 03: Xuất XML gửi cổng BHXH báo lỗi các thẻ dữ liệu không phải dạng số (dư số thập phân):
+	![](https://lh3.googleusercontent.com/pw/AP1GczMNnFiMUufyeAxmXZFDpQD00aa3gct38HE80Kplgg9uQiPLRAWltgF-LaePcXJCKG0IfcVudYBdpHeCeq-d7-Yl2FrGWkCBnJClpaorzbsB4jZApAKtvhr2M55L6Iw0RKv3yDsYYABuBY2vK-XvFkZn=w561-h778-s-no-gm?authuser=0)
+	- Mẫu 04: Dữ liệu nhập sai bị treo phần mềm:
+	![](https://lh3.googleusercontent.com/pw/AP1GczOOg1fOB2BS2RauvGg0CH8VZBrHFEausersYApYnsCap9uQ_-sb_o316u2Tkm6SmR6E1TAsLrWlP0LpvjbEDE-KEFhb0Ez-QEoZzBXpnmtZaKaYCQllsyXz-oz09U4GyTia1pz2MCAwnqVnstYhwV7v=w1654-h879-s-no-gm?authuser=0)
+	- Mẫu 04: Tích chọn xuất excel vài bệnh nhân mà phần mềm xuất hết danh sách, XML nhiều dữ liệu bị dư số thập phân, XML sai dữ liệu thẻ STT:
+	![](https://lh3.googleusercontent.com/pw/AP1GczPquV78hTOhEMTJbrTHc6onS5hvE_VO7uT9UbhmwnKCWWbFyDfet44HwcZpdcLEoXch6_oi13ph0k-9uug-yoXIcuI3wAspJAur0NDzYvV0fap2znPYJfw007kehJaKpUIMD1HchbbO1uqb3kCenHXi=w1229-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695#issuecomment-25652
+
 ## [v.3.26.0401.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604010-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
 - 🐛: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
