@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0401.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604012-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604012-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604012-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi: Mẫu 03: Lỗi chức năng nhập từ file excel dòng cuối file mẫu bắt buộc phải có dữ liệu TEN_HOAT_CHAT, TEN_THUOC, DON_VI_TINH, MA_DUONG_DUNG (nhập gì cũng được).
+![](https://lh3.googleusercontent.com/pw/AP1GczNUccbOep2JvuD3s5Kmv7E0YyhToyxg8iPS9orStTfHu3sxwLy0OdgPmZJb53cd32K4oy26BWhN7Vcm9T-ulY0AfzzHGq0bjIphiyGSjzTtWZuk5CT-cSCiw-f7faDRT8QPNuW5P2YeD6r9FPVh1jXr=w1659-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMEa9CMBVswPd95IyjPEs84_nkxC3NsHe4DEgF8ur-YVxh7a-nQAKlnxOZheVD9r5hLnrFA45APlP-xWZVX9XbXWNdp5-EfuOZ-CVNdmtKva5Nv74TDyQB-Fi51jTYkCGLcZ1f5ta7-QjvIDVqc5lhI=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695#issuecomment-25703
+
 ## [v.3.26.0401.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604011-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604011-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604011-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi Mẫu số 03 và 04, danh mục Thông tư 12.
