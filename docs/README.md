@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.26.0402.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604021-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604021-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604021-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Sửa lỗi: Mẫu 01 và 02
+- Mẫu 01: Chỉnh dữ liệu khi có trường dữ liệu không thỏa điều kiện thì bị báo lỗi chéo đỏ, sau đó không thao tác được gì, phải tắt pm mở lại.
+- Mẫu 01: Chức năng xuất excel lỗi, sau khi chọn nơi lưu trữ bấm Lưu là xuất hiện lỗi
+![](https://files.catbox.moe/eyfo31.gif)
+- Mẫu 02: Cổng bắt buộc tất cả các trường dữ liệu đều phải có dữ liệu, nhưng phần mềm hiện vẫn chưa bắt buộc phải nhập liệu các trường
+- Mẫu 02: Chức năng chỉnh, khi còn 1 vài ô chưa thỏa điều kiện thì phần mềm báo lỗi, sau đó chọn lại nhưng không có tác dụng, không lưu được, bỏ qua cũng không được. Hoặc đã chọn chức danh nhưng vẫn báo lỗi yêu cầu nhập chức danh
+![](https://files.catbox.moe/w8det3.gif)
+- Bổ sung chức năng xuất và import excel dữ liệu đầy đủ.
+![](https://files.catbox.moe/w8det3.gif)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
+
 ## [v.3.26.0402.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604020-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
