@@ -6,6 +6,22 @@
 
 #
 
+## [v.3.26.0403.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604031-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604031-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604031-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
+
+- 🐛: Fix form 5 sai giá trị cột TU_NGAY và DEN_NGAY khi nhập dữ liệu từ Excel
+- 🐛: Fix form 5 lỗi cột DON_GIA thêm dữ liệu từ Excel
+- 🐛: Fix form 5 lỗi cột SO_LUONG_CGKT có phần thập phân sai định dạng khi gửi cổng
+- 🐛: Fix form 5 hiển thị thiếu thông tin trên lưới
+- 🐛: Fix form 5 - 6 chọn lại dòng vừa chỉnh.
+- 🐛: Fix form 6 Kiểm tra bỏ trống thông tin khi xuất XML
+
+![](https://i.vgy.me/uliRTR.png)
+![](https://i.vgy.me/QUsFnr.png)
+![](https://i.vgy.me/7WpQSf.png)
+![](https://i.vgy.me/n7V1Xy.png)
+
 ## [v.3.26.0403.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604030-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC bằng API
 
