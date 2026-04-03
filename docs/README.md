@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.26.0403.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604032-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604032-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604032-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi Mẫu 03 và 04
+	- Mẫu 03: Yêu cầu Thêm dữ liệu excel bỏ ràng buộc dữ liệu MA_THUOC (Lỗi do em test chưa kỹ nên yêu cầu thêm) chỉ ràng buộc dữ liệu cột MAHH (do hiện tại nhập gì cũng được thì không cần ràng buộc trống):
+	- Mẫu 03: Gửi XML báo lỗi 1 số thẻ dữ liệu như SO_LUONG (không phải dạng số), BO_PHAN_VT (không nằm trong danh sách) -> dữ liệu không có thì để trống không để số 0 TLHH_BQ, TLHH_CB, BO_PHAN_VT.
+	- Dữ liệu nhập sai bị treo phần mềm (Nhờ code fix lại ở tất cả các ô nhập dữ liệu).
+	- Mẫu 04: Yêu cầu Thêm dữ liệu excel chỉ ràng buộc dữ liệu cột MAHH bỏ ràng buộc trống dữ liệu cột khác (do hiện tại nhập gì cũng được thì không cần ràng buộc trống).
+	- Mẫu 04: Tích chọn xuất excel vài bệnh nhân mà phần mềm xuất hết danh sách, XML nhiều dữ liệu bị dư số thập phân, XML sai dữ liệu thẻ STT.
+	- Mẫu 04: Gửi XML báo lỗi TYLE_TT_BH , SO_LUONG không nên thêm số thập phân.
+	- Mẫu 04: Dữ liệu nhập sai bị treo phần mềm (Nhờ code fix lại ở tất cả các ô nhập dữ liệu).
+- ✨: Mẫu 03 và 04 => Bổ sung chức năng xuất và import excel dữ liệu đầy đủ.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695#issuecomment-25768
+
 ## [v.3.26.0403.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604031-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604031-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604031-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
