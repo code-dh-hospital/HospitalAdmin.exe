@@ -6,6 +6,22 @@
 
 #
 
+## [v.3.26.0406.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604061-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604061-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604061-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi danh mục Thông tư 12
+1. Mẫu 03:
+	- Nhập sai dữ liệu lưu phần mềm báo lỗi dạng code, chỉnh lại đúng vẫn báo lỗi đó không lưu được -> Chuyển sang báo lỗi dạng thông báo hoặc chỉ cho nhập số ký tự giới hạn và cho lưu khi chỉnh lại đúng:
+	- Cảnh báo thiếu Nhà thầu, Loại thuốc thì không lưu được dữ liệu, nhập vào thông tin gì cũng báo lỗi X đỏ và không lưu được dữ liệu , phải bỏ qua tắt form mở lại mới mất X đỏ:
+    ![](https://lh3.googleusercontent.com/pw/AP1GczMwa5geamu9tFp3WbtDARMkjI2e2n-D9f30acv1nZkW9L_8MGi-Fdjhey92p-fX06mt9s3pLbI03fh__5fWKjWBKUNS348aI4lh9T_FA7JhHZGcKDXQT3Sc21T2YZYBo0ET_T_DMZSgSCAOy1vlxDHZ=w1654-h879-s-no-gm?authuser=0)
+	- Xuất excel - dữ liệu đầy đủ bỏ ràng buộc cảnh báo thiếu Nhà thầu và Loại thuốc,... vì xuất ra là để cập nhật các thông tin:
+    ![](https://lh3.googleusercontent.com/pw/AP1GczMatI-uA4SryF3O-x9c6EAPfuB1VK0M1o2klJsgbFKmgcA-82kolSzIpuIsNvG5jmaGdf6MWJN1C0lrbh20SYLbl4vEnwEdnOLfBLlxvF7ikqfiVHxT8oq1IoIEnULNptuQpQEmSGKeJP7aoU7s8iAz=w1658-h879-s-no-gm?authuser=0)
+	- Nước sản xuất ghi tên nước không phải ghi mã viết tắt:
+    ![](https://lh3.googleusercontent.com/pw/AP1GczPrmsd3MtmZQWavZHeJZRm5WycOAMeSrzv_uNr5MQODkg76bYAT2wgAlFLXx7tewr5pNAjoItCLq0wWQzwMZmys2ZJQzHGScqvwPlXFoaZkGONTZERvyU5zEM_CY4vZKD0pF4HgDY4p6k-q2OZgASdX=w1658-h879-s-no-gm?authuser=0)
+2. Mẫu 04:
+	- Lấy sai dữ liệu nhóm VTYT và nước sản xuất:
+    ![](https://lh3.googleusercontent.com/pw/AP1GczOF1LA-vVlr18Ujl2yf_dYLJgPbWKtX0RkCb6ddgk-ODOysVfXIXYCC8EB8Te1KwI8kKN1iXZu_N-NwzJ0eq9cPeD9hebIWCGrmdpVfO_8F9UCFeGOVnzkqJSaINm9YRQOkymkTqC8F-e9ibeUiT4f8=w1563-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695#issuecomment-25854
+
 ## [v.3.26.0406.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604060-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC bằng API
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/724
