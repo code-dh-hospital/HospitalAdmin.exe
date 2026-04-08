@@ -6,6 +6,21 @@
 
 #
 
+## [v.3.26.0408.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604081-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi mẫu 03 và 04:
+1. Mẫu 03:
+	- Xuất excel - dữ liệu đầy đủ bỏ ràng buộc cảnh báo thiếu Nhà thầu và Loại thuốc,... vì xuất ra là để cập nhật các thông tin:
+    ![](https://lh3.googleusercontent.com/pw/AP1GczPMhlf7h6h4mm830DoLiq_99ndtPk1OCLyKncw09RDYb6IcGdWPHVhF9PAhCnaVE1wAYowjeeF_byZqedk2Oi5RITuEB-jUqI5RfRl0C6fzpBi7zAgaAfX4lAxqrjy-0JciYDAJufHkrwaAgUfaiStQ=w1654-h879-s-no-gm?authuser=0)
+	- Khi chọn 1 dòng bấm chỉnh rồi bỏ qua hoặc lưu lại thì phần mềm chọn lại dòng đầu danh sách -> Giữ nguyên dòng đang chọn chỉnh:
+    ![](https://lh3.googleusercontent.com/pw/AP1GczP_XqhE_3YMb9HAVF6syThvP2LLeF2CUrXiL0YoB9xfFouLnDyI_CiX7fTHwqWjP3rtpwWOiRhJZjQdI7r6Pu-yia-O_XEO6ekR2WlRTp9jeBoJZvzFyZgOBcVnp9E9f37AQ-RSVWKDUqraPPztJSTq=w1661-h879-s-no-gm?authuser=0)
+	- Thêm dữ liệu từ anh mục bỏ các ràng buộc thông tin thiếu:
+    ![](https://lh3.googleusercontent.com/pw/AP1GczNH10yQEjOo-EyNE3lDHO3tZ1w3gq91D1BUMNugPy6IUD_Zu8S1QmzQgy5n5-rnH4FVJBejZ1FCe_7cq-lY08tRHg75H4LhGj7SwHY6_VmvHtxUEjma1etrRJUG5Z6421PgNsOLYI8SdPWDJqz2JhIN=w1658-h879-s-no-gm?authuser=0)
+2. Mẫu 04:
+	- Nhóm VTYT chưa lấy tên nhóm:
+    ![](https://lh3.googleusercontent.com/pw/AP1GczPeoolQBCWIER8RFVg2cl9FOrRSKkCnJkw2vFukUxpaa-ANCLckw1Pwd7OFdamL6VGCY4vW3iYDe668Lx9VlBLdW1H1MIe6-Jr5hju0J2Ba4mbe4weSkIgZVJetKb7q-tQAA8bmTYuFdzTWtmV4a5iu=w1658-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695#issuecomment-25953
+
 ## [v.3.26.0408.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604080-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC bằng API #724
 - ✨: Mẫu 02/DM Nhân lực: Đề xuất cột Vị trí (<VI_TRI/>) cho phép bỏ trống không bắt buộc chọn. Khi xuất XML thì giá trị để trống luôn. Nếu để 0 cổng sẽ báo lỗi
