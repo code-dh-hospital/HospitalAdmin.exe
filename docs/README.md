@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0408.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604080-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC bằng API #724
+- ✨: Mẫu 02/DM Nhân lực: Đề xuất cột Vị trí (<VI_TRI/>) cho phép bỏ trống không bắt buộc chọn. Khi xuất XML thì giá trị để trống luôn. Nếu để 0 cổng sẽ báo lỗi
+![](https://files.catbox.moe/38hdkq.gif)
+- ✨: Mẫu 03/DM (Thuốc, Máu, Chế phẩm): Đề xuất khi bấm nút Thêm-> Chọn từ Danh mục thì trường nào thiếu chỉ cảnh báo thôi nhưng cho phép người dùng thêm vào được. Hiện tại canh rbaso và không cho thêm khi cập nhật thủ công
+![](https://files.catbox.moe/gga733.gif)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/724
+
 ## [v.3.26.0407.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604071-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi XML bằng API cho mẫu 09/BH Hồ sơ điều chỉnh theo TT 12/2026/TT-BTC #727
 - Do cổng lỗi nên chưa test được.
