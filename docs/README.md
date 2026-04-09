@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0409.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604092-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604092-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604092-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Mẫu 03 và 04: `Đề xuất khi xuất file XML nếu DON_GIA_BH không có lẻ thì xuất file bỏ ký tự . và số lẻ phía sau.`
+![](https://lh3.googleusercontent.com/pw/AP1GczMd7AAh9jhiO3qtr3bhV8My1Lh4qaw7tYb1zmbD5s7vGXd1AyN5h1J_NCX5-SEsjN9qs-4AHnrCOYUxiSP99FzABqqG7-Bx1WHxmD4bPh7fZJiExHWIauNXvV29zfLpa0zWjUfGNa8pT5uPsW0PHfUP=w1658-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMueJIIsp34W_A5EwIj2KXTA83DIEe2JZSXZbbiTs_eUKBDCHN76utFcvZTiY8xxa0YZDsKo4-Ji2IGtBFJyhg-6jl5VUINQkEjuyufoU-Ha0Tki2CrbESVNbi6oBn7H2cyJZi43myWiuY4q31PvfDp=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695#issuecomment-25989
+
 ## [v.3.26.0409.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604091-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604091-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604091-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi XML bằng API cho mẫu 09/BH Hồ sơ điều chỉnh theo TT 12/2026/TT-BTC #727
 - 🐛: Fix lỗi xuất xml và xuất xml ký số
