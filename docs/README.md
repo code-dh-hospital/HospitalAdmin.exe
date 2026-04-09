@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0409.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604093-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604093-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604093-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: XML3176 `so_ngay_dtri` và `ma_loai_kcb` ghi nhận theo cập nhật [XML130/QD4570/ma_loai_kcb.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/ma_loai_kcb.md)
+![](https://lh3.googleusercontent.com/pw/AP1GczPRIOpPN3xieCcG36d1OW22brxSTOgRncj_EBzkpc9-YTK1vLuzi80oN9RKZFmppImTfJQ1nO9h7qeIESWoh-fmUtUs9_nJoqTe9OqDuq1u6tyrnOkOvebVlL9GaHJNPOBxZKZdkUlwZ8JNKBkmyNRO=w1290-h690-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPgwczAlKwIE1xoQB3qr5wZ_BWM55J3MrgIeDzxuF1giW9D566PHHX-KTIY8JWAmi3MIz1LCOTYV4n__vmyxkUP1j8Krp3Vjd2QdBGi2VbSqQM_cVwg1NxVWD0zz7lT1UqN-_BRLd27hWyXswFmmKbM=w1658-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/805#issuecomment-25916
+
 ## [v.3.26.0409.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604092-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604092-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604092-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Mẫu 03 và 04: `Đề xuất khi xuất file XML nếu DON_GIA_BH không có lẻ thì xuất file bỏ ký tự . và số lẻ phía sau.`
