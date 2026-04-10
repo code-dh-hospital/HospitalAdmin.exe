@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.0410.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604102-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604102-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604102-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC #695
+- 🐛: Mẫu 02/DM: Mã Khoa, Tên khoa lấy sai qui định TT12. Em và anh Bình đã có báo lỗi nhưng chưa có phản hồi -> Đề nghị cho phép chọn nhiều mã khoa, tên khoa hoặc tự nhập phần này
+![](https://i.vgy.me/coq7zZ.png)
+- 🐛: Mẫu 01/DM: Cách hiển thị lỗi khi nhập liệu không thỏa điều kiện, toàn bộ đều báo lỗi code, người dùng không biết sai chổ nào
+![](https://i.vgy.me/yX4AeB.gif)
+- 🐛: Mẫu 02/DM: Chức năng Thêm dữ liệu từ file excel không cập nhật được dữ liệu của 1 số cột.
+![](https://files.catbox.moe/d2ykub.gif)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
+
 ## [v.3.26.0410.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604101-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi Mẫu 03 và 04 khi thêm mới dữ liệu
