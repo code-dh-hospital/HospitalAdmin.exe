@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0410.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604101-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi Mẫu 03 và 04 khi thêm mới dữ liệu
+![](https://lh3.googleusercontent.com/pw/AP1GczMGGOY3wLFmG2w8M4qlHygHI2kKgmMzpvjdyc3rHGcAYkjB1ayfagP75OzQz6mZaktDnyI6tD601kk863X___ZiMNG_uiDGsUqiI5N_BqiLMaBdiq78vkhi9pthqpWd10gRzK1wltbfGC4iIiMwDzej=w1661-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczP7ybwYTp9uUpzMS5U7h8EJSB6e-mR2ElpC6vnpQf8NE8_3c3fSPICQ0a15xwB3-tkPD8wn_mXKzt8ycUGZQEvV4FhrTtL3SJBodYsVGw4Mz9fZZdgOdDLzeQoUyjOOAJsNIEJ23SmShHv-PYo4gmdf=w1658-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695#issuecomment-26003
+
 ## [v.3.26.0410.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604100-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC bằng API #724
 - 🐛: Lỗi phát sinh mẫu 02/DM nếu Thêm từ Danh mục (Dư dấu phẩy)
