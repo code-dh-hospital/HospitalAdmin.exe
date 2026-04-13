@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.26.0413.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604132-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604132-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604132-NasDHSolutions.json)</sup></sup></sub>
+
+1. Sửa lỗi Mẫu số 3:
+	- DM3 Xuất xml ký số lỗi -> phần mềm vẫn báo ký thành công và thông báo 3 lần và có 1 lần trống:
+	![](https://lh3.googleusercontent.com/pw/AP1GczNi9XaOB4wAOZ0CAR0cu1UaXC0ofrlFrdGE5QpU7ZjHMxBZAuehZ71PnzGeZ4315vWo19I4ELw68BIux2SnvBa7jJvSREG5Q04QL67moNs1jCMQ5GtJFSkkpoeRc1d85ouH0_3a1Q4cvksi7DJ-RY4q=w1654-h879-s-no-gm?authuser=0
+    - Không lấy được Đơn giá lên form và xuất file:
+    ![](https://lh3.googleusercontent.com/pw/AP1GczNOXO6W4LMRtSU5TX6D85y2fJOZs4T3vY-og15jVCq0NsSqe2YHWl1ZjYvv904aKO6KpCNhRJZcY4rsw-C_9ywVnF_fCsrPGCl2hmAEsxLkOKhqibbEpnSPZhJajCYJHThqyE3hOFzPQaAGJYNbqWAJ=w1654-h879-s-no-gm?authuser=0)
+2. Sửa lỗi Mẫu số 4:
+	- DM4: xuất XML không ký số phần mềm vẫn báo ký số thành công. Xuất xml ký số lỗi -> phần mềm vẫn báo ký thành công và thông báo 3 lần và có 1 lần trống:
+    ![](https://lh3.googleusercontent.com/pw/AP1GczO-LodmjLvl9r2bIF3l3fq6rHC5p4uzVbdHkc_zQhzbXq6bgEJyXrBp2-mIM7jsp--GHoi_WHTeBepl9mX0PFELEg87cmQ8_su9_rlJ_n2FcU6fTkZPGsvNyl5qpIa4EVGi0uS372eJsODD36zzOEWa=w1661-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695#issuecomment-26050
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695#issuecomment-26072
+
 ## [v.3.26.0413.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604131-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Chức năng ký số và gửi bằng API Mẫu 01/BH theo TT12/2026/TT-BTC #726
 - 🐛: Lỗi khi cấu hình gửi cổng chính thức
