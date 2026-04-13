@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0413.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604131-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Chức năng ký số và gửi bằng API Mẫu 01/BH theo TT12/2026/TT-BTC #726
+- 🐛: Lỗi khi cấu hình gửi cổng chính thức
+![](https://i.vgy.me/q0sYCv.png)
+- ✨: Bổ sung thêm cấu hình url
+![](https://i.vgy.me/5Ugefj.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/726
+
 ## [v.3.26.0413.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604130-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
