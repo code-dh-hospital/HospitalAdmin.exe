@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0413.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604133-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604133-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604133-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung cập nhật dữ liệu từ file Excel theo mô tả: [XML130/Thong-tu-12-BTC/Xuat-xml-danh-muc-Thong-tu-12.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Thong-tu-12-BTC/Xuat-xml-danh-muc-Thong-tu-12.md) cho 6 mẫu Thông tư 12.
+![](https://lh3.googleusercontent.com/pw/AP1GczN13iYsELouAGpqj7SwsQ7yqUDv2YEp12Y9euB0c9YCKeYHuK1C_K-XUqhuXX4kqSMw3lP-KJkfF7zn7YLdReCoN2zrMJXuqPeDkuLMSH6mW7Jr4jedqtWqOZMRimeud3DywZf6jmMsSNde5F3a3Ho3=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMcXbPrj0vfvNfAEk2luVRA9SqyPeUlpkuOofidGN1JCkmTARkmqbJAoMpAm6CDJMJFNmCha0jUSe1Z8bldpMHQ87rvWai2fVJ3ErZTAz0Q6Pub0kJG-ucvh58tRms8I69rQTB32repXlVtPWbCall8=w1663-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNcTKRvniXzg2VoXnRh6vNVaDCbXVbNkrCWzmvAubgzBygYttrrqcD7133s0RvJZ3tGzInPwQtXIRsvkU7IkUdM7nMXJUwMIu_XrEOTGWRQRuzLWB9X4ID7WXC8yeUN_7SESn29L6AxPzdYgGPHH192=w1658-h879-s-no-gm?authuser=0)
+ - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/724#issuecomment-26035
+
 ## [v.3.26.0413.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604132-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604132-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604132-NasDHSolutions.json)</sup></sup></sub>
 
 1. Sửa lỗi Mẫu số 3:
