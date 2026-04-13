@@ -6,6 +6,32 @@
 
 #
 
+## [v.3.26.0413.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604130-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
+
+- 🐛: Fix lỗi Form 5 :
+- check chọn để xuất xml bị thiếu so với số lượng đã check
+- Check 1 dòng luôn báo lỗi chưa chọn dữ liệu
+- Ràng buộc định dạng cột TU_NGAY và DEN_NGAY theo Thông tư 12
+- Ràng buộc 1 số trường không được bỏ trống khi xuất XML.
+- Nhập giá trị sai thông báo lỗi sau đó nhập lại giá trị đúng vẫn không lưu được.
+
+![](https://i.vgy.me/tz1G9n.png)
+
+![](https://i.vgy.me/TC8rOC.png)
+
+![](https://i.vgy.me/zjNtra.png)
+
+- 🐛: Fix lỗi Form 6 :
+
+- Số lưu hành nhập quá 20 ký tự, phần mềm báo lỗi không cho lưu chỉnh lại vẫn không lưu được , các thông tin khác đánh dấu X đỏ bỏ phải tắt form mở lại
+- Ràng buộc thêm thông tin khi xuất XML
+
+![](https://i.vgy.me/waEBoX.png)
+
+![](https://i.vgy.me/KB6zEA.png)
+
 ## [v.3.26.0410.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604103-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604103-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604103-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC #695
 - 🐛: Mẫu 02/DM: Mã Khoa, Tên khoa lấy sai qui định TT12. Em và anh Bình đã có báo lỗi nhưng chưa có phản hồi -> Đề nghị cho phép chọn nhiều mã khoa, tên khoa hoặc tự nhập phần này
