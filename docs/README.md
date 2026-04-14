@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0414.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604141-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
+- 🐛: Form 02 : Lỗi Add danh mục bằng file excel không lưu được ngày cấp chứng chỉ hành nghề và từ ngày, đến ngày
+![](https://i.vgy.me/0KCmQ7.gif)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
+
 ## [v.3.26.0414.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604140-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
