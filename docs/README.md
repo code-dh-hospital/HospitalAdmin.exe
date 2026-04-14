@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0414.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604142-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604142-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604142-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi: **MẪU 03** khi xuất XML hoặc XML ký số báo lỗi: Do cột **NHA_SX** có ký tự `&`
+![](https://lh3.googleusercontent.com/pw/AP1GczPK42HLfAfoaJyURDk_6vP2plHwlFnPoT0jfbh-rfw4KAn4zfKPsnNJdysvVpUQ933BRSAdsrx6wEkJYA31pTIm47mQe4u7s0Vls2QRhnPsVEsvu4fBLAyzMis6dkmXmHVyDZZlBklp0LqWIXCRlm-y=w1663-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695#issuecomment-26107
+
 ## [v.3.26.0414.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604141-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
 - 🐛: Form 02 : Lỗi Add danh mục bằng file excel không lưu được ngày cấp chứng chỉ hành nghề và từ ngày, đến ngày
