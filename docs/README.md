@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.26.0416.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604161-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604161-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604161-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi Mẫu 03 và 04 - Thông tư 12:
+	- Mẫu 03/DM Xuất Excel không lấy được dữ liệu NHA_SX và sai vị trí cột NHA_SX:
+    ![](https://lh3.googleusercontent.com/pw/AP1GczNjvhW1eR5bTyRBe3qg-DuUV-ROQR4XozYiFItQlu3qPPFOnWJNb0ubVH4DAO0UK2qcTP70B5vV378sc5E7qOxhllcCRSkgw0iZtxFjp7irC5HJf1JBeUgdMJCqqq3bEGr3pEw0kwaIf3A2Me4WSPK4=w1658-h879-s-no-gm?authuser=0)
+    - Mẫu 03/DM Cập nhật dữ liệu từ excel đầy đủ báo lỗi:
+    ![](https://lh3.googleusercontent.com/pw/AP1GczMBp9Hus3-6pQ_9jPuOkpCzL_Nl-AEHIDsomBuzpCZAbpEzmqDMHLQn1MddXZYAc6KRCD84QdKwyQlSM8NhG3YutHXrwWEmuEgHNIG44XJWwR7LpVr-HAtA95ZZg1I_Tjhv5V8FNbSyC7J4RyhukZAG=w1658-h879-s-no-gm?authuser=0)
+	- Mẫu 04/DM Xuất Excel không lấy được dữ liệu NHA_SX và sai vị trí cột NHA_SX:
+    ![](https://lh3.googleusercontent.com/pw/AP1GczP5Zv2zBrknJzNDkZIoTBjnqx807PL8-z2mUXdSwfbAu_LsvFz7kGXHy1Xep3VqSYgCGIbuuRZGvYgPPucyhygPaZz3pCK7ZnNjrnZtxnG1Ec0Ujxebxs149L-D46k_a2VzEd1yfi4qDE-P9szgnSQr=w1663-h879-s-no-gm?authuser=0)
+    - Mẫu 04/DM Cập nhật dữ liệu từ excel đầy đủ báo lỗi: ![](https://i.vgy.me/lLAqw2.png)
+    ![](https://lh3.googleusercontent.com/pw/AP1GczNGZINCpiNb73uJieqBFzMJTzqobjM6skYy5BFMIe7JVMemzP7a6zuJI7CakBRGSwUq3ZopuK-DBQ6ZAJBOjvRyNdZ-wdHJodzVn5uU9rXvS6RoBLOEyMFXxQfCRt9IMbEv7uOQMpn1_6uULJvkNi9T=w1658-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/724#issuecomment-26195
+
 ## [v.3.26.0416.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604160-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Hỗ trợ tính tiền chí phí gói VTYT vượt 45 tháng lương cơ bản theo mô tả: [XML130/Goi-VTYT-theo-thang-luong-co-ban.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Goi-VTYT-theo-thang-luong-co-ban.md)
