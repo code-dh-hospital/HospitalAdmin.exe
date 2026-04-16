@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.0416.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604163-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604163-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604163-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC bằng API #724
+- 🐛: Mẫu 01/DM -  đề nghị ghi nhật ký thêm chi tiết thông tin.
+![](https://i.vgy.me/4zFwLq.png)
+- 🐛: Mẫu 02/DM thêm nhân viên từ danh mục báo lỗi
+![](https://i.vgy.me/SUK8nI.gif)
+- 🐛: Mẫu 02/DM Cập nhật dữ liệu từ excel đầy đủ báo lỗi
+![](https://i.vgy.me/lDGIrP.gif)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/724
+
 ## [v.3.26.0416.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604162-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604162-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604162-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/695
