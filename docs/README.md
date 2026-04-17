@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.26.0417.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604174-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604174-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604174-NasDHSolutions.json)</sup></sup></sub>
+-- 🐛: Lỗi - Admin: Xem hồ sơ XML, Xuất file XML phần mềm load chậm #815
+	- Fix lỗi:
+		
+		![](https://i.vgy.me/oLrqjL.png)
+		![](https://i.vgy.me/BQtpwK.png)
+
+		- Xuất XML:
+		
+		![](https://i.vgy.me/p1Oyw3.png)
+		![](https://i.vgy.me/fAHCFx.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/815
+
 ## [v.3.26.0417.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604173-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604173-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604173-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: XML13 theo QD3176 bỏ trường TEN_DICH_VU, TEN_THUOC
