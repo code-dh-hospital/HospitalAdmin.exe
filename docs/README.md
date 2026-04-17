@@ -6,6 +6,22 @@
 
 #
 
+## [v.3.26.0417.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604171-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604171-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604171-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Prescription: Bổ sung chức năng tách thẻ BHYT 2 cho BANT Theo đợt #529
+	- Cập nhật Admin: xuất xml BANT đợt 2 thẻ
+			![](https://i.vgy.me/h4Ysff.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/529
+<<<<<<< HEAD
+
+## [v.3.26.0417.0]()
+- ✨: Yêu cầu - Prescription: Bổ sung chức năng tách thẻ BHYT 2 cho BANT Theo đợt #529
+	- Cập nhật Admin: xuất xml BANT đợt 2 thẻ
+			![](https://i.vgy.me/h4Ysff.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/529
+=======
+
 ## [v.3.26.0416.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604163-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604163-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604163-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC bằng API #724
 - 🐛: Mẫu 01/DM -  đề nghị ghi nhật ký thêm chi tiết thông tin.
