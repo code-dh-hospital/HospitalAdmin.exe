@@ -6,6 +6,48 @@
 
 #
 
+## [v.3.26.0420.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604202-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604202-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604202-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu: Bổ sung thông tin phân biệt kỹ thuật YHCT hoặc PHCN và tách phiếu thực hiện kỹ thuật tương ứng (BV Trung Mỹ Tây) #137
+	- Cập nhật Admin:
+	    - Bổ sung script: tham số và cập nhật tên cột
+		```sql
+		  INSERT INTO current.system(id,tents,diengiai,giatri,loai,module)
+		  SELECT (SELECT CAST(MAX(id) AS DECIMAL)+ 1 from current.system),'tach_phieuphcn',
+			'Tách phiếu phục hồi chức năng theo mã loại cận lâm sàng.
+			 Giá trị:
+			 - 0: Không tách phiếu
+			 - 1: Tách phiếu theo mã loại cận lâm sàng',
+			 '0','1','0'
+		  WHERE NOT EXISTS (SELECT * FROM current.system WHERE tents = 'tach_phieuphcn');
+  
+		```
+		```sql
+		DO $$
+		BEGIN
+			IF NOT EXISTS (
+				SELECT 1
+				FROM information_schema.columns
+				WHERE table_schema = 'current'
+				  AND table_name = 'dmloaicls'
+				  AND column_name = 'tenphieu_phcn'
+			) THEN
+				ALTER TABLE current.dmloaicls ADD COLUMN tenphieu_phcn VARCHAR ;
+				COMMENT ON COLUMN current.dmloaicls.tenphieu_phcn IS 'Tên phiếu phục hồi chức năng';
+			END IF;
+		END
+		$$;
+		```
+		![](https://i.vgy.me/mW3Jcd.png)
+		![](https://i.vgy.me/lhRh72.png)
+
+		- Cập nhật tên phiếu theo mã loại cận lâm sàng
+
+		![](https://i.vgy.me/rEf4ZT.png)
+		![](https://i.vgy.me/81RMO3.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/137
+<<<<<<< HEAD
+
 ## [v.3.26.0420.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604201-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604201-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604201-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC bằng API #724
 - 🐛: Mẫu 02: Nút Gửi BHXH vẫn chưa gửi được file
