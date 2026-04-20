@@ -6,6 +6,22 @@
 
 #
 
+## [v.3.26.0420.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604204-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604204-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604204-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi
+	- Mẫu 03/DM Cập nhật dữ liệu từ excel đầy đủ không cập nhật được dữ liệu dạng bào chế khi thông tin dạng bào chế hiện tại trống:
+    ![](https://lh3.googleusercontent.com/pw/AP1GczMVMs_350nLqAUyaazvfkSvUMV73Rse8p-Om8IIk5RI6XzWmv1_6CPGYm8FTLZauEjmKn6OWvjpSJ2kvHjliKM4ZoHvmOw6g8ZyAa-tMW4T785AeoKzJjLGYW5JkDTUquZHoXGxUMsVsyyH3P35k_gL=w1661-h879-s-no-gm?authuser=0)
+    ![](https://lh3.googleusercontent.com/pw/AP1GczPRe2aIuHGMG2hgbm49fj1ovlBE3lIw92w1GJ4pnPkcaWCpRoDL81bFwsDEzO6UhNXFKeMab0tqs2ebBw4-TrA6t835mftSeMu0Oa4kNQKksINkiRky9sVLpoIHW5SwyKs3PQoqS8xHsY2Qh4hRA85c=w1658-h879-s-no-gm?authuser=0)
+	- Mẫu 03/DM - đề nghị ghi nhật ký thêm chi tiết thông tin: mã hàng hóa thay đổi (mã nội bộ), hàng hóa đó thay đổi thông tin gì, thông tin cũ và thông tin mới, Tên máy cập nhật:
+    ![](https://lh3.googleusercontent.com/pw/AP1GczO4169SWtlaI8S-BZ4seoPjyfY-cPjm2o2XouVEAp2xwSyrH4xlpIBWx4Iuyzy_OrbmCCOfx-JceEAsMElB8kA3BYcT6_sr1v6wBVbqyb7PzZrUIytGIpz-Upmu8jN27TJVNk2bgOVW-2Mx_JsHswyU=w1654-h879-s-no-gm?authuser=0)
+	- Mẫu 04/DM - đề nghị ghi nhật ký thêm chi tiết thông tin: mã hàng hóa thay đổi (mã nội bộ), hàng hóa đó thay đổi thông tin gì, thông tin cũ và thông tin mới, Tên máy cập nhật:
+    ![](https://lh3.googleusercontent.com/pw/AP1GczPXQQ5HYuJC2tdPPV_vFZykFMAJdcq78zIZTDCt_BL6z9RD2VKNl7VV-bI6FF_9PVejm2fYOmUTZn8utqhJJnmNttjF5V7s-tinxc-UyPTlXf2pgZMi4X8jSGwMLRyfX54uoITVNk0xkqZiWhAhhx5R=w1654-h879-s-no-gm?authuser=0)
+    - Mẫu 05/DM đề nghị ghi nhật ký thêm chi tiết thông tin như mã nội bộ (khóa), trường thay đổi = thông tin cũ -> thông tin mới
+    ![](https://lh3.googleusercontent.com/pw/AP1GczPm4WJ0S76Gj1l-A1y2ajkvLrwAR51AZolO6ub5_bt0ErhsfPNsBYjZw_9hcmGEkTKlirm5INU02xPAmOPCfkKhqKFANrELEFn3DAFoz2V4lv_ILZ2XaUcxOjgvFaulpwzFZq2s_HDxFQ27uYtBIYtm=w1659-h879-s-no-gm?authuser=0)
+    - Mẫu 06/DM đề nghị ghi nhật ký thêm chi tiết thông tin như mã nội bộ (khóa), trường thay đổi = thông tin cũ -> thông tin mới
+    ![](https://lh3.googleusercontent.com/pw/AP1GczO4gz8F5yz7VOg3xI2lF1zc0zpU_FJQB6DH4lUbctJJGTPr8D1z6bPrX7mzU5ZMo4OttQMqb1CTbI8v__ghiCIH7mTZoEUc-cG9x8uRlFC1v0P4Er8lGuNDQh_i2UgMjCo3fkOtHVi0u4LBa2-MFSKk=w1663-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/724#issuecomment-26376
+
 ## [v.3.26.0420.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604203-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604203-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604203-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC
 - 🐛: Fix Khi Cập nhật từ file Excel thì ký tự % bị mất
