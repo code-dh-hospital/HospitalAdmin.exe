@@ -6,6 +6,23 @@
 
 #
 
+## [v.3.26.0423.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604230-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi ký XML danh mục 6 bảng TT12 khi trường chứa ký tự đặc biệt (Chỉnh lại code để không bị lỗi tương tự cho tất cả fields, tất cả danh mục khi liên quan tới xml)
+- Bảng 01/DM
+![](https://lh3.googleusercontent.com/pw/AP1GczPzqr2DfualF1VPpklDXXg6XwRsUGDycvhvNVMSyCKVzUuQQOcDhINlPF8m-rYOzu0zxvvTdMCpVBCbi2ASQYKdULXnlzoLgLbymo7kOij-umazGX7Z9L3T5D7Ysbm8LwcjNK0VTknTo8Rb27euge3l=w1636-h879-s-no-gm?authuser=0)
+- Bảng 02/DM
+![](https://lh3.googleusercontent.com/pw/AP1GczOovjB9jxqe6Rof99Vh_EXxkFjQXQsX4-mDzSzGNNK91odnqw6TGB68NQ1If583u5ENLmqUlfg3ictfAvFopqTyhgs6naxuLtzD5pzEGOTel4Pdds8ttJmRfAGuqJ16L5j79RcP229BVf7VkeKTwqV7=w1633-h879-s-no-gm?authuser=0)
+- Bảng 03/DM
+![](https://lh3.googleusercontent.com/pw/AP1GczPM94gIia9i39_PcUMCwhZVX6f3oX1j-tqcvx68ykyUpzuhQZRMQQqBTFscj7725AOWLYJWNbtm-FmQ0wMKAw8VJ4Z1BtYRs4s66q73rd14gYUgIDD4X8D6O86N3MIQdB59O-Wy-yusfZsV77KwfjBG=w1636-h879-s-no-gm?authuser=0)
+- Bảng 04/DM
+![](https://lh3.googleusercontent.com/pw/AP1GczOvWDQqtH0NRCdF8Rxz1TpQeNuq7q7eZH9pOdbc9bJr95lVatH38CGI-XQTCdbTB2alVwS98bAfryiow6x5xHA_C1D_zecRocZ33nz-yPwsMnJ0azIEnHNO5BJXAm5y3mpFv9wVssO_0d2QsjGeZeLO=w1634-h879-s-no-gm?authuser=0)
+- Bảng 05/DM
+![](https://lh3.googleusercontent.com/pw/AP1GczOHrAuAHSFE0_CiU_-AmNayvUl65q9-4-oXgNxA4anhiLwyXKU3mKFTzTiodTDUJfm0x5ZpypDMszSWEUmPSdQVD7ipc2a4_VrRSDq8kMd11SWS2TdTKXidshvuYwjL31k3T-k1DbpgSK2vUNpXRy9a=w1638-h879-s-no-gm?authuser=0)
+- Bảng 06/DM
+![](https://lh3.googleusercontent.com/pw/AP1GczNj-fYrVuKgyIir5PdVKiivWCIYgmkp58eeAYhntiDH8NoNFSQBZhO5C5SOAD6_Y4k-jewWxsh_KSNK2UtWxpCJD5_0QMw1kly737mnoK86UtnQETtca42pm75KiAKFg3fxJmdJu1ThUpVPbJyIH3v5=w1634-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/825#issuecomment-26743
+
 ## [v.3.26.0422.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604221-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604221-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604221-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi ký XML danh mục 6 bảng TT12 khi trường chứa ký tự đặc biệt
