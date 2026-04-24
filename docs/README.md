@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0424.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604241-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi lệch tiền tiền BHTT và BNCCT giữa XML và bảng kê 6556.
+![](https://lh3.googleusercontent.com/pw/AP1GczMHOiSBFoHwEaOOc0u5J9eio1KGu9qtTra8t0PiI6KIjM4LSeoEsb3fPzKaSv4OQWr3hebC0Ow1QOMl0N6KY32BmNgAzUQUnVACfWrWo35XZheGRFhbWzMCEA92qGrevpptQmcPxwW-txRWWg2sPuN2=w1663-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/723#issuecomment-26863
+
 ## [v.3.26.0424.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32604240-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi BH 6 bảng danh mục theo thông tư 12/2026/TT-BTC bằng API #724
 - 🐛: Admin mới Lỗi gửi BHXH ở tất cả các danh mục (Đang cấu hình gửi cổng đào tạo)
