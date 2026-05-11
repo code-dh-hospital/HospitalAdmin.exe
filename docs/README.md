@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.0511.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605110-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Danh mục 03 Thuốc và DM04 VTYT theo thông tư 12 không hiển thị và xuất được ký tự %
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/843
+
+- 📕: Fix mất ký tự % khi load dữ liệu do Extension mặc định tự xoá ký tự %
+
+![](https://i.vgy.me/Z309y3.png)
+
+![](https://i.vgy.me/h3lMSL.png)
+
 ## [v.3.26.0505.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605050-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu độ dài cột `xml130.dm_06_thietbi.so_luu_hanh` lên tối đa 255 ký tự theo cập nhật cổng BHXH
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/832
