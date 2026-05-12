@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0512.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605122-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605122-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605122-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi xuất file XML Mẫu 01/BH Thông tư 12 sau khi chia file.
+![](https://lh3.googleusercontent.com/pw/AP1GczOpQ4QLWD3bR-_QzL80p6Gzcwijk_8KoYyaBlVieNxcMfkJhhYSvuBOzFFjWoRCdkfuhxyLfkciP_ytCnSCvZVjI93t2SUcpDRGnNlK33ID7d3s5I0lRGtbcpGM2RzEnk3OANLwXInURXzZp_sUivev=w1809-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/753#issuecomment-27713
+
 ## [v.3.26.0512.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605121-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605121-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605121-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung chức năng chia nhỏ file XML ký số 01/BH theo thông tư 12. Theo mô tả [XML130/Thong-tu-12-BTC/Tong-hop-chi-phi-KCB-BHYT-Thong-tu-12-BTC.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Thong-tu-12-BTC/Tong-hop-chi-phi-KCB-BHYT-Thong-tu-12-BTC.md)
