@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0512.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605121-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605121-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605121-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung chức năng chia nhỏ file XML ký số 01/BH theo thông tư 12. Theo mô tả [XML130/Thong-tu-12-BTC/Tong-hop-chi-phi-KCB-BHYT-Thong-tu-12-BTC.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Thong-tu-12-BTC/Tong-hop-chi-phi-KCB-BHYT-Thong-tu-12-BTC.md)
+![](https://lh3.googleusercontent.com/pw/AP1GczNv6vz0bw7LPNjWJtyzU8bn-WSLHMcUbqICH_PqA_-lEjPgXjSgm4FC3_tCIK3w0hvLdOIE580IB5H2kjdMRZ5eF84N9Mmrr4aIeGaafsAtWlLbrE9IpPXveZ_Vzx9NxZeInNyabb225szM0UcE08Y3=w1248-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczONU2dkXZd2qirK3OfoQMAe15YQnIy9plIOM2VTUrQdV97YJ_0lcmM0cWArrEknWJ8sRc4ysDwtqJalJs3KXHYggSvzL1whtb9apVt1YvfkqpLENEe8WcyQsx4kURjsOPqhbJs9zscCiK0GHUQKcPlV=w1594-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPtAblCTyT-QR7Xk6McxMPO0I-BU9l6eZdepkLZwX0jhP-XuMG317KbJhqAaWo6x081-e1439g3Aaot5ayajJJLF3BtgJJbi0lYjaP22iQMTTqAE3eOVTADHAkO5Si66eRYRRNPDpXTZCERAAbAiVmZ=w1030-h318-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOThHAx3V7mpnVzgkZQXulw6vyBDUDO98e57m5CC5a7HVInsYtUqTfvZus3r3GNtXcvhkKVLhEWrsnYnrPxZLq1YVLZDwN26uZCPYG0teg6awv-Ys9kQ67Q8TDQKVQ5phVz2pHzxMskIh6LcUDNWtyc=w1604-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/753#issuecomment-27492
+
 ## [v.3.26.0512.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605120-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung cấu hình số dòng tối đa và số MB tối đa khi xuất XML Mẫu 01/BH - Thông tư 12 theo mô tả [XML130/Thong-tu-12-BTC/Tong-hop-chi-phi-KCB-BHYT-Thong-tu-12-BTC.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Thong-tu-12-BTC/Tong-hop-chi-phi-KCB-BHYT-Thong-tu-12-BTC.md).
