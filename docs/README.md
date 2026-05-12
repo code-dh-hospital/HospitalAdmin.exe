@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0512.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605120-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung cấu hình số dòng tối đa và số MB tối đa khi xuất XML Mẫu 01/BH - Thông tư 12 theo mô tả [XML130/Thong-tu-12-BTC/Tong-hop-chi-phi-KCB-BHYT-Thong-tu-12-BTC.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Thong-tu-12-BTC/Tong-hop-chi-phi-KCB-BHYT-Thong-tu-12-BTC.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczP5wPMEJFg3Q6TMxK5HlxNth077snfIG82VTEsJ0bPF4mbRUIubKZ-uMial9IJ2T0gIrbHXnjSRnfReTOcSAzQJJmnNupBKlGes2N1fHaOucrgNeAuZEyyUUzGaX9BaoPM9uieY8f3m1C7w6aSQWCJA=w1248-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/753#issuecomment-27492
+
 ## [v.3.26.0511.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605110-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Danh mục 03 Thuốc và DM04 VTYT theo thông tư 12 không hiển thị và xuất được ký tự %
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/843
