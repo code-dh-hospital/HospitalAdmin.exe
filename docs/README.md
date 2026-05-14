@@ -6,6 +6,20 @@
 
 #
 
+## [v.3.26.0514.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605141-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Admin, Reports Điều chỉnh chức năng thêm danh mục 6 bảng theo thông tư 12/2026/TT-BTC
+- 🐛: Fix Form 2-3-4 Chưa kiểm tra hợp lệ các trường theo qui định khi xuất XML/Import Excel
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/742
+
+Form 2
+![](https://i.vgy.me/EldXO5.png)
+
+Form 3
+![](https://i.vgy.me/2lXkHp.png)
+
+Form 4
+![](https://i.vgy.me/XNirvF.png)
+
 ## [v.3.26.0514.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605140-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi sai tên bệnh nhân mẫu 01/BH TT12 so với XML3176.
