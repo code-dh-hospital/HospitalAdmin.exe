@@ -6,6 +6,35 @@
 
 #
 
+## [v.3.26.0518.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605180-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Admin, Reports Điều chỉnh chức năng thêm danh mục 6 bảng theo thông tư 12/2026/TT-BTC
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/742
+
+- 🐛: Form 1 : kiểm tra các trường bắt buộc theo qui định khi xuất XML
+
+![](https://i.vgy.me/n1IZQx.png)
+
+- 🐛: Form 2 : Không kiểm tra bỏ trống trường VI_TRI
+
+![](https://i.vgy.me/2bu16q.png)
+
+- 🐛: Form 3 : Fix lỗi kiểm tra TU_NGAY
+
+![](https://i.vgy.me/J9fsJR.png)
+
+- Form 4 : 
+- 🐛: Fix Lỗi cập nhật danh mục 4 VTYT Thông tin đã nhập đủ vẫn báo trống.
+- ✨: Chức năng xuất Excel không kiểm tra bỏ trống các thông tin theo qui định, chỉ kiểm tra khi xuất XML
+
+![](https://i.vgy.me/Ghcnc4.png)
+
+
+- ✨: Yêu cầu - Admin, Prescription, Treatment hỗ trợ danh mục ICD10 theo Thông tư 06/2026/TT-BYT
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/749
+- 📕: Push lại cập nhật thư viện để xuất file ICD mẫu có đầy đủ cột theo mô tả
+
+![](https://i.vgy.me/TwDjCd.png)
+
 ## [v.3.26.0515.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605150-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Admin, Prescription, Treatment hỗ trợ danh mục ICD10 theo Thông tư 06/2026/TT-BYT
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/749
