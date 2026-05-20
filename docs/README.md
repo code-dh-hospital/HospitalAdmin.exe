@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0520.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605200-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi tại chức năng tách file XML Mẫu 01/BH sau khi ký, lỗi: `Ký sai, file gốc có thể đã bị chỉnh sửa`.
+![](https://lh3.googleusercontent.com/pw/AP1GczM__-Yu2yu8C_-09250VYzcQsG3J4nh4PmAI_JnZc68sY-XPdSScw6QQ3pgybYED2Gx8yRt5Uonxz6706EN7i5_LeRoEnCvSyZ5-zyGXEQerwhcxvwIYVJ-lL07PDEG2udwYjyVsLxZNGLoHqmjPP_q=w1801-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/753#issuecomment-28111
+
 ## [v.3.26.0519.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605192-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605192-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605192-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung cấu hình `XML01.NGAY_VAO_NOI_TRU` đối với hồ sơ có `XML01.MA_LOAI_KCB = 02`.
