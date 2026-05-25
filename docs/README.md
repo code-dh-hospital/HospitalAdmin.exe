@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0525.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605250-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Yêu cầu - Ký số và gửi XML bằng API cho mẫu 09/BH Hồ sơ điều chỉnh theo TT 12/2026/TT-BTC #727
+- 🐛: Đã xuất được XML không ký số nhưng các thẻ chưa sắp xếp -> Sắp xếp lại để dễ kiểm tra:
+![](https://i.vgy.me/xD3KG5.png)
+- 🐛: Không cảnh báo chỉ được chọn 1 bệnh nhân nữa nhưng chọn nhiều dòng thì xuất ra chỉ có thông tin của 1 bệnh nhân đầu tiên (1 bệnh nhân có nhiều dòng thì xuất đủ) -> Nếu mỗi file chỉ được 1 bệnh nhân và mỗi lần chỉ được xuất 1 file thì chặn lúc lựa chọn chỉ được check 1 bệnh nhân:
+![](https://i.vgy.me/tITXPp.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/727
+
 ## [v.3.26.0522.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605220-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Chức năng hiệu chỉnh thông tin tự chỉnh lại mã quyền lợi và hạn dùng thẻ BHYT #867
 ![](https://i.vgy.me/ad32ts.gif)
