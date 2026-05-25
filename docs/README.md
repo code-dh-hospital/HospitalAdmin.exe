@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0525.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605252-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605252-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605252-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Admin, Reports Điều chỉnh chức năng thêm danh mục 6 bảng theo thông tư 12/2026/TT-BTC
+- 🐛: Fix bổ sung khi chọn nhiều dòng để xuất Excel/XML thì luôn thiếu 1 dòng, nếu chỉ chọn 1 dòng thì báo chưa chọn dữ liệu cho Form 1 đến Form 4
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/742
+
+![](https://i.vgy.me/JnYzxm.png)
+
 ## [v.3.26.0525.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605251-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Admin, Reports Điều chỉnh chức năng thêm danh mục 6 bảng theo thông tư 12/2026/TT-BTC
 - 🐛: Fix Form 3 thiếu kiểm tra trường từ ngày
