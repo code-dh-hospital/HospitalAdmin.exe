@@ -6,6 +6,41 @@
 
 #
 
+## [v.3.26.0526.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605264-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605264-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605264-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Admin, Reports Điều chỉnh chức năng thêm danh mục 6 bảng theo thông tư 12/2026/TT-BTC
+- 🐛: Fix lỗi thao tác Form 3-4-5
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/742
+- 📕: Điều chỉnh kiểm tra trường TU_NGAY và các trường khác nếu null
+
+- 📕 Form 3
+
+- Fix lỗi khi thao tác chỉnh trên Form nếu bỏ trống trường TU_NGAY
+
+![](https://i.vgy.me/pcbvLl.png)
+
+- Xuất XML từ Excel
+
+![](https://i.vgy.me/tGWPl2.png)
+
+- 📕 Form 4
+
+- 🐛 Fix lỗi khi xuất XML từ Excel
+
+![](https://i.vgy.me/Rhb5XS.png)
+
+- 📕 Form 5
+
+- 🐛 Fix lỗi khi xuất XML từ Excel
+
+![](https://i.vgy.me/YRunqW.png)
+
+
+- ✨: Yêu cầu - Admin/Reports: Mở rộng mẫu 04/DM trường số lưu hành cho phép lưu đến 50 ký tự
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/781
+- 📕: Điều chỉnh kiểm tra trường SO_LUU_HANH cho danh mục VTYT lên 50 ký tự.
+
+![](https://i.vgy.me/ZeQVzs.png)
+
 ## [v.3.26.0526.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605263-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605263-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605263-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Chức năng hiệu chỉnh thông tin tự chỉnh lại mã quyền lợi và hạn dùng thẻ BHYT #867
 - 🐛: Phần mềm vẫn còn lỗi khi chọn đối tượng từ danh sách, nếu chọn đối tượng BHYT khác thì mất thông tin thẻ, nếu chọn đúng đối tượng đang có thì mất thông tin thẻ và khóa ô nhập thông tin thẻ:
