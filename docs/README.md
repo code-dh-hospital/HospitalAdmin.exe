@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.0526.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605261-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu: Bổ sung cấu hình mã khoa XML 3 hồ sơ khám nội trú
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/769
+- 📗: https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/BO_SUNG_CAU_HINH_MA_KHOA_XML3.MAKHOA_CHO_CONG_KHAM_NOI_TRU.md
+- 📕: Bổ sung option cấu hình mã khoa thay thế cho XML3.MA_KHOA áp dụng toàn bộ công khám thuộc hồ sơ nội trú khi xuất XML
+
+![](https://i.vgy.me/nOvAsS.png)
+
+![](https://i.vgy.me/Di8aAR.png)
+
 ## [v.3.26.0526.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605260-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Chức năng hiệu chỉnh thông tin tự chỉnh lại mã quyền lợi và hạn dùng thẻ BHYT #867
 - 🐛: Khi chọn đối tượng BHYT khác thì phần mềm tự cập nhật lại hạn dùng thẻ, mất thông tin thẻ, khóa nhập thông tin thẻ:
