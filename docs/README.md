@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0526.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605262-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605262-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605262-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi XML 3176 tính sai tiền BNTT đối với stent 2.
+![](https://lh3.googleusercontent.com/pw/AP1GczO8iYrGwaTewXWYYo7aMKBJM5WTsFfhuB9VeLyTrLn9jvmpdBSnd4T_L3GhrW6gK2r6s-bKyM_JT_4Y88ngDUdNPWsa3d9Nr-xER6ObjZp03d6-20O5Vi1DeC4Ku7Nc8UgaWj5QwJz4B9yx0TE9tCzv=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/869#issuecomment-28419
+
 ## [v.3.26.0526.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605261-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Bổ sung cấu hình mã khoa XML 3 hồ sơ khám nội trú
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/769
