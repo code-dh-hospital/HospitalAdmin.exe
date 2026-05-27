@@ -6,6 +6,28 @@
 
 #
 
+## [v.3.26.0527.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605272-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605272-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605272-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Admin, Reports Điều chỉnh chức năng thêm danh mục 6 bảng theo thông tư 12/2026/TT-BTC
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/742
+
+- ✨: Lỗi - Admin/Reports: Xuất file XML 6 bảng danh mục TT12 chưa ghi nhận thẻ <DEN_NGAY/>
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/875
+
+- 📕: Sai điều kiện khi set giá trị cho trường str_tu_ngay gây ra giá trị = null nên không ra được thẻ XML
+- 📕: Xử lý lại điều kiện nếu TU_NGAY không có giá trị set về chuỗi rỗng.
+
+![](https://i.vgy.me/JXvj6r.png)
+
+![](https://i.vgy.me/8CZvIH.png) 
+
+![](https://i.vgy.me/RQ1urG.png)
+
+![](https://i.vgy.me/rjs3aj.png)
+
+![](https://i.vgy.me/u4RUFo.png)
+
+![](https://i.vgy.me/0qu0rR.png)
+
 ## [v.3.26.0527.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605271-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605271-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605271-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi XML bằng API cho mẫu 09/BH Hồ sơ điều chỉnh theo TT 12/2026/TT-BTC #727
 - 🐛: chỉnh lại thông báo khi chọn nhìu bệnh nhân có mã liên kết khác nhau
