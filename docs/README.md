@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0527.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605270-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Yêu cầu - Ký số và gửi XML bằng API cho mẫu 09/BH Hồ sơ điều chỉnh theo TT 12/2026/TT-BTC #727
+- 🐛: Đã xuất được XML không ký số nhưng các thẻ chưa sắp xếp -> Sắp xếp lại để dễ kiểm tra:
+![](https://i.vgy.me/fBpID9.png)
+- 🐛: Phần mềm chặn xuất XML nhiều mã bệnh nhân nhưng không chặn khi xuất XML cùng mã bệnh nhân nhưng khác mã khám bệnh: hiện tại nên bắt theo mã liên kết:
+![](https://i.vgy.me/Y66f3X.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/727
+
 ## [v.3.26.0526.6]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605266-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605266-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605266-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Admin, Reports Điều chỉnh chức năng thêm danh mục 6 bảng theo thông tư 12/2026/TT-BTC
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/742
