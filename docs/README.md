@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.26.0601.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606010-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Cập nhật danh mục cận lâm sàng hỗ trợ dữ liệu chuẩn hóa Unicode:
+1. Cập nhật danh mục CLS: hỗ trợ chuẩn hóa dữ liệu Unicode: tên cận lâm sàng, đơn vị tính, ...
+![](https://lh3.googleusercontent.com/pw/AP1GczM-pi3QtscbawnUCKgrEwoMy8ohOni2t9QAiunRy7ZgEfMrJ7ye1G6vJhythrid-_TKFCJ4CSPkPw6Az0TGhGrrQx0eMa3YwLL6MuORC36CHSL_Ib0zLJnB-cORI0F8s2QTjZ9PTL7xnkBtnV2R5wrt=w1658-h879-s-no-gm?authuser=0)
+2. Reports/Admin: thực hiện đối soát lại dữ liệu XML3176 sau khi cập nhật dữ liệu từ danh mục CLS.
+![](https://lh3.googleusercontent.com/pw/AP1GczOW8Lx3iMS9Mdi2Bdnly9PEDW9RK6djT7LkuYWAXXvh9ThOfYuv_2mPuh0XcVqu92myR4YbYmXE4mpPSYhT_H_ztPHD1BCuqcUDCf8cUTwR0VW7XrLjJyKtI6F7mYzqrZf6qDkmrlgt49LsHcAhEupr=w1654-h879-s-no-gm?authuser=0)
+3. Kết quả so sánh trước và sau khi cập nhật dữ liệu tên cận lâm sàng:
+![](https://lh3.googleusercontent.com/pw/AP1GczOsFycaFJ5LjWc-IQ2d1IK2bRhTjmhRoIgd6n8ymx_Bcau60lHASlM0p8GRlH4zsdJtvXOiW7cVMIZsX-qZ-Vr27sB-dYFNiPepOJhnQFUnq9HRpZ9qsfHdbNOader08E1bjeIQzPOO7rlwybZcB38i=w1211-h158-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/877#issuecomment-28754
+
 ## [v.3.26.0527.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605272-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605272-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32605272-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Admin, Reports Điều chỉnh chức năng thêm danh mục 6 bảng theo thông tư 12/2026/TT-BTC
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/742
