@@ -6,6 +6,47 @@
 
 #
 
+## [v.3.26.0605.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606051-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606051-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606051-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu: Bổ sung ngày bắt đầu hiệu lực và ngày kết thúc hiệu lực mã giường #768
+	- Cập nhật: 
+		- Cập nhật script:
+
+		![](https://i.vgy.me/GxnNhW.png)
+
+		```sql
+			DO $$
+			BEGIN
+				IF NOT EXISTS (
+					SELECT 1
+					FROM information_schema.columns
+					WHERE table_schema = 'current'
+					  AND table_name = 'dmgiuongbenh'
+					  AND column_name = 'ngaybd'
+				) THEN
+					ALTER TABLE current.dmgiuongbenh ADD COLUMN ngaybd DATE;
+				END IF;
+				COMMENT ON COLUMN current.dmgiuongbenh.ngaybd IS 'Ngày có hiệu lực sử dụng';
+    
+				IF NOT EXISTS (
+					SELECT 1
+					FROM information_schema.columns
+					WHERE table_schema = 'current'
+					  AND table_name = 'dmgiuongbenh'
+					  AND column_name = 'ngaykt'
+				) THEN
+					ALTER TABLE current.dmgiuongbenh ADD COLUMN ngaykt DATE;
+				END IF;
+				COMMENT ON COLUMN current.dmgiuongbenh.ngaykt IS 'Ngày hết hiệu lực sử dụng';
+			END
+			$$;
+		```
+
+		- Cập nhật danh mục giường bệnh: `Khai báo số liệu - y tế - giường bệnh 4210`
+
+		![](https://i.vgy.me/CQhhwZ.png)
+		
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/768
+
 ## [v.3.26.0605.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606050-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi chức năng `Kiểm tra trùng thẻ` form `Hiệu chỉnh thông tin`.
