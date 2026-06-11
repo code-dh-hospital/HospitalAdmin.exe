@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0611.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606110-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Cập nhật danh mục mã máy theo mô tả [Quan-tri-Admin/Danh-muc-Ma-may.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Quan-tri-Admin/Danh-muc-Ma-may.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczM56NzIe7NZcg1gyqhkg8RUaKf0NJ2kMCV_OIxiTcpAbYJvAbARpN8Nvti5puD2Ne9DerQjqJ5IvWE5C4ywRh1TmWSt25cJswBIuC0foIobsTGwply_Oojjq7bc8nP4TlyLApOrZgLu0SM4V0dtC9OY=w1661-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOg5oiniCplRSIkRJ8LdBPzzRLQQyNGtKFmOYF0cWXEOmNsGhMW4pHT2A_n_TohgBaaYIv_gmwpn1SYxdcl-ZNNpzBWMbAQABnjkqvsAj1pPjU9axBINlgIT_IZ9byplNdNntl9qkQMKpYDSzTBUxPi=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczP3sVu99V-EAJNRoNnlE1W3Psp2Mo48hTzRrlm6s0_P87tUp_sbW-dwjxEJkTM8Qf_u3J0d8miJ08AUK9dWfXMScjg9ULg8znrLFWV1HuFIU5CrkhQZU7uFiLGrOdRL4oPc7khNfkBE4dAFXDJfLRrC=w1658-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/793#issuecomment-29357
+
 ## [v.3.26.0608.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606081-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Mẫu PDF 02/BH báo cáo quí có ký số theo thông tư 12/2026/TT-BTC
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/715
