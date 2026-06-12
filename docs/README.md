@@ -6,6 +6,29 @@
 
 #
 
+## [v.3.26.0612.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606120-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Mẫu PDF 02/BH báo cáo quí có ký số theo thông tư 12/2026/TT-BTC
+- ✨: Điều chỉnh lại chức năng Menu ký số PDF cho mẫu 02/BH
+- 🐛: Fix lỗi chưa lấy đúng manv theo cấu hình Người lập phiếu của mẫu 02/BH
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/715
+- 📗: https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Thong-tu-12-BTC/KY_SO_PDF_MAU_02BH.md
+- 📕: Bổ sung thông tin cho Xtra.Option để xuất PDF theo cập nhật mới.
+
+![](https://i.vgy.me/ft6uDP.png)
+
+- 🐛: Lỗi - Mẫu in 01/BH, 02/BH không lấy được thời gian lên mẫu in khi chọn Loại BC là BC Quí
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/888
+- 📕: Lỗi do bàn đầu khởi tạo tên loại báo cáo và khi kiểm tra loại báo cáo không đúng gây ra lỗi không có giá trị khi chọn báo cáo quí.
+- 📕: Sửa lại qui cách gán giá trị tiêu chí thời gian khi chọn loại báo cáo tháng
+
+- Tháng
+
+![](https://i.vgy.me/ZrMtBb.png)
+
+- Quí
+
+![](https://i.vgy.me/Lo9rNb.png)
+
 ## [v.3.26.0611.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606110-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Cập nhật danh mục mã máy theo mô tả [Quan-tri-Admin/Danh-muc-Ma-may.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Quan-tri-Admin/Danh-muc-Ma-may.md).
