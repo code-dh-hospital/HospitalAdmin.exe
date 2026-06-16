@@ -6,6 +6,20 @@
 
 #
 
+## [v.3.26.0616.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606160-NasDHSolutions.json)</sup></sup></sub>
+
+1. Admin, Mã máy có giá trị Đến ngày nhỏ hơn ngày thực hiện thao tác load danh sách, nhưng vẫn nằm trong tab Đang sử dụng (Mã máy hết ngày dùng, vẫn nằm trong tab Đang sử dụng!)
+![](https://lh3.googleusercontent.com/pw/AP1GczMKk7C5FnJ7pynRTho3pDg_BKx7uITqi__To3rfzZNYD8Vi1LJTB8OcbaP9pkJfz6EfNoALFJgbtBVX1ozVY9CGPQd8VWZztN3rBz9A8yxIND4JC_iPdxOYNIuzl0dbgoJw-I__3SslgDqTyfRWeD0U=w1654-h879-s-no-gm?authuser=0)
+2. Admin, danh sách mã máy thao tác Chỉnh -> Bỏ qua, phần mềm hiển thị chưa đúng (chưa clear giá trị khi ấn Bỏ qua không lưu)
+![](https://lh3.googleusercontent.com/pw/AP1GczPOXJs68Q3t96mM4LWSRo95YfGunAfT8zeXEC0bcBJIh6LZjDyNvUyxv1wjg12G7_jzjqVtQ9oHPg2X-77j2fe-QI8YwRGJO4Gi2UrDVQovKo4vmxSwuzSsxTwSlsR2tod3DpsQCQ_7bErW0w_7iW5T=w1280-h720-s-no-gm?authuser=0)
+3. Admin, Chưa ràng buộc giá trị Từ ngày phải nhỏ hơn hoặc bằng Đến ngày
+![](https://lh3.googleusercontent.com/pw/AP1GczM2qir7DN3-xVb2CJ_h_cLc3ocPzIDSe47fbzvIAvpD1GKpCmJ8H6IBlRpjQKyYjYwXaNwvWHBAmq2i816JkNdlMlTRx7p3N09y2x2yNZ58m_zNQT84qZaYw4b-BL9N-UDXKmiVBiOUZhpD44hyoRrz=w1661-h879-s-no-gm?authuser=0)
+4. Admin, khi xóa Từ ngày, Đến ngày, Phần mềm hiển thị chưa đúng giá trị từ ngày, đến ngày
+![](https://lh3.googleusercontent.com/pw/AP1GczOuk_6sFCWOSyT-fl4bW12aHy4X2iV-R0vNbni6lAG96ZfjwBfO_kA-HrBp2bEPgSQeYtOFemoy8ZT2F2mIjKMeeuzBm-fKD7HC96b6we6f-4PDnZGHijKb824xN9K7s5TvMLV1sgOdBbHyY6qalxzY=w1280-h720-s-no-gm?authuser=0)
+5. Yêu cầu phát sinh thêm: Admin, mỗi khi chỉnh lại thông tin mã máy, phải đóng chức năng đó và mở lại thì phần mềm mới load đúng dữ liệu, gây bất tiện cho người dùng. Đơn vị mong muốn, khi click vào Tab Đang sử dụng, Ngưng sử dụng sẽ load đúng danh sách luôn!
+![](https://lh3.googleusercontent.com/pw/AP1GczNhbwBIeD3PLWVdijhg8TuqEc3w_robvy1U-fJLKuHCNSycDDPrQuLbIStndsD37Kog48NNHS_vDJD4aNN8wuQRxac9tbk4qSPSsDuO74dT7HebASlG3S41PnTUugGXpVctHExdcqEYF9t1apuKof43=w1280-h720-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/793#issuecomment-29531
+
 ## [v.3.26.0612.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606120-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Mẫu PDF 02/BH báo cáo quí có ký số theo thông tư 12/2026/TT-BTC
 - ✨: Điều chỉnh lại chức năng Menu ký số PDF cho mẫu 02/BH
