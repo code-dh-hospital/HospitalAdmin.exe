@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0616.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606161-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606161-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606161-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu: Bổ sung ngày bắt đầu hiệu lực và ngày kết thúc hiệu lực mã giường #768
+	- Fix ngày trên lưới thể hiện giờ "00:00:00"
+	- Fix trên lưới thể hiện dư cột: Ngày BD, Ngày KT
+
+	![](https://i.vgy.me/pa8tk1.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/768
+
 ## [v.3.26.0616.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606160-NasDHSolutions.json)</sup></sup></sub>
 
 1. Admin, Mã máy có giá trị Đến ngày nhỏ hơn ngày thực hiện thao tác load danh sách, nhưng vẫn nằm trong tab Đang sử dụng (Mã máy hết ngày dùng, vẫn nằm trong tab Đang sử dụng!)
