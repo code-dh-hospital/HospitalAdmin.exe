@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0616.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606162-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606162-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606162-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi:
+1. Admin, Thao tác chỉnh sửa mã máy phần mềm nhảy qua trỏ đến mã máy khác, đang bị rối.
+![](https://lh3.googleusercontent.com/pw/AP1GczMfQyml5pcCjPl5RmC_KvgKFv3vEW3fuvHoPBvjx08JXeA6i77edQ-A4AArFDlTRMNgPk2NyqNNCu1-B_E5-EIWgRyU7bmoRTfpoxPa_AOHYmP7L3kw0WjH7SNPEQqZQ9b38Lf3u-ojUn3Oq2BqDHkZ=w1661-h879-s-no-gm?authuser=0)
+2. Yêu cầu phát sinh thêm: Cập nhật nội dung thông báo Từ ngày không thể lớn hơn Đến ngày, câu thông báo nằm trên cùng 1 dòng! Đang xuống dòng chỗ Đến ngày mặc dù vẫn còn khoản trống
+![](https://lh3.googleusercontent.com/pw/AP1GczNUeTkeZZhmd7dcmmj8Bxg4APDkSU8zIj-zoRnuUUMDAF-ppzw3xQlnyD65nuHhSseY03wfb-e1hrVGdUvdXmSqO9dR4BP6W7srOWqYGisb5uuCR9WmdsBUg4LWq0CslzVZ_-gfq3sSbX8N7xiRRqg_=w1661-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/793#issuecomment-29663
+
 ## [v.3.26.0616.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606161-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606161-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606161-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Bổ sung ngày bắt đầu hiệu lực và ngày kết thúc hiệu lực mã giường #768
 	- Fix ngày trên lưới thể hiện giờ "00:00:00"
