@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0617.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606170-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Hỗ trợ load danh sách mã máy sắp xếp mặc định theo cột `mamay`, sửa lỗi khi đang ở tab `Tất cả` thực hiện chỉnh và lưu dữ liệu bị thay đổi tab khác:
+![](https://lh3.googleusercontent.com/pw/AP1GczMl73zXxTJKAVureClQSyvFSl8ckhN6CDEyxllY-E4RH4DrcVQYiG11UWhCOqYMU5PVQK7KnvCW6BknNDWIjJHmaTyDUQZ0Cha571UBkgaDZZcmZvyPg9MTm9NYMgPxXxnk-1RhgZGTxmXVkirANa4e=w1715-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/793#issuecomment-29703
+
 ## [v.3.26.0616.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606162-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606162-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606162-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi:
