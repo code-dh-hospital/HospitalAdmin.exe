@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0619.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606190-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Tích hợp `UserControl`: [PatientFilter](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/code-docs/UserControl-PatientFilter.md) lên các báo cáo theo mô tả [XML130/Thong-tu-12-BTC/Tong-hop-chi-phi-KCB-BHYT-Thong-tu-12-BTC.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Thong-tu-12-BTC/Tong-hop-chi-phi-KCB-BHYT-Thong-tu-12-BTC.md). Lọc mã bệnh nhân/mã liên kết khi xuất dữ liệu Mẫu 01/BH và Mẫu 02/BH - Thông tư 12
+![](https://lh3.googleusercontent.com/pw/AP1GczMsaIB6J7fSiL7SqE15fW6iujrW7ENbNubbhjfQo7N27AUuKiWhFMGlzazh5JkWfbrzxA8XaLe8Ed1jHYvrB1If8pZmdOBOGxGSDok3PKQFKQ1ToEFuYcK-Rt5eQMoPWdaXO0mNi2Ku0mwUV0mIVKim=w1658-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/803#issuecomment-29697
+
 ## [v.3.26.0617.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606170-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Hỗ trợ load danh sách mã máy sắp xếp mặc định theo cột `mamay`, sửa lỗi khi đang ở tab `Tất cả` thực hiện chỉnh và lưu dữ liệu bị thay đổi tab khác:
