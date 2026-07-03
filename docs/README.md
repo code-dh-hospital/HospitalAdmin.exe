@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0703.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607030-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Admin Danh mục chứng thư số Bấm chỉnh Lưu lại không có hiệu lực #908
+![](https://i.vgy.me/8EL2jn.gif)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/908
+- 📕: Nguyên nhân:
+- SQL update chứng thư số đang truyền dạng string cho `ngày bắt đầu` và `ngày kết thúc` dẫn đến lỗi `date/time field value out of range: "26/06/2026"`
+=> postgres hiểu `26` là `tháng` dẫn đến lỗi
+![](https://i.vgy.me/tdczVi.png)
+
 ## [v.3.26.0619.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32606190-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Tích hợp `UserControl`: [PatientFilter](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/code-docs/UserControl-PatientFilter.md) lên các báo cáo theo mô tả [XML130/Thong-tu-12-BTC/Tong-hop-chi-phi-KCB-BHYT-Thong-tu-12-BTC.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Thong-tu-12-BTC/Tong-hop-chi-phi-KCB-BHYT-Thong-tu-12-BTC.md). Lọc mã bệnh nhân/mã liên kết khi xuất dữ liệu Mẫu 01/BH và Mẫu 02/BH - Thông tư 12
