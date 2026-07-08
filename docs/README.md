@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.26.0708.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607080-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung chức năng lấy trạng thái trái tuyến theo Nghị định 188/2025/NĐ-CP và tiếp nhận/hiệu chỉnh người bệnh trái tuyến theo mô tả [XML130/Nghi-dinh-188-2025/Thuc-hien-Nghi-dinh-188-2025-Kham-benh-trai-tuyen.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Nghi-dinh-188-2025/Thuc-hien-Nghi-dinh-188-2025-Kham-benh-trai-tuyen.md).
+1. Cấu hình ngày áp dụng và tỷ lệ trái tuyến:
+![](https://lh3.googleusercontent.com/pw/AP1GczM67jJF4aQUGjZ1Md9lvGa5BrL1unGyMbr3xsyoqiPnC5ROf-VUF9e4puxN4RckM5-IqqKoqGejYGfaFmfN2UwKGMzd8PeaGS7dYuoLqNBaWO4-tCgCYoQs4iEKuGi914pTfQXhiVRG812x25XEsY5g=w1663-h879-s-no-gm?authuser=0)
+2. Xuất dữ liệu XML:
+![](https://lh3.googleusercontent.com/pw/AP1GczOuixi_WwjjocffxivDrIuqtlq6BmT8m8_I_iS1Dw3WE6fxpIa8v8oLlQPwovBtgx3VkJyeo92qhPAUyFIFw_VNQt3LTBGtKEnkYEgWBMlGjbjCpAqjbQSnMhfFMohSbXs5aqhu9jndt8rD3UJ-gcYV=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMmjVx5jBDPtEJcXEWXK1iiQhbT_fqNezsfmlqEVwUPHBlYFYgC0pJPUrg7ndAI89xjdjM2h2y3Vp9g1jd3jSF0GqZHJnrw4Gwv_hqBVqAU98__jITrUT5TpSUn3onmDrk4KBmOexr3P-I1m6KqILMJ=w1661-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczN2VLqw7ZaAtSYr8MXajmQqqMIaeTAoe_U85Qu2_NbzKWA0ZrTcHwfPM8jvooL7NY0cCjI6-tZb4Knw-XWTlBUgcfrX4xqGktQulMEz-p2u1qHtwYlHMw-0Cbp-yMk9VkOmCX3eeFYXjnhuB92y6C29=w1658-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/814#issuecomment-30246
+
 ## [v.3.26.0703.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607030-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Admin Danh mục chứng thư số Bấm chỉnh Lưu lại không có hiệu lực #908
 ![](https://i.vgy.me/8EL2jn.gif)
