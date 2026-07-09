@@ -6,6 +6,30 @@
 
 #
 
+## [v.3.26.0709.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607092-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607092-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607092-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Hỗ trợ chức năng chỉnh chẩn đoán đối với bệnh án nội trú và bệnh án ngoại trú (BV Quận 12) #834
+	- Cập nhật chức năng:
+	- Menu:
+
+	![](https://i.vgy.me/eOFiwW.png)
+
+	- Test chuyển E78.9 sang K10
+
+	![]https://i.vgy.me/DXhwsZ.png)
+
+	Check chọn tất: chuyển tất cả bệnh nhân có trong danh sách
+
+	- Nhật ký:
+
+	![](https://i.vgy.me/1vTopL.png)
+
+	- Bảng kê:
+
+	![](https://i.vgy.me/8nQH2E.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/834
+<<<<<<< HEAD
+
 ## [v.3.26.0709.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607091-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607091-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607091-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Presscription hỗ trợ thêm mẫu Giấy cam kết chấp nhận thủ thuật, phẫu thuật, gây mê hồi sức theo thông tư 32
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/827
