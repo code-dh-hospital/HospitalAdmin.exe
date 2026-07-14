@@ -6,6 +6,28 @@
 
 #
 
+## [v.3.26.0714.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607141-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Hỗ trợ chức năng chỉnh chẩn đoán đối với bệnh án nội trú và bệnh án ngoại trú (BV Quận 12) #834
+	- Fix lỗi không cập nhật chungtu
+
+	- Chuyển E78 sang E78.7
+
+	![](https://i.vgy.me/cPIn3V.png)
+	![](https://i.vgy.me/D2D9St.png)
+
+	Check chọn tất: chuyển tất cả bệnh nhân có trong danh sách
+
+	- Chuyển J44.1 sang J44.9
+
+	![](https://i.vgy.me/ZCtwIS.png)
+	![](https://i.vgy.me/1Y7uwo.png)
+
+	- Trường hợp không thay thế được tên bệnh: người dùng có thể đã thay đổi tên bệnh khi chỉ định --> khi đối chiếu tên bệnh không khớp, nên không thay thế được
+
+	![](https://i.vgy.me/Hwjw3O.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/834
+
 ## [v.3.26.0714.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607140-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  cầu: Đồng bộ dữ liệu KCB lên CSDL Ngành Y Tế- Yêu
 - ✨:  ***Thêm option cấu hình gửi dữ liệu SYT Vĩnh Long.***
