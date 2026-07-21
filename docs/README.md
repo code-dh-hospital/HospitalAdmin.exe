@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0721.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607211-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607211-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607211-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Xuất dữ liệu XML ma_loai_kcb theo mô tả [XML130/QD4570/ma_loai_kcb_QD1804.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/ma_loai_kcb_QD1804.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczMYCP5XTSV4X6YPWI8I5Md_65BN9IPKPgpADRQmYSjR90eUsUW3JIeNgjPxILvDis_9BkLh0sCe73a7h00B1zpLxZ9RAhpCP2pHbaSzBV2Ji6TwQEOkYqJfoCqhKNw-ondO6ibrg3W95HhBz0WYRpvk=w1555-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/839#issuecomment-31029
+
 ## [v.3.26.0721.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607210-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung chức năng cấu hình và danh mục loại KCB theo mô tả [XML130/QD4570/ma_loai_kcb_QD1804.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/ma_loai_kcb_QD1804.md).
