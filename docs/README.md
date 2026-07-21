@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.0721.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607210-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung chức năng cấu hình và danh mục loại KCB theo mô tả [XML130/QD4570/ma_loai_kcb_QD1804.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/ma_loai_kcb_QD1804.md).
+1. Bổ sung cấu hình ngày áp dụng Quyết định 1804/QĐ-BYT.
+![](https://lh3.googleusercontent.com/pw/AP1GczMXbQgoxH-I1E49dFK9i0l_IRVAcyk3TcoVCJbblkBFV-rnr_Fn_I_RlVb39W683z-U61Y1XxwySCsODUGPGn-XnLXFZByXs9MfIWxzrpg1oPeP9gDa7uTy1gBoIPOQ3kFeViPRog4lLGA6UxWJnzsS=w1658-h879-s-no-gm?authuser=0)
+2. Bổ sung danh mục loại KCB.
+![](https://lh3.googleusercontent.com/pw/AP1GczPvm55aV3ziCO_rxHAXlFfauSAsMTODi4yLLAB_V3kZPQ1KUeRhTU6cm2A5t2MLuFn0udoctk51dVcn7e0Q5rwmc3BrhBX90nrg2RWAlDQd5LOyc07-l_yMoi_sPiq_y7rEwjS0KA0w2WoHBYyG_3kJ=w1061-h583-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNFvHSWzViiSEtCzgu_S-GinvTamCSXhxjvjVcLPs4fWaHGAPL0KwdUmQYIZDDMLENm7LiZldwr_ASs2bApObWgN-5KVpj0--9it8UJ9BroFzAg_tMLh9IBjWjyuGpm29rR3oMOjr_T-NzX-C2QwZVk=w1221-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/839#issuecomment-31029
+
 ## [v.3.26.0715.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607150-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Hỗ trợ chức năng chỉnh chẩn đoán đối với bệnh án nội trú và bệnh án ngoại trú (BV Quận 12) #834
 	- Fix lỗi chỉ hiển thị 1 mã ICD
