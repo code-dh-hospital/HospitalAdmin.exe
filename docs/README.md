@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0723.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607231-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607231-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607231-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Cập nhật cách tính mức hưởng khi xuất XML đối với người bệnh bệnh án ngoại trú theo mô tả: [XML130/Nghi-dinh-188-2025/Thuc-hien-Nghi-dinh-188-2025-Kham-benh-trai-tuyen.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Nghi-dinh-188-2025/Thuc-hien-Nghi-dinh-188-2025-Kham-benh-trai-tuyen.md)
+![](https://lh3.googleusercontent.com/pw/AP1GczNg8SjTo5N5ju8W1O73C6DXgSi7tEm4tgTawvHpCpPfKSdMdl48NRoHhb6nc5Ox1kqxuJOJmxSR3KC-b5MN0byKRyvfZRNJiDEmuskpimlcW4cx-dCv7o4JpGXLNB0BYBcfBGieT-XuromB8Qzjvk-Y=w1555-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOClubb2ZiyJ5Zt-iScibElpXumHM-q204ZZL-QiZ39eYT82CtcVQ6rvVWwpWJ6jzBTVRaXoWKoU9wu9WmdRbK5nIked_IFymQjJVNaMBVcwqXQkwpJp6j7hywGxaazXzQEl-LAg0FE2JGZewrxkAhK=w1555-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPoCXu4xtcxhSLjejbw9sTNDsz-5lVrs-73EsmZI6AU6y641PIVHmoMziMi9WiM6QDkguWhUwS_CYR_diotl_KrY3PfZnQ61NMNbMdnBgwFuPTxgnA9ZcPoBIO8OQMlq91UYghDy4e0pkvy-umsGp3q=w1555-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/852#issuecomment-31238
+
 ## [v.3.26.0723.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607230-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  cầu - Cấp key HIS và Buiding các module triển khai cho Phòng khám đa khoa Thánh Tâm (TP. HCM (tỉnh Bình Dương cũ))- Yêu
 - ✨:  ***Bổ sung key theo Hợp đồng: `74167`.***
