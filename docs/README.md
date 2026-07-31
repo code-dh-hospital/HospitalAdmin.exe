@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0731.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607310-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Admin: Thông tư 12 lỗi không thêm được dữ liệu từ danh mục
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/940
+- 📕: Sai logic khi kiểm tra trường hợp chọn dòng đang chọn hoặc chọn theo danh sách gây ra lỗi
+- 📕: Sửa lại điều kiện nếu chọn theo danh sách thì lấy theo danh sách đã chọn hoặc nếu không check chọn và đồng ý sẽ lấy dòng đang chọn trả về
+
+![](https://i.vgy.me/QFlXA6.gif)
+
 ## [v.3.26.0729.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607290-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi xuất XML cột `ma_loai_kcb`
