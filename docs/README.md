@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.26.0805.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608050-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: XML 09/BH hiện tại gửi cổng báo lỗi sai thẻ MA_CO_SO_KCB (Do cổng điều chỉnh tên thẻ):
+![](https://i.vgy.me/Yx5yMT.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/727
+
 ## [v.3.26.0731.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32607310-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Admin: Thông tư 12 lỗi không thêm được dữ liệu từ danh mục
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/940
