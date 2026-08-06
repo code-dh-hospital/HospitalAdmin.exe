@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.26.0806.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608060-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Yêu cầu - Ký số và gửi XML bằng API cho mẫu 09/BH Hồ sơ điều chỉnh theo TT 12/2026/TT-BTC #727
+- 🐛: Fix - file xml đã ký số gửi cổng báo lỗi `ký sai, file gốc có thể đã bị chỉnh sửa`
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/727
+
 ## [v.3.26.0805.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608050-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: XML 09/BH hiện tại gửi cổng báo lỗi sai thẻ MA_CO_SO_KCB (Do cổng điều chỉnh tên thẻ):
 ![](https://i.vgy.me/Yx5yMT.png)
