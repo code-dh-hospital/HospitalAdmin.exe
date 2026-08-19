@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0819.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608191-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608191-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608191-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung chức năng cấu hình và load dữ liệu `XML4750/XML3176` `bang1.ngay_vao_noi_tru` theo `bang1.ma_loai_kcb là 05 hoặc 08` theo mô tả: [XML130/QD3176/bang1.ngay_vao_noi_tru.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD3176/bang1.ngay_vao_noi_tru.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczPMcYCr1LPmJmGqWRsZollI8tD93FlSGiwsTIqWimrhr0TxEHwhsKeoGC_VExviZny5ubUh5u8_IqhPNYaXsOIn9BHnmtOtnpu3Xxswc8HURf6no9i004nOURUkbGqM_OHq7jvbc2oxypO_HRXEZv2X=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPy7DKJxeeL23ICtX91dnnpk8rHXJLIkv-m1rY6noxowcLvHaQdxZQoT1yUXZkBh6Qt5DW12EzxieIXjqSVs5q9SaHLhlGKxrIfzPLRlrUbki1Fb6CMhbaRTfFLDBL3eFddIwAkAm4XMxmg_3qoIPEN=w1555-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPI07rkWYwhrFa8k3jK6ayX0Tno0u5k82v-buG3g3dlzYBBfoBrAuCEi_3V2P8_iXp3HPVSsMbp8vpxSqO6KOdTMF-CSvEGvwpw0vsYx3TAShJ9il9FiCFzAz-mEYjdAGwpMn7-O4d0swL_jKxsOsEP=w1555-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/882#issuecomment-33248 (hdhiswork/YEUCAU#882)
+
 ## [v.3.26.0819.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608190-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Xây dựng chức năng tiếp nhận, tạo lập mẫu 09/BH hồ sơ điều chỉnh, ký số, gửi cổng tiếp nhận theo thông tư 12/2026/TT-BTC #696
 - ✨: Yêu cầu xây dựng chức năng nhập từ file excel
