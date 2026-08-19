@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0819.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608192-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608192-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608192-NasDHSolutions.json)</sup></sup></sub>
+- ✨: YÊU CẦU - THỰC HIỆN BỔ SUNG PHIẾU CHĂM SÓC CẤP 1-2-3
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/891
+- 📗: https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONGTU32/PHIEU_CHAM_SOC_CAP_1_23_TT32.md
+- 📕: Bổ Form Option cấu hình chung cho các biểu mẫu, bổ sung option cấu hình phiếu chăm sóc
+
+![](https://i.vgy.me/dFUOIZ.png)
+
 ## [v.3.26.0819.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608191-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608191-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608191-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung chức năng cấu hình và load dữ liệu `XML4750/XML3176` `bang1.ngay_vao_noi_tru` theo `bang1.ma_loai_kcb là 05 hoặc 08` theo mô tả: [XML130/QD3176/bang1.ngay_vao_noi_tru.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD3176/bang1.ngay_vao_noi_tru.md).
