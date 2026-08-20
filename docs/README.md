@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0820.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608201-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608201-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608201-NasDHSolutions.json)</sup></sup></sub>
+- ✨: YÊU CẦU - THỰC HIỆN BỔ SUNG PHIẾU CHĂM SÓC CẤP 1-2-3
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/891
+- 📕: Bổ sung nút xoá nếu người dùng không muốn cấu hình danh mục cho Chẩn đoán điều dưỡng
+
+![](https://i.vgy.me/dY0s7B.png)
+
 ## [v.3.26.0820.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608200-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - XML3176 BANT đợt lấy mã bệnh kèm theo cấu hình lấy chẩn đoán ra viện
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/885
