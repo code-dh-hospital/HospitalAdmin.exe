@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0822.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608220-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Cập nhật chức năng kiểm tra thông tuyến => Form hiệu chỉnh thông tin bệnh nhân: Khi thực hiện hiệu chỉnh => Cho phép kiểm tra thông tuyến: Bỏ ràng buộc phải có thông tin mã đối tượng, nếu có thì chỉ áp dụng cho đối tượng BHYT. Nếu chưa có đối tượng, sau khi kiểm tra thông tuyến sẽ gán giá trị mặc định cho đối tượng (phụ thuộc vào mã thẻ).
+![](https://lh3.googleusercontent.com/pw/AP1GczMjhc6_zE5jq2PAxlGxKaM1M-cR9iN-ia75rm_OOI7P2YYnk7nDIlZsCMIwKmXv3HrvPjqFqPhRgsiWGNhTqpDgspIPvBZNSagSEje-seS2sTkyZT7BiTPcs6scfTa-bCh7mc3GhaQZePg7nIfkgoQ4=w1529-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMYmJpeOR9NeywLrs5oYO_YLbakEzwQFShx2ckWooK3T-gdI5y0PkhQIP340f_jT1FHb-zCVijpYjxHAJQ1MJWBbIVCPQg1MM6ngvdl6NlVus5H3b9mhgBfyNG1k2l5BR_Bg1yR068--E-YfJU7ZdZ3=w1529-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMpxYMSiFbYCgHSf4WTClOIMYKrkIPR2icmDKdw8_viD_0dVZbvGsMX8cpz3Ww96iAcJxFBSK5brV667KyvbM8CKnzjhPd6s152dX8jd2nOEUDTv54vAMaj7i1FhXDyAl2ECZYIS1vEg9WvCPmKmG2g=w1529-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/862#issuecomment-33587 (hdhiswork/YEUCAU#862)
+
 ## [v.3.26.0820.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608201-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608201-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608201-NasDHSolutions.json)</sup></sup></sub>
 - ✨: YÊU CẦU - THỰC HIỆN BỔ SUNG PHIẾU CHĂM SÓC CẤP 1-2-3
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/891
