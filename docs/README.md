@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.26.0822.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608221-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608221-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608221-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Xây dựng chức năng tiếp nhận, tạo lập mẫu 09/BH hồ sơ điều chỉnh, ký số, gửi cổng tiếp nhận theo thông tư 12/2026/TT-BTC #696
+- 🐛: XML lấy tên người lập biểu thiếu khoản trắng, nên lấy họ lót không chức danh thay cho họ lót
+![](https://i.vgy.me/1ntJA5.png)
+- 🐛: Chỉnh được ngày y lệnh chỉnh nhưng lưu lại không được
+![](https://i.vgy.me/U6JbiU.png)
+- 🐛: Số bảng, số TT khi bỏ trống bấm chuột chổ khác cũng bị treo phần mềm
+- ✨: Khi import từ file excel , dựa vào `ma_lk` để ưu tiên lấy các trường `ma_bn`, `ho_ten`, `ngay_vao`, `ngay_ra`, `ma_the_bhyt`. Trường hợp dữ liệu không có thì mới lấy từ file excel
+![](https://i.vgy.me/d7CWwO.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/696
+
 ## [v.3.26.0822.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608220-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Cập nhật chức năng kiểm tra thông tuyến => Form hiệu chỉnh thông tin bệnh nhân: Khi thực hiện hiệu chỉnh => Cho phép kiểm tra thông tuyến: Bỏ ràng buộc phải có thông tin mã đối tượng, nếu có thì chỉ áp dụng cho đối tượng BHYT. Nếu chưa có đối tượng, sau khi kiểm tra thông tuyến sẽ gán giá trị mặc định cho đối tượng (phụ thuộc vào mã thẻ).
