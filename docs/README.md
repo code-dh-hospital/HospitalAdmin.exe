@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0824.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608240-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi chức năng kiểm tra thông tuyến => Sửa lỗi form hiệu chỉnh thông tin bệnh nhân sau khi kiểm tra thông tuyến/lưu: ghi nhận sai họ tên, giới tính, ngày kết thúc thẻ, ngày đủ 5 năm, ...
+![](https://lh3.googleusercontent.com/pw/AP1GczMFhQPdiIPPPeE0S57bY9D6_YI0EaGCC_JHBjid3Oq7RhSljn2GRx-ehxeM5q50PJWl2SM_wzRvbk4LNSAhkWvnWICtfXrcm6SNh3JXCJBC2w_mysJYVrMIYGvJFpnhdMdJ5V__R3UjWO_y4TgQFBeu=w1553-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOR97da7W744vwD8Iwm4kc9xNFWq64X4GKN_eTpc6wCfdOTKulXgOZx510ukfJ1lwi66Vl9LfhLN8oJmqG0_nobMTCsDWgKuORBkRqqbom_uoXWE4TBoed1J4KQXmOpjFb8efBxKj6dECcZhS8RTr8t=w1529-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/862#issuecomment-33724 (hdhiswork/YEUCAU#862)
+
 ## [v.3.26.0822.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608221-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608221-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608221-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Xây dựng chức năng tiếp nhận, tạo lập mẫu 09/BH hồ sơ điều chỉnh, ký số, gửi cổng tiếp nhận theo thông tư 12/2026/TT-BTC #696
 - 🐛: XML lấy tên người lập biểu thiếu khoản trắng, nên lấy họ lót không chức danh thay cho họ lót
