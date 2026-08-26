@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0826.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608260-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Xây dựng chức năng tiếp nhận, tạo lập mẫu 09/BH hồ sơ điều chỉnh, ký số, gửi cổng tiếp nhận theo thông tư 12/2026/TT-BTC #696
+- 🐛: Cho phép để trống STT trong bảng XML do khi chỉnh thông tin ở XML 1 thì cổng BH trả về file excel không có STT trong bảng XML và xuất XML cũng không cần thông tin này
+- 🐛: Vẫn còn lỗi không chỉnh được ngày y lệnh 
+![](https://i.vgy.me/r2XwgA.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/696
+
 ## [v.3.26.0824.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608240-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi chức năng kiểm tra thông tuyến => Sửa lỗi form hiệu chỉnh thông tin bệnh nhân sau khi kiểm tra thông tuyến/lưu: ghi nhận sai họ tên, giới tính, ngày kết thúc thẻ, ngày đủ 5 năm, ...
