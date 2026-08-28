@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.0828.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608280-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung menu `Cấu hình kết nối Hệ thống PACS` (mnuOptionPACS) trong menu Tiện ích (ngay phía dưới menu `Cập nhật Hạn sử dụng chức năng riêng`) trong HosAdmin.FrmMain để mở form XFrmOptionPACS cấu hình kết nối và tham số tích hợp PACS đa đối tác (VIETRAD / ECO / Legacy).
+- 📕: Vào menu Tiện ích -> Chọn `Cấu hình kết nối Hệ thống PACS` để thực hiện quản trị, thiết lập các tham số kết nối API REST / HL7 và kiểm tra thông tuyến đối tác PACS.
+- ✨: Thực hiện theo Mô tả: [DH-PACS/mota-thaydoi-hethong-pacs.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/DH-PACS/mota-thaydoi-hethong-pacs.md)
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/39
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38
+- ![](https://images-worker.tlt20.workers.dev/i/01a0461d-7241-703b-b11a-c15bea4c9f16)
+- ![](https://images-worker.tlt25.workers.dev/i/01a045f1-a1eb-72cd-bcc1-d50fddaee223)
+- ![](https://images-worker.tlt23.workers.dev/i/01a04658-449d-745d-8542-ec9d01aa117b)
+
 ## [v.3.26.0826.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608261-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Xây dựng chức năng tiếp nhận, tạo lập mẫu 09/BH hồ sơ điều chỉnh, ký số, gửi cổng tiếp nhận theo thông tư 12/2026/TT-BTC #696
 - 🐛: Ngày y lệnh chỉ nhận ký tự số và >= 12 ký tự
