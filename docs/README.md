@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0831.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608310-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608310-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608310-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Thêm chức năng gửi dữ liệu KSK bằng API theo phụ lục 2 QĐ 2062/QĐ-BYT #884
+- ✨: Bổ sung cấu hình gửi cổng dữ liệu KSK TT25
+![](https://i.vgy.me/HDxLfU.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/884
+
 ## [v.3.26.0828.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608281-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608281-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608281-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Xây dựng toàn bộ core framework tích hợp PACS Đa đối tác trong namespace DH.PublicCLS.Pacs gồm Models (HisPacsPatient, HisPacsEncounter, HisPacsItem, HisPacsOrder, HisPacsCancelRequest, HisPacsResult, PacsSendResponse, HisPacsCatalogService), Interfaces (IPacsProvider, IPacsIntegrationService), Transport (PacsHttpClient, PacsAuditLogger), Providers (VietradJsonPacsProvider, VietradFhirPacsProvider, EcoHl7JsonPacsProvider, LegacyPacsProviders), Factory và Services (PacsProviderFactory, PacsLegacyDispatcher, PacsIntegrationService).
 - 🐛: Loại bỏ phụ thuộc cứng vào từng mã bệnh viện, chuẩn hóa xử lý lỗi, retry tự động và ghi nhận nhật ký chi tiết hai chiều HIS <-> PACS.
