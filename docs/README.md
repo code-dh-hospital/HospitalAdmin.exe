@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.0902.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609021-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609021-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609021-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Thực hiện theo Mô tả: [DH-PACS/mota-thaydoi-hethong-pacs.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/DH-PACS/mota-thaydoi-hethong-pacs.md)
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/39
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38
+- ![](https://images-worker.tlt05.workers.dev/i/01a06134-19aa-701e-b8e7-6c016db36387)
+- ![](https://images-worker.tlt02.workers.dev/i/01a06133-9dfb-70c2-a544-ae578def98bd)
+- ![](https://images-worker.tlt09.workers.dev/i/01a06132-e5fa-71ba-b588-24434263473d)
+- ![](https://images-worker.tlt10.workers.dev/i/01a06132-80b4-768c-8224-25f3870f2857)
+- ![](https://images-worker.tlt07.workers.dev/i/01a06147-67f9-7120-9bee-a0f18971e819)
+
 ## [v.3.26.0902.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609020-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - XML 3176 mã loại KCB 02 bệnh án ngoại trú ngày không lấy được thông tin Quá trình bệnh lý (BV Ô Môn) #984
 	
