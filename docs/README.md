@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.26.0902.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609020-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - XML 3176 mã loại KCB 02 bệnh án ngoại trú ngày không lấy được thông tin Quá trình bệnh lý (BV Ô Môn) #984
+	
+	+ Cập nhật: Admin
+
+	+ Nguyên nhân: BANT ngày chưa lấy thông tin từ current.tongketba --> bổ sung lấy thông tin cho BANT ngày
+
+	![](https://i.vgy.me/UnvhzZ.png)
+
+	
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/984
+
 ## [v.3.26.0831.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608311-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608311-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32608311-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Thêm chức năng gửi dữ liệu KSK bằng API theo phụ lục 2 QĐ 2062/QĐ-BYT #884
 - ✨: Bổ sung thêm các cấu hình gửi cổng dữ liệu KSK TT25
