@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.0903.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609030-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [HospitalAdmin & HosAdmin, DH.PublicCLS] Bổ sung và đồng bộ module cấu hình hệ thống PACS đa đối tác (EOptionPACS): hỗ trợ thiết lập tham số kết nối API REST / HL7, kiểm tra thông tuyến, chuẩn hóa 9 chủng loại máy OBR-24 (CT, MR, DX, US, ES, ED, ECG, EEG, OT) và luồng bác sĩ chỉ định đồng bộ cho Diagnose và toàn hệ thống.
+- 🐛: [HospitalAdmin & DH.PublicCLS] Khắc phục triệt để lỗi thiếu ORC-12.3 (Tên bác sĩ chỉ định) và sai mã loại máy OBR-24 khi gửi ECO PACS; bảo đảm tương thích dữ liệu cấu hình giữa HosAdmin và Diagnose.
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/39
+  https://i.dh-his.com/hdhiswork/DUAN/issues/38
+- 📗: [HosAdmin & DH.PublicCLS] Đọc và cập nhật chuỗi JSON cấu hình EOptionPACS qua bảng current.coderun và lưu vết bản tin vào current.pacs_message_log.
+- 📕: [HospitalAdmin & HosAdmin] Vào menu Tiện ích -> Chọn "Cấu hình kết nối Hệ thống PACS" (form XFrmOptionPACS) để thiết lập và kiểm tra thông tuyến các kết nối PACS.
+  ![](https://images-worker.tlt29.workers.dev/i/01a06521-0f49-766d-a0d2-512ddf2abcfb)
+  ![](https://images-worker.tlt06.workers.dev/i/01a0651f-b86b-798b-bcd7-1afb8645bea0)
+
 ## [v.3.26.0902.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609021-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609021-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609021-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Thực hiện theo Mô tả: [DH-PACS/mota-thaydoi-hethong-pacs.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/DH-PACS/mota-thaydoi-hethong-pacs.md)
 - ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/39
