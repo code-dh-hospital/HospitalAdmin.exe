@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0904.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609040-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Đồng bộ dữ liệu Hồ sơ sức khỏe nhằm tạo lập cơ sở dữ liệu dùng chung ngành Y tế (Theo Quyết định 831) #847
+- 🐛: Bổ sung thêm cấu hình gửi cổng Vĩnh Long
+![](https://i.vgy.me/z7dOjd.png)
+![](https://i.vgy.me/EtR6ak.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/847
+
 ## [v.3.26.0903.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609030-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [HospitalAdmin & HosAdmin, DH.PublicCLS] Bổ sung và đồng bộ module cấu hình hệ thống PACS đa đối tác (EOptionPACS): hỗ trợ thiết lập tham số kết nối API REST / HL7, kiểm tra thông tuyến, chuẩn hóa 9 chủng loại máy OBR-24 (CT, MR, DX, US, ES, ED, ECG, EEG, OT) và luồng bác sĩ chỉ định đồng bộ cho Diagnose và toàn hệ thống.
 - 🐛: [HospitalAdmin & DH.PublicCLS] Khắc phục triệt để lỗi thiếu ORC-12.3 (Tên bác sĩ chỉ định) và sai mã loại máy OBR-24 khi gửi ECO PACS; bảo đảm tương thích dữ liệu cấu hình giữa HosAdmin và Diagnose.
