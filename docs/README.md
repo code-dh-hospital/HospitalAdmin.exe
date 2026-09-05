@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0905.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609050-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [HospitalAdmin & HosAdmin] Tích hợp `LibraryApp.ClsBanQuyen.ApplyMainForm` tại `FrmMain_Load` (trước khi đăng nhập) và `ApplyChildForm` trong constructor của `FrmHome`, tự động đổi tiêu đề thành `DH.HIS Admin` (loại bỏ tiền tố DHG trên tab Home), nạp ảnh nền `background_dh.png` ngay từ bước khởi động ban đầu, cập nhật bản quyền DH và tự động quét ẩn nhóm Trợ giúp (expMain.Groups["Trogiup"]) khi `DHHIS_BANQUYEN=1`.
+- 🐛: Khắc phục việc menu Trợ giúp chưa bị ẩn trên Janus ExplorerBar và ảnh nền FrmHome phải đợi sau khi đăng nhập mới hiển thị.
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/34
+- 📗: Độc lập 100% CSDL PostgreSQL, không dùng `current.system`.
+- 📕: Thực hiện theo mô tả [Bổ sung key chức năng riêng quản lý nâng cấp version DHG.Hospital thành DH.HIS](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/CHUC-NANG-RIENG/DUAN34_NangCap_Version_DHHIS_BanQuyen.md).
+![](https://images-worker.tlt01.workers.dev/i/01a06f07-da9f-736c-9be6-dfa792a126f6)
+
 ## [v.3.26.0904.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609040-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Đồng bộ dữ liệu Hồ sơ sức khỏe nhằm tạo lập cơ sở dữ liệu dùng chung ngành Y tế (Theo Quyết định 831) #847
 - 🐛: Bổ sung thêm cấu hình gửi cổng Vĩnh Long
