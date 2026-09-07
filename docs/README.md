@@ -6,6 +6,30 @@
 
 #
 
+## [v.3.26.0907.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609071-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: LỖI - Số ngày điều trị trên form chỉ định CLS Prescription và Mô tả ma_loai_kcb_QD1804: MA_LOAI_KCB = 02 và 08 thiếu cách lấy SO_NGAY_DTRI #986
+
+	+ Cập nhật:
+
+	Fix lỗi BA_NGOAITRU không lấy được SO_NGAY_DTI khi MA_LOAI_KCB = '08'
+
+	![](https://i.vgy.me/qjnFBz.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/986
+<<<<<<< HEAD
+
+## [v.3.26.0907.0]()
+- 🐛: LỖI - Số ngày điều trị trên form chỉ định CLS Prescription và Mô tả ma_loai_kcb_QD1804: MA_LOAI_KCB = 02 và 08 thiếu cách lấy SO_NGAY_DTRI #986
+
+	+ Cập nhật:
+
+	Fix lỗi BA_NGOAITRU không lấy được SO_NGAY_DTI khi MA_LOAI_KCB = '08'
+
+	![](https://i.vgy.me/qjnFBz.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/986
+=======
+
 ## [v.3.26.0905.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609050-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [HospitalAdmin & HosAdmin] Tích hợp `LibraryApp.ClsBanQuyen.ApplyMainForm` tại `FrmMain_Load` (trước khi đăng nhập) và `ApplyChildForm` trong constructor của `FrmHome`, tự động đổi tiêu đề thành `DH.HIS Admin` (loại bỏ tiền tố DHG trên tab Home), nạp ảnh nền `background_dh.png` ngay từ bước khởi động ban đầu, cập nhật bản quyền DH và tự động quét ẩn nhóm Trợ giúp (expMain.Groups["Trogiup"]) khi `DHHIS_BANQUYEN=1`.
 - 🐛: Khắc phục việc menu Trợ giúp chưa bị ẩn trên Janus ExplorerBar và ảnh nền FrmHome phải đợi sau khi đăng nhập mới hiển thị.
