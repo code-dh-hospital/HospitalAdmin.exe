@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.26.0908.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609081-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [HospitalAdmin & HosHrm] Mở rộng nhập liệu và quản lý thẻ BHYT 17 ký tự (mã định danh CCCD) trên FrmDangKyBH (HosHrm): mở rộng MaxLength txtBH6 từ 5 lên 7 ký tự (2+1+2+2+3+7 = 17 ký tự), cập nhật split_BH() tự động phát hiện mã thẻ 15 hoặc 17 ký tự, đảm bảo tương thích ngược 100% với thẻ 15 ký tự cũ.
+- 🐛: [HospitalAdmin & HosHrm] Khắc phục tình trạng cắt cụt 2 ký tự cuối khi tiếp nhận thẻ BHYT định danh 17 ký tự trong phân hệ nhân sự / đăng ký hành chính.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/909
+- ☑: https://i.dh-his.com/tolaptrinh-ai/loi/issues/25
+- Thực hiện theo mô tả [MỞ RỘNG HỖ TRỢ MÃ THẺ BHYT 17 KÝ TỰ (CCCD/ĐDCN)](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONG-TIN-BENH-NHAN/Thong-mo-ta-Mo-rong-ho-tro-ma-the-BHYT-17-ky-tu-CCCD.md)
+- 📗: current.psdangky, current.benhan, current.thebhyt
+- 📕: Quản trị hệ thống / Tiếp nhận đăng ký BHYT (FrmDangKyBH - HosHrm).
+
+![](https://images-worker.tlt40.workers.dev/i/01a07f0f-6a88-75df-9d3f-5519df9a8612)
+![](https://images-worker.tlt37.workers.dev/i/01a07f15-70bd-7b34-a6d6-b5aa1e3a1fa7)
+![](https://images-worker.tlt33.workers.dev/i/01a07f11-332c-7292-8740-11ad3b851c5f)
+
 ## [v.3.26.0908.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609080-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Đồng bộ dữ liệu Hồ sơ sức khỏe nhằm tạo lập cơ sở dữ liệu dùng chung ngành Y tế (Theo Quyết định 831) #847
 - ✨: Bổ sung cấu hình gửi cổng KSK - theo quyết định 831
