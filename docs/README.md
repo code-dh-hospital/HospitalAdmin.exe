@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.26.0909.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609090-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [HospitalAdmin & OTH.Entity, OTH.Adapter, OTH.XForms.v.1.0] Bổ sung tùy chọn cấu hình trong Form Option BHXH (`XFrmOptionBHXH`) cho phép xác định `MA_DOITUONG_KCB (1.16, 1.17)` theo toàn bộ mã ICD (mặc định) hoặc chỉ theo mã ICD bệnh chính.
+- 🐛: [HospitalAdmin & OTH.Adapter] Khắc phục lỗi Cổng BHXH từ chối hồ sơ (BV QDY) do gán mã đối tượng KCB 1.16/1.17 khi bệnh chính không thuộc cấp chuyên môn kỹ thuật 1.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/911
+- ☑: https://i.dh-his.com/tolaptrinh-ai/loi/issues/26
+- 📕: Mở rộng giao diện cấu hình thông số BHXH tại phân hệ Quản trị hệ thống (HospitalAdmin).
+- Thực hiện theo mô tả [TÙY CHỌN XÁC ĐỊNH MÃ ĐỐI TƯỢNG KCB (1.16, 1.17) THEO ICD CHÍNH TRONG FORM OPTION BHXH](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/Mo-ta-xac-dinh-ma-doi-tuong-kcb-116-117-theo-icd-chinh.md)
+  ![](https://images-worker.tlt22.workers.dev/i/01a080ee-1446-74e7-91b0-f92d16f8247e)
+- 🐛: Chỉnh lỗi không gửi được hồ sơ  XML
+![](https://images-worker.tlt46.workers.dev/i/01a0858d-dfb2-79dd-95fd-5fbb7fdff720)
+
 ## [v.3.26.0908.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609082-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609082-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609082-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [HospitalAdmin & OTH.Entity, OTH.Adapter, OTH.XForms.v.1.0] Bổ sung tùy chọn cấu hình trong Form Option BHXH (`XFrmOptionBHXH`) cho phép xác định `MA_DOITUONG_KCB (1.16, 1.17)` theo toàn bộ mã ICD (mặc định) hoặc chỉ theo mã ICD bệnh chính.
 - 🐛: [HospitalAdmin & OTH.Adapter] Khắc phục lỗi Cổng BHXH từ chối hồ sơ (BV QDY) do gán mã đối tượng KCB 1.16/1.17 khi bệnh chính không thuộc cấp chuyên môn kỹ thuật 1.
