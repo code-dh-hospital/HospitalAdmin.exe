@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0910.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609100-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Hỗ trợ chức năng tra cứu tiền miễn cùng chi trả theo phụ lục công văn 1839/CNTT-PM #900
+- tab Tra cứu tiền MCCT bị che khuất -> đề nghị mỡ rộng form hoặc đưa ra phía tab bệnh nhân để người dùng nhìn thấy.
+- Khi tra cứu tiền miễn cùng chi trả báo lỗi 400
+![](https://i.vgy.me/mhdkbI.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/900
+
 ## [v.3.26.0909.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609090-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [HospitalAdmin & OTH.Entity, OTH.Adapter, OTH.XForms.v.1.0] Bổ sung tùy chọn cấu hình trong Form Option BHXH (`XFrmOptionBHXH`) cho phép xác định `MA_DOITUONG_KCB (1.16, 1.17)` theo toàn bộ mã ICD (mặc định) hoặc chỉ theo mã ICD bệnh chính.
 - 🐛: [HospitalAdmin & OTH.Adapter] Khắc phục lỗi Cổng BHXH từ chối hồ sơ (BV QDY) do gán mã đối tượng KCB 1.16/1.17 khi bệnh chính không thuộc cấp chuyên môn kỹ thuật 1.
