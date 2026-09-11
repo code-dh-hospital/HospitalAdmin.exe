@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.26.0911.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609113-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609113-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609113-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [HospitalAdmin & OTH.Common, OTH.Entity, OTH.Adapter, OTH.XForms, OTH.XForms.v.1.0, HosAdmin, Roo.Exe] Tách CSDL lưu trữ file cập nhật phân hệ ứng dụng độc lập, hỗ trợ cấu hình DB cập nhật qua Coderun EOptionAdmin, giao diện XFrmOptionAdmin, form Quản lý cập nhật XFrmModule, và hỗ trợ nạp gói cập nhật trực tiếp từ file ZIP (chỉ gồm file dll, exe) không cần đóng gói MSI; bổ sung cấu hình BuildZip tự động đóng gói toàn bộ thư mục bin/BuildZip thành file ZIP qua visualstudio-external-tool.js (không chép vào dhlibraries)
+- 🐛: Khắc phục lỗi bắt buộc phải build MSI khi đẩy binary lên PostgreSQL; tối ưu hóa connection pool đóng mở an toàn tuyệt đối (Pooling=false); tự động khởi tạo bảng public.pglibs, public.pgexe và bảo đảm kích hoạt đúng public.pgactive khi chọn file zip hoặc đổi phiên bản trong XFrmModule
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/845
+- 📗: current.coderun (EOptionAdmin = 145), fallback {database}_app, public.pgactive, public.pgexe, public.pglibs, public.module
+- 📕: Truy cập Hỗ trợ -> Cấu hình tùy chọn quản trị để thiết lập CSDL cập nhật; Form Quản lý cập nhật hỗ trợ chọn file ZIP trực tiếp từ bin/Release hoặc MSI truyền thống; chuyển sang cấu hình BuildZip trên Visual Studio để tự động tạo gói nén ZIP sẵn sàng cập nhật; tự động kích hoạt phiên bản vào public.pgactive trên remote DB phục vụ client tự động cập nhật
+- Thực hiện theo mô tả [Mô tả bổ sung cấu hình AppUpdate Postgres App tách biệt DB HIS chính](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Quan-tri-Admin/Mo-ta-bo-sung-cau-hinh-appupdate-postgres-app-tru-db-his-chinh.md)
+
+![](https://images-worker.tlt49.workers.dev/i/01a08a61-d1e5-75ff-ad90-9fd69d25f6f8)
+![](https://images-worker.tlt14.workers.dev/i/01a08b33-4103-79d2-9e16-a4c443e701b8)
+
 ## [v.3.26.0910.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609100-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Hỗ trợ chức năng tra cứu tiền miễn cùng chi trả theo phụ lục công văn 1839/CNTT-PM #900
 - tab Tra cứu tiền MCCT bị che khuất -> đề nghị mỡ rộng form hoặc đưa ra phía tab bệnh nhân để người dùng nhìn thấy.
