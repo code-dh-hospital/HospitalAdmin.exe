@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0914.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609141-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Tại form xuất dữ liệu XML4750 => Bổ sung menu `"Lấy dữ liệu - Ngoại trú không BHYT"` để load dữ liệu danh sách những bệnh nhân không phải đối tượng BHYT *(thu phí, miễn phí, ...)* hỗ trợ gửi dữ liệu `Hồ sơ SKSS BYT`. Lưu ý: phải chọn loại đối tượng là `"Không BHYT"`.
+![](https://lh3.googleusercontent.com/pw/AP1GczNq7TxXWiMR8HHs8LJI9nPnd6_vg1KvyP5LeIy4lJn2wf0nHcfw0e2c_dBT7PiXSjQXcE7ZkRBFmUzeto1o-bwoHI5Kt6mbu1Bgq6fqxxi6aEGjfRyBkJyJnC5e3LeNsCGvU5NBBSMeSKbGf6Ne9LQK=w1661-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/596#issuecomment-35867 (hdhiswork/YEUCAU#596)
+
 ## [v.3.26.0914.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609140-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Ký số và gửi XML bằng API cho mẫu 09/BH Hồ sơ điều chỉnh theo TT 12/2026/TT-BTC #727
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/727
