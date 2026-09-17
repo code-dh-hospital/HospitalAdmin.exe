@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0917.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609170-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu: Đồng bộ dữ liệu KCB lên CSDL Ngành Y Tế #830
+- ✨:  THỰC HIỆN CHỨC NĂNG GHI NHẬN TRẠNG THÁI GỬI XML
+[Mô tả](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Thong-mo-ta-chuc-nang-ghi-nhan-trang-thai-gui-cong-file-xml.md)
+![](https://i.vgy.me/FRgxCh.png)
+![](https://i.vgy.me/NKCXeX.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/830
+
 ## [v.3.26.0916.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609160-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: [HospitalAdmin & OTH.Common, OTH.Entity, OTH.Adapter, OTH.XForms, OTH.XForms.v.1.0, HosAdmin, Roo.Exe] Tách CSDL lưu trữ file cập nhật phân hệ ứng dụng độc lập, hỗ trợ cấu hình DB cập nhật qua Coderun EOptionAdmin, giao diện XFrmOptionAdmin, form Quản lý cập nhật XFrmModule, và hỗ trợ nạp gói cập nhật trực tiếp từ file ZIP (chỉ gồm file dll, exe) không cần đóng gói MSI; bổ sung cấu hình BuildZip tự động đóng gói toàn bộ thư mục bin/BuildZip thành file ZIP qua visualstudio-external-tool.js (không chép vào dhlibraries)
