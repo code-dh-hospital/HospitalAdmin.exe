@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0917.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609171-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609171-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609171-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi/cập nhật
+1. Tự động check `[Không BHYT]` khi thực hiện lệnh tại menu `[Lấy dữ liệu - Ngoại trú không BHYT]`: 
+![](https://lh3.googleusercontent.com/pw/AP1GczPnP6KkKQqyN3HkpLeB7Z3OQ_ggGnmazzncGfeL9cTicRsrGNNGIaDK8oZHoFaM3ve6D2iPhJ4ZRefAURg-2QfZXKVTWcVjsGR80ja4xEWLRF3PEmreiuspLJnrKcTzar2vtU8bJR8suXcIIkwLRdAl=w1653-h879-s-no-gm?authuser=0)
+2. Sửa lỗi thực hiện `[Gửi XML4750 - liên thông Hồ sơ sức khỏe SKSS BYT]`: 
+![](https://lh3.googleusercontent.com/pw/AP1GczOM2fwwPfsZljSkJO4H8hy6xbsZrIbhthph3Y6bH-x8F-kjHLxcV-3DDQLUfkYgD5gJ24WXo_l-pkFhO-S2KyPpr1PzqQqTca-5WD04trqtuSzSylEcsNYvWqQUpxekCXgq-BiMc-1ttv1oIEBT2P2q=w1661-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/596#issuecomment-36009 (hdhiswork/YEUCAU#596)
+
 ## [v.3.26.0917.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609170-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Đồng bộ dữ liệu KCB lên CSDL Ngành Y Tế #830
 - ✨:  THỰC HIỆN CHỨC NĂNG GHI NHẬN TRẠNG THÁI GỬI XML
