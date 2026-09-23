@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0923.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609230-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Đóng gói lại `HosAdmin.dll` → `HosReg.Plus.dll` mới nhất — sửa lỗi chức năng "Hiệu chỉnh thông tin bệnh nhân" (`FrmHieuChinhBN.cs`, nút "KTTT") không cảnh báo khi kiểm tra thông tuyến thất bại hoặc không trả về "ngày đủ 5 năm liên tục" BHYT.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1015
+- 📕: Hiệu chỉnh thông tin bệnh nhân → bấm "Sửa" → bấm "KTTT". Nếu Cổng BHXH không trả về "ngày đủ 5 năm liên tục" hoặc bản thân việc kiểm tra thất bại, hệ thống hiển thị cảnh báo thay vì bỏ trống âm thầm như trước. Thực hiện theo mô tả [Mo-ta-Canh-bao-thieu-ngay-5-nam-lien-tuc.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH-THONGTUYEN/Mo-ta-Canh-bao-thieu-ngay-5-nam-lien-tuc.md)
+
+⚠️ Chưa build/test được trên máy hiện tại (thiếu `DevExpress.Patch.Common` đúng phiên bản — lỗi môi trường có sẵn từ trước, không liên quan đến thay đổi lần này).
+
 ## [v.3.26.0921.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609210-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Đẩy dữ liệu KSK thông qua API của cổng dữ liệu SYT TP HCM. #926
 ![](https://i.vgy.me/jE1Cwg.png)
