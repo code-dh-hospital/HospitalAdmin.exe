@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0925.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609250-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Đóng gói HosReg.Plus.dll đã sửa - 'Hiệu chỉnh thông tin bệnh nhân' (FrmHieuChinhBN): bấm KTTT khi chưa bấm 'Chỉnh' nay hỏi chuyển sang Chỉnh và gán 'ngày đủ 5 năm liên tục' từ Cổng BHXH (Cổng không trả về thì cảnh báo), thay vì bỏ qua kết quả như trước.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1015
+- 📕: Thực hiện theo mô tả [Mo-ta-Canh-bao-thieu-ngay-5-nam-lien-tuc.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH-THONGTUYEN/Mo-ta-Canh-bao-thieu-ngay-5-nam-lien-tuc.md)
+
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-kttt-chedoxem-ngay5nam-1.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-kttt-chedoxem-ngay5nam-2.png)
+
 ## [v.3.26.0923.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609230-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Đóng gói lại `HosAdmin.dll` → `HosReg.Plus.dll` mới nhất — sửa lỗi chức năng "Hiệu chỉnh thông tin bệnh nhân" (`FrmHieuChinhBN.cs`, nút "KTTT") không cảnh báo khi kiểm tra thông tuyến thất bại hoặc không trả về "ngày đủ 5 năm liên tục" BHYT.
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1015
