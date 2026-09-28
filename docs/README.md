@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.26.0928.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609280-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Utilities.Executable & DH.BLLCLS, DH.DALCLS, HosPre.DataAccess] Bổ sung nút Bỏ TV trên giao diện Xét nghiệm và mở rộng hiển thị trên Chẩn đoán hình ảnh theo cauhinh_phong_cls; cập nhật trạng thái Đang thực hiện khi lấy mẫu đủ hoặc mở chẩn đoán/gửi PACS; kiểm tra hoàn tất toàn bộ dịch vụ của phòng trước khi xóa dòng trên Tivi
+- 🐛: Khắc phục tình trạng mất dòng bệnh nhân trên Tivi khi mới trả 1 kết quả dù còn nhiều chỉ định tại phòng; bổ sung công cụ hủy Tivi khi bệnh nhân bỏ về
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/938
+- 📗: current.pscls_lcd, current.chidinhcls
+- 📕: Giao diện FrmDanhSach (XN & CĐHA), FrmXetNghiem, FrmSieuAmNoiSoi, FrmSieuAmTim, FrmSieuAmTim2, FrmSieuAmTim10, FrmSieuAmTim11; nạp text nút Bỏ TV động từ EMonitorClsOption (current.coderun code monitor_cls_tv_option)
+- Thực hiện theo mô tả [Cập nhật việc hiển thị danh sách bệnh nhân tại phòng Xét nghiệm và Chẩn đoán hình ảnh trên Monitor Tivi](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/CHANDOANHINHANH/Mo-ta-cap-nhat-hien-thi-danh-sach-benh-nhan-phong-xet-nghiem-va-cdha-tren-monitor-tivi.md)
+
+![](https://images-worker.tlt43.workers.dev/i/01a0e6b2-a8bc-7f24-80e2-cc7bb37abcd6)
+![](https://images-worker.tlt44.workers.dev/i/01a0e6b2-d4a8-7a89-a2e5-e13c007f386d)
+![](https://images-worker.tlt31.workers.dev/i/01a0e6cd-2ed7-708c-ab96-9cd88f7d7e62)
+
 ## [v.3.26.0925.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609251-NasDHSolutions.json)</sup></sup></sub>
 ﻿- 🐛: Đóng gói các DLL OTH.Entity.dll, OTH.Adapter.dll, DH.EMR.dll mới nhất — khắc phục lỗi XML1 thiếu thông tin giấy chuyển tuyến (GIAY_CHUYEN_TUYEN) đối với đối tượng KCB 1.3 (bệnh nhân có giấy chuyển viện đến tiếp nhận ngoại trú/nội trú).
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1009
