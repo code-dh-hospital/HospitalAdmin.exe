@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0930.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609300-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Đóng gói HosAdmin.dll mới - bổ sung menu Khai báo số liệu > Y tế > Danh mục cổng SYT_HCM: lấy danh mục cổng khám sức khỏe SYT TP.HCM từ API và map danh mục (dân tộc, nghề nghiệp, nhóm máu, xã/phường, các danh mục mới của cổng); phân quyền theo Phân quyền người dùng.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/935
+- 📕: Thực hiện theo mô tả [Thong-mo-ta-chuan-hoa-du-lieu-gui-cong-ksk-syt-hcm-bang-api.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Thong-mo-ta-chuan-hoa-du-lieu-gui-cong-ksk-syt-hcm-bang-api.md)
+
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-935/debug-image-hosadmin-frmmain-yte-dmcongsythcm.png)
+
 ## [v.3.26.0928.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32609280-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Utilities.Executable & DH.BLLCLS, DH.DALCLS, HosPre.DataAccess] Bổ sung nút Bỏ TV trên giao diện Xét nghiệm và mở rộng hiển thị trên Chẩn đoán hình ảnh theo cauhinh_phong_cls; cập nhật trạng thái Đang thực hiện khi lấy mẫu đủ hoặc mở chẩn đoán/gửi PACS; kiểm tra hoàn tất toàn bộ dịch vụ của phòng trước khi xóa dòng trên Tivi
 - 🐛: Khắc phục tình trạng mất dòng bệnh nhân trên Tivi khi mới trả 1 kết quả dù còn nhiều chỉ định tại phòng; bổ sung công cụ hủy Tivi khi bệnh nhân bỏ về
