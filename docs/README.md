@@ -6,6 +6,22 @@
 
 #
 
+## [v.3.26.1006.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610060-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Tích hợp chức năng liên thông Hồ sơ sức khỏe SKSS (Bộ Y tế) trên giao diện XFrmBKXuatXML4750 với quy trình 3 bước chuẩn hóa.
+- 🐛: Sửa lỗi load lan toàn bộ bệnh nhân không BHYT nam giới/người già, thay bằng cơ chế nạp đúng hồ sơ SKSS chuyên khoa.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/596
+- 📗: Truy vấn xSQLHoSoSKSS_BYT kết hợp đối tượng BHYT và viện phí, ánh xạ dữ liệu CSDL lâm sàng sang chuẩn XML e-MCH Bộ Y tế.
+- 📕: Hướng dẫn người dùng chọn tiêu chí -> [Lấy dữ liệu - Hồ sơ sức khỏe SKSS (Bộ Y tế)] -> Chọn hồ sơ và click [Gửi XML4750 - liên thông Hồ sơ sức khỏe SKSS BYT].
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-596/debug-image-admin-xfrmbkxuatxml4750-skss-danhsach.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-596/debug-image-admin-xfrmbkxuatxml4750-skss-loaidt.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-596/debug-image-admin-xfrmbkxuatxml4750-skss-menu-popup.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-596/debug-image-admin-xfrmbkxuatxml4750-skss-trangthai-guicong.png)
+
+## [v.3.26.1002.0]()
+- ✨: bổ sung Form quản lý danh mục biểu mẫu
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/891
+![](https://i.vgy.me/FvuKEF.png)
+
 ## [v.3.26.1001.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610012-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610012-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610012-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Yêu cầu - Khắc phục MissingMethodException hàm toSerializeXmlBHXHAutoCDDataByGPT khi ký số/xuất XML TT12 (BV Ô Môn) #941 (Tester phản hồi tại comment #45648)
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/941
