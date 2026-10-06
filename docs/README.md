@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.1006.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610062-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610062-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610062-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung tiếp nhận và truyền ngày đủ 5 năm liên tục khi kiểm tra thông tuyến BHYT tại các nút Kiểm tra thông tuyến trên phân hệ Quản trị (HospitalAdmin) qua HosReg.Plus
+- 🐛: Khắc phục lỗi khi gọi hàm setCheckMaThe kiểm tra thông tuyến trên màn hình Hiệu chỉnh thông tin bệnh nhân (FrmHieuChinhBN), đảm bảo bệnh nhân đã có ngày 5 năm trên hệ thống khớp đúng ngày 5 năm, không bị cảnh báo sai lệch thẻ hoặc hiện popup hỏi cập nhật ngày 5 năm
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1015#issuecomment-46368 (hdhiswork/LOI#1015)
+- 📗: Lấy giá trị ngày đủ 5 năm từ control cboNgay5Nam (tương ứng trường ngay5nam bảng current.psdangky) truyền vào hàm setCheckMaThe
+- 📕: Phân hệ Quản trị (HospitalAdmin) - Hiệu chỉnh thông tin bệnh nhân: hệ thống kiểm tra và khớp đúng ngày 5 năm, không cảnh báo sai lệch
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-prescription-frmhieuchinhbn-kttt-khop-ngay5nam.png)
+
 ## [v.3.26.1006.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610061-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610061-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610061-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Đồng bộ nhận diện thương hiệu DH.HIS theo biến môi trường DHHIS_BANQUYEN=1: nạp thư viện LibraryApp mới, tự động đổi hình nền đăng nhập FrmDangNhap theo tông màu y tế background_dh, chuẩn hóa thanh trạng thái Status Bar 4 ô với biểu tượng logoDH và gán tiêu đề Form Home DH.HIS Admin.
 - 🐛: Khắc phục lỗi kiểm tra kết nối ClsConnection.v_conn trong FrmDangNhap, đảm bảo phân hệ khởi chạy an toàn khi kiểm thử hoặc ngoại tuyến.
