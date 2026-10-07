@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.1007.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610070-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung cấu hình kết nối Cổng tiếp nhận Kho dữ liệu Y tế Vĩnh Long theo Quyết định 2062/QĐ-BYT vào form cấu hình tham số BHXH (`XFrmOptionBHXH`) qua thư viện `OTH.XForms.v.1.0`.
+- 🐛: Phân hệ Quản trị hệ thống (`HospitalAdmin`) chưa có giao diện cấu hình thông số kết nối API Cổng SYT Vĩnh Long cho phân hệ Khám sức khỏe.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/948
+- 📗: Đọc và ghi các trường cấu hình Cổng SYT Vĩnh Long 2062 vào bảng `current.coderun` thông qua `EOptionTT25KSK` (`OTH.Entity`).
+- 📕: Quản trị viên mở HospitalAdmin -> Khai báo số liệu -> Cấu hình tham số gửi Xml lên cổng BHXH -> Cổng dữ liệu sức khỏe -> chọn tab "Cấu hình SYT Vĩnh Long (2026)" để khai báo thông tin kết nối và tích chọn "Sử dụng".
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-948/debug-image-hosadmin-xfrmoptionbhxh-cauhinh-syt-vinhlong-2026.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-948/debug-image-prescription-frmkhamsuckhoe-gui-cong-syt-vinhlong-2062.png)
+
 ## [v.3.26.1006.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610062-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610062-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610062-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung tiếp nhận và truyền ngày đủ 5 năm liên tục khi kiểm tra thông tuyến BHYT tại các nút Kiểm tra thông tuyến trên phân hệ Quản trị (HospitalAdmin) qua HosReg.Plus
 - 🐛: Khắc phục lỗi khi gọi hàm setCheckMaThe kiểm tra thông tuyến trên màn hình Hiệu chỉnh thông tin bệnh nhân (FrmHieuChinhBN), đảm bảo bệnh nhân đã có ngày 5 năm trên hệ thống khớp đúng ngày 5 năm, không bị cảnh báo sai lệch thẻ hoặc hiện popup hỏi cập nhật ngày 5 năm
