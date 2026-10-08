@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.26.1008.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610080-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung mã CSKCB 79426 - Viện Y Dược Học Dân Tộc (TP HCM) vào danh sách đơn vị theo hợp đồng MaBVBH_ByHopDong
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/953
+- 📕: Cấp key bản quyền HIS cho Viện Y Dược Học Dân Tộc sử dụng phân hệ theo hợp đồng
+
 ## [v.3.26.1007.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610072-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610072-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610072-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Chuẩn hóa câu lệnh truy vấn nạp dữ liệu quản trị hệ thống, báo cáo thống kê và điều chỉnh chứng từ sử dụng OTH.Common.ClsSqlOidHelper.CastOid(...) và đồng bộ build HospitalAdmin.exe phòng ngừa lỗi tràn số OID > 2.14 tỷ
 - 🐛: Khắc phục triệt để lỗi OverflowException / ArgumentException khi nạp danh mục, chứng từ và báo cáo quản trị hệ thống trên các cơ sở dữ liệu có OID vượt ngưỡng 2.14 tỷ
