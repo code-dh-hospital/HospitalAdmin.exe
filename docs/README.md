@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.26.1008.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610081-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Tổng hợp bản cập nhật chức năng nạp danh sách và liên thông Hồ sơ sức khỏe sinh sản (SKSS - Bộ Y tế QĐ 4750/QĐ-BYT) trên phân hệ `HospitalAdmin` (`XFrmBKXuatXML4750`).
+- 🐛: Khắc phục lỗi không nạp được hồ sơ khám phụ khoa có mã ICD `Z01.4` (`makb = 2608010364`) và chuẩn hóa nguồn dữ liệu theo bộ lọc Loại đối tượng (`Tất cả`, `BHYT`, `Không BHYT`).
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/596#issuecomment-47333 (hdhiswork/YEUCAU#596)
+- 📗: Truy vấn dữ liệu hồ sơ SKSS từ `current.psxml`, `xml130.psxml`, `xml130.bang1` và `current.psdangky`.
+- 📕: Vào `DHG.Hospital Admin -> Xuất XML4750`, chọn thời gian, Loại đối tượng, Loại hồ sơ và bấm menu `Lấy dữ liệu - Hồ sơ sức khỏe SKSS (Bộ Y tế)`.
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-596/debug-image-admin-xfrmbkxuatxml4750-skss-danhsach.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-596/debug-image-admin-xfrmbkxuatxml4750-skss-khamphukhoa-z014.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-596/debug-image-admin-xfrmbkxuatxml4750-skss-loaidt.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-596/debug-image-admin-xfrmbkxuatxml4750-skss-menu-popup.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-596/debug-image-admin-xfrmbkxuatxml4750-skss-trangthai-guicong.png)
+
 ## [v.3.26.1008.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610080-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung mã CSKCB 79426 - Viện Y Dược Học Dân Tộc (TP HCM) vào danh sách đơn vị theo hợp đồng MaBVBH_ByHopDong
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/953
