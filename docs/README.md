@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.26.1013.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610130-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Tự động trích xuất CCCD người nuôi dưỡng trẻ em và chuẩn hóa chiều cao sang cm khi xuất hồ sơ SKSS.
+- 🐛: Tự động sinh khối chuyên khoa KHAM_THAI, KHAM_SANG_LOC hoặc TRE_EM_DEN_6_TUOI trong gói hồ sơ XML 4750 liên thông Sức khỏe sinh sản, tránh lỗi cổng e-MCH từ chối do thiếu thông tin KCB.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/596#issuecomment-48540 (hdhiswork/YEUCAU#596)
+- 📗: Trích xuất thông tin lâm sàng và sinh hiệu từ cơ sở dữ liệu khám bệnh.
+- 📕: Giao diện XtraFormBKXuatXML4750 xuất hồ sơ liên thông SKSS sang cổng skss.tkyt.vn.
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-596/debug-image-admin-xfrmbkxuatxml4750-skss-danhsach.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-596/debug-image-admin-xfrmbkxuatxml4750-skss-khamphukhoa-z014.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-596/debug-image-admin-xfrmbkxuatxml4750-skss-loaidt.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-596/debug-image-admin-xfrmbkxuatxml4750-skss-menu-popup.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-596/debug-image-admin-xfrmbkxuatxml4750-skss-trangthai-guicong.png)
+
 ## [v.3.26.1012.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610120-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Tích hợp chức năng liên thông Hồ sơ sức khỏe SKSS (Bộ Y tế) trên giao diện XFrmBKXuatXML4750 với quy trình 3 bước chuẩn hóa.
 - 🐛: Sửa lỗi load lan toàn bộ bệnh nhân không BHYT nam giới/người già, thay bằng cơ chế nạp đúng hồ sơ SKSS chuyên khoa.
