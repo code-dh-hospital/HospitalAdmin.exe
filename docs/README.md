@@ -6,6 +6,24 @@
 
 #
 
+## [v.3.26.1016.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610160-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [OTH.Adapter] Bổ sung logic tra cứu và ánh xạ loại chức danh người khám từ `current.dmnhanvien.loai` sang mã danh mục người khám Cổng e-MCH QĐ 4750 (1-Bác sĩ, 2-Y sĩ, 3-Hộ sinh, 4-Điều dưỡng/CBYT khác, 9-Khác) trong `AGiamDinh_130.skss.cs`.
+- 🐛: [OTH.Adapter] Khắc phục lỗi Cổng e-MCH báo `["NGUOI_KHAM phải trong các giá trị sau: 1, 2, 3, 4, 9"]` tại Comment 49201 do trước đó truyền mã định danh nhân viên `manv` vào thẻ `<NGUOI_KHAM>`; đồng thời truyền đúng họ tên người khám vào `<HO_TEN_NGUOI_DO_DE>` và `<NGUOI_THUC_HIEN>`.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/596
+- 📗: Truy vấn trường `loai` và `TRIM(holot || ' ' || ten)` từ bảng `current.dmnhanvien` theo mã `manv` (hỗ trợ pad 3 số).
+- 📕: Màn hình Xuất XML4750 -> [Lấy dữ liệu - Hồ sơ sức khỏe SKSS (Bộ Y tế)] -> [Gửi XML4750 - liên thông Hồ sơ sức khỏe SKSS BYT], sinh thẻ `<NGUOI_KHAM>` chuẩn danh mục Cổng e-MCH.
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-596/debug-image-admin-xfrmbkxuatxml4750-skss-danhsach.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-596/debug-image-admin-xfrmbkxuatxml4750-skss-khamphukhoa-z014.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-596/debug-image-admin-xfrmbkxuatxml4750-skss-loaidt.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-596/debug-image-admin-xfrmbkxuatxml4750-skss-menu-popup.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-596/debug-image-admin-xfrmbkxuatxml4750-skss-trangthai-guicong.png)
+
+## [v.3.26.1014.0]()
+- 🐛: Cập nhật thư viện HosAdmin.dll để fix lỗi mất menu "Danh mục chỉ tiêu biểu mẫu" (Phiếu chăm sóc TT32) trong module Admin.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/891
+- 📕: Menu Khai báo số liệu -> Khác -> Danh mục chỉ tiêu biểu mẫu (mnCSDanhmuc) mở form quản lý danh mục biểu mẫu phiếu chăm sóc TT32 (XFrmCSDanhmuc).
+![](https://i.vgy.me/FvuKEF.png)
+
 ## [v.3.26.1013.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610130-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Tự động trích xuất CCCD người nuôi dưỡng trẻ em và chuẩn hóa chiều cao sang cm khi xuất hồ sơ SKSS.
 - 🐛: Tự động sinh khối chuyên khoa KHAM_THAI, KHAM_SANG_LOC hoặc TRE_EM_DEN_6_TUOI trong gói hồ sơ XML 4750 liên thông Sức khỏe sinh sản, tránh lỗi cổng e-MCH từ chối do thiếu thông tin KCB.
