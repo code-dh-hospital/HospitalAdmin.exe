@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.1023.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610230-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Phân hệ Quản trị Admin: Sửa lỗi bệnh nhân nội trú thu phí hiển thị trên danh sách XML BHYT và văng lỗi Nullable object must have a value khi xem XML4750.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1059
+- 📗: CSDL `tra_tracu_xmlthuphi_22102026`: Đồng bộ hiển thị ca bệnh 2026031221 trong nhóm Không BHYT (KO_BHYT), đảm bảo BHYT chỉ hiển thị đúng hồ sơ BHYT.
+- 📕: Màn hình Xuất XML theo 4750 (XFrmBKXuatXML4750): Lọc chính xác theo Loại đối tượng BHYT / Không BHYT.
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-1059/debug-image-admin-xfrmbkxuatxml4750-thuphi.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-1059/debug-image-admin-xfrmbkxuatxml4750-loc-bhyt.png)
+
 ## [v.3.26.1022.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610222-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610222-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610222-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Form cấu hình tham số gửi Xml lên cổng BHXH (`XFrmOptionBHXH`, thư viện `OTH.XForms.v.1.0`) - tab Cổng dữ liệu sức khỏe > Cấu hình BYT (TT25) thêm ô **Mã CSKCB**: lưu nhiều bộ cấu hình Cổng BYT theo Mã CSKCB (bệnh viện khám hộ trạm y tế); chọn mã -> nạp lại thông tin của mã; Lưu: mã mới -> thêm, mã cũ -> cập nhật.
 - 🐛: Cấu hình Cổng BYT (TT25) chỉ lưu 1 bộ, không cấu hình được đơn vị gửi riêng cho từng trạm y tế được khám hộ.
