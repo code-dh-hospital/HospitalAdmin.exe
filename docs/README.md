@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.1022.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610220-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Quản lý danh mục nhóm và danh mục chỉ tiêu biểu mẫu phiếu chăm sóc theo Thông tư 32/2023/TT-BYT; đồng bộ các thư viện phục vụ phân hệ Admin.
+- 🐛: Cập nhật thư viện OTH.Entity.dll và HosAdmin.dll để hoàn thiện chức năng quản lý danh mục biểu mẫu phiếu chăm sóc TT32 (XFrmCSDanhmuc).
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/891
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/920
+- 📗: current.cs_dm_nhom, current.cs_dm_chitiet
+- 📕: Phân hệ Quản trị Admin (HospitalAdmin) - Menu Khai báo số liệu -> Khác -> Danh mục chỉ tiêu biểu mẫu
+![](https://i.vgy.me/Fjp0wY.png)
+
 ## [v.3.26.1016.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610160-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [OTH.Adapter] Bổ sung logic tra cứu và ánh xạ loại chức danh người khám từ `current.dmnhanvien.loai` sang mã danh mục người khám Cổng e-MCH QĐ 4750 (1-Bác sĩ, 2-Y sĩ, 3-Hộ sinh, 4-Điều dưỡng/CBYT khác, 9-Khác) trong `AGiamDinh_130.skss.cs`.
 - 🐛: [OTH.Adapter] Khắc phục lỗi Cổng e-MCH báo `["NGUOI_KHAM phải trong các giá trị sau: 1, 2, 3, 4, 9"]` tại Comment 49201 do trước đó truyền mã định danh nhân viên `manv` vào thẻ `<NGUOI_KHAM>`; đồng thời truyền đúng họ tên người khám vào `<HO_TEN_NGUOI_DO_DE>` và `<NGUOI_THUC_HIEN>`.
