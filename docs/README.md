@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.1022.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610221-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610221-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610221-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Quản lý danh mục nhóm và danh mục chỉ tiêu biểu mẫu phiếu chăm sóc theo Thông tư 32/2023/TT-BYT; đồng bộ các thư viện phục vụ phân hệ Admin.
+- 🐛: Đồng bộ thư viện HosAdmin.dll v.3.26.1022.0 và OTH.Entity.dll mới nhất để khắc phục mất menu "Danh mục chỉ tiêu biểu mẫu" (Phiếu chăm sóc TT32) trên bản cài đặt Admin.exe.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/891
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/920
+- 📗: current.cs_dm_nhom, current.cs_dm_chitiet
+- 📕: Phân hệ Quản trị Admin (HospitalAdmin) - Menu Khai báo số liệu -> Khác -> Danh mục chỉ tiêu biểu mẫu (mnCSDanhmuc)
+![](https://i.vgy.me/Fjp0wY.png)
+
 ## [v.3.26.1022.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610220-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Quản lý danh mục nhóm và danh mục chỉ tiêu biểu mẫu phiếu chăm sóc theo Thông tư 32/2023/TT-BYT; đồng bộ các thư viện phục vụ phân hệ Admin.
 - 🐛: Cập nhật thư viện OTH.Entity.dll và HosAdmin.dll để hoàn thiện chức năng quản lý danh mục biểu mẫu phiếu chăm sóc TT32 (XFrmCSDanhmuc).
