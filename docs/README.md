@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.1022.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610222-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610222-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610222-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Form cấu hình tham số gửi Xml lên cổng BHXH (`XFrmOptionBHXH`, thư viện `OTH.XForms.v.1.0`) - tab Cổng dữ liệu sức khỏe > Cấu hình BYT (TT25) thêm ô **Mã CSKCB**: lưu nhiều bộ cấu hình Cổng BYT theo Mã CSKCB (bệnh viện khám hộ trạm y tế); chọn mã -> nạp lại thông tin của mã; Lưu: mã mới -> thêm, mã cũ -> cập nhật.
+- 🐛: Cấu hình Cổng BYT (TT25) chỉ lưu 1 bộ, không cấu hình được đơn vị gửi riêng cho từng trạm y tế được khám hộ.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/940
+- 📗: Ghi JSON `current.coderun` mã `EOptionTT25KSK` (thêm khóa `MaCskcb`, `DsCauHinhTheoMa` - không đổi cấu trúc CSDL). Đặc tả: [Mo-ta-cau-hinh-api-ksk-2062-theo-ma-cskcb-kham-ho](../../Mo-ta-he-thong/THONGTU_25/Mo-ta-cau-hinh-api-ksk-2062-theo-ma-cskcb-kham-ho.md)
+- 📕: Quản trị viên mở HospitalAdmin -> Khai báo số liệu -> Cấu hình tham số gửi Xml lên cổng BHXH -> Cổng dữ liệu sức khỏe -> Cấu hình BYT (TT25) -> Chỉnh -> chọn / nhập Mã CSKCB -> nhập thông tin -> Lưu.
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-940/debug-image-hosadmin-xfrmoptionbhxh-tt25-macskcb-mac-dinh-mabvbh.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-940/debug-image-hosadmin-xfrmoptionbhxh-tt25-nhap-ma-moi-92034.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-940/debug-image-hosadmin-xfrmoptionbhxh-tt25-chon-lai-ma-benh-vien.png)
+
 ## [v.3.26.1022.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610221-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610221-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610221-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Quản lý danh mục nhóm và danh mục chỉ tiêu biểu mẫu phiếu chăm sóc theo Thông tư 32/2023/TT-BYT; đồng bộ các thư viện phục vụ phân hệ Admin.
 - 🐛: Đồng bộ thư viện HosAdmin.dll v.3.26.1022.0 và OTH.Entity.dll mới nhất để khắc phục mất menu "Danh mục chỉ tiêu biểu mẫu" (Phiếu chăm sóc TT32) trên bản cài đặt Admin.exe.
