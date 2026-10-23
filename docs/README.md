@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.1023.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610231-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610231-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610231-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Đồng bộ thư viện OTH.XForms.v.1.0.dll mới nhất chứa đầy đủ giao diện và nghiệp vụ quản lý danh mục biểu mẫu phiếu chăm sóc TT32.
+- 🐛: Khắc phục lỗi không thêm được danh mục và trống vùng nhập liệu trên màn hình 'Danh mục chỉ tiêu biểu mẫu' (XFrmCSDanhmuc) theo phản ánh kiểm thử lần 3 của Tester; cập nhật hiển thị đúng tiêu đề tiếng Việt 'Danh mục chỉ tiêu biểu mẫu'.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/891
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/920
+- 📗: current.cs_dm_nhom, current.cs_dm_chitiet, current.cs_dm_giatri
+- 📕: Phân hệ Quản trị Admin (HospitalAdmin) - Menu Khai báo số liệu -> Khác -> Danh mục chỉ tiêu biểu mẫu.
+
 ## [v.3.26.1023.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610230-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Phân hệ Quản trị Admin: Sửa lỗi bệnh nhân nội trú thu phí hiển thị trên danh sách XML BHYT và văng lỗi Nullable object must have a value khi xem XML4750.
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1059
