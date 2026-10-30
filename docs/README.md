@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.26.1030.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610300-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Đồng bộ giao diện cấu hình danh mục chỉ tiêu biểu mẫu `XFrmCSDanhmuc`, hiển thị cột `type_dm` và icon nút chức năng.
+- 🐛: Khắc phục lỗi hiển thị icon nút bấm và đồng bộ cấu hình danh mục biểu mẫu phiếu chăm sóc TT32.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/891
+
 ## [v.3.26.1028.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610280-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Dồn nhật ký cập nhật phân hệ HospitalAdmin cho chức năng Danh mục Phiếu chăm sóc Thông tư 32 (XFrmCSDanhmuc): hoàn thiện giao diện danh mục chỉ tiêu, căn chỉnh panel nhập kiểu số và sắp xếp thứ tự chỉ tiêu.
 - 🐛: Khắc phục toàn bộ các lỗi phản ánh tại YEUCAU #891 và #920: lỗi thiếu cột thutu khi lưu chỉ tiêu, rỗng cột ngày tạo nhóm, dấu [+] mở subgrid rỗng, và đơ tab liên thông khi chuyển dòng.
