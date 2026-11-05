@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.1105.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611050-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Đồng bộ phát hành lại HospitalAdmin.exe theo bản cập nhật thư viện OTH.Adapter mới nhất (bổ sung key sync_misa).
+- 🐛: Cập nhật thư viện dùng chung cho toàn hệ thống phần mềm DH-HIS.
+- ☑: [YEUCAU Issue #1000](https://i.dh-his.com/hdhiswork/YEUCAU/issues/1000)
+- 📗: Cơ sở dữ liệu `nghia_vienydhdt` (Viện Y Dược Học Dân Tộc TP.HCM, mã CSKCB `79426`), bảng `current.coderun` (`code = 'MabvIsUsePrivateCodeBy'`).
+- 📕: Thực hiện theo mô tả [Mo-ta-Medicine-Dong-bo-chung-tu-nhap-kho-Misa-Amis.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/CHUC-NANG-RIENG/Mo-ta-Medicine-Dong-bo-chung-tu-nhap-kho-Misa-Amis.md)
+
 ## [v.3.26.1030.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32610300-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Đồng bộ giao diện cấu hình danh mục chỉ tiêu biểu mẫu `XFrmCSDanhmuc`, hiển thị cột `type_dm` và icon nút chức năng.
 - 🐛: Khắc phục lỗi hiển thị icon nút bấm và đồng bộ cấu hình danh mục biểu mẫu phiếu chăm sóc TT32.
