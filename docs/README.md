@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.1106.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611060-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung khả năng nhận diện toa thuốc 0 đồng (chương trình viện trợ ARV) trong câu lệnh `sqlToa0Dong` khi tính toán Bảng 1 XML130/4750 và XML3176.
+- 🐛: Sửa lỗi phân hệ Admin xuất XML 3176 bị lệch `so_ngay_dtri = 0` và `ma_loai_kcb = 08` so với module Reports (`so_ngay_dtri = 35`, `ma_loai_kcb = 05`). Loại bỏ điều kiện lọc cứng `AND COALESCE(bhyt,0) = 1` trong `sqlToa0Dong` tại `XML4750_MA_LOAI_KCB()` và `XML4750_MA_LOAI_KCB_1804()` trong `AGiamDinh.4750.XML01.cs` để thống nhất với hàm `get_SO_NGAY_DTRI_Toa0Dong`.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1081
+- 📗: Không thay đổi cấu trúc database; truy vấn dữ liệu từ bảng `current.pshdxn`, `current.pscls`, `xml130.bang1`.
+- 📕: Nghiệp vụ bệnh nhân điều trị ARV ngoại trú theo ngày (`bant = 1`), cấp toa thuốc ARV 0 đồng (`thanhtien = 0, thanhtienbhyt = 0, bhyt = 0`). Khi xuất XML hoặc giám định tự động, hệ thống nhận diện đúng toa 0 đồng để xác định `ma_loai_kcb = 05` và tính đủ `so_ngay_dtri = 35` ngày dùng thuốc, khớp chính xác 100% giữa Admin và Reports.
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1081/debug-image-admin-xuatxml-so-ngay-dtri-35.jpg)
+
 ## [v.3.26.1105.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611050-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Đồng bộ phát hành lại HospitalAdmin.exe theo bản cập nhật thư viện OTH.Adapter mới nhất (bổ sung key sync_misa).
 - 🐛: Cập nhật thư viện dùng chung cho toàn hệ thống phần mềm DH-HIS.
