@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.1109.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611090-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [HosAdmin] Hỗ trợ nhập và lưu trữ mã số BHXH (sobhxh) lên 12 chữ số theo quy chuẩn mới của BHXH Việt Nam trên Danh mục nhân viên (FrmDmNhanVien).
+- 🐛: [HosAdmin] Nâng giới hạn sobhxhEditBox.MaxLength từ 10 lên 12 ký tự; cập nhật hàm IsValidBHXHNumber regex chấp nhận cả định dạng 10 số cũ và 12 số mới (^(\d{10}|\d{12})$); cập nhật cảnh báo định dạng nhập liệu.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/1005
+- 📗: Cột current.dmnhanvien.sobhxh kiểu varchar(20), không cần chạy DDL migration trên PostgreSQL.
+- 📕: Quản trị Admin -> Quản trị người dùng -> Nhân viên - người dùng: Người dùng có thể nhập số BHXH 10 hoặc 12 số, hệ thống kiểm tra hợp lệ trước khi lưu vào CSDL.
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1005/debug-image-admin-frmdmnhanvien-sobhxh.png)
+
 ## [v.3.26.1106.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611060-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung khả năng nhận diện toa thuốc 0 đồng (chương trình viện trợ ARV) trong câu lệnh `sqlToa0Dong` khi tính toán Bảng 1 XML130/4750 và XML3176.
 - 🐛: Sửa lỗi phân hệ Admin xuất XML 3176 bị lệch `so_ngay_dtri = 0` và `ma_loai_kcb = 08` so với module Reports (`so_ngay_dtri = 35`, `ma_loai_kcb = 05`). Loại bỏ điều kiện lọc cứng `AND COALESCE(bhyt,0) = 1` trong `sqlToa0Dong` tại `XML4750_MA_LOAI_KCB()` và `XML4750_MA_LOAI_KCB_1804()` trong `AGiamDinh.4750.XML01.cs` để thống nhất với hàm `get_SO_NGAY_DTRI_Toa0Dong`.
