@@ -6,6 +6,20 @@
 
 #
 
+## [v.3.26.1111.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611110-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [HosAdmin] Phục hồi toàn bộ icon hiển thị trên hệ thống menu ExplorerBar (Janus ExplorerBar) và menu Bar của Form main Admin (FrmMain.designer.cs); khôi phục menu "Danh mục chỉ tiêu biểu mẫu" (mnCSDanhmuc) mở Form XFrmCSDanhmuc.
+- 🐛: [HosAdmin] Khắc phục triệt để lỗi mất toàn bộ icon trên menu ExplorerBar và mất menu "Danh mục chỉ tiêu biểu mẫu" do xung đột nhị phân UTF-16 khi merge subtree HosAdmin. Chuyển đổi mã hóa FrmMain.designer.cs sang UTF-8 with BOM chuẩn hóa.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/891
+- 📗: Đọc và đồng bộ dữ liệu danh mục chỉ tiêu phiếu chăm sóc TT32 từ bảng current.cs_dm_chitieu, cs_dm_nhom.
+- 📕: Mở phân hệ Quản trị HospitalAdmin -> Menu Khai báo số liệu -> Khác -> Danh mục chỉ tiêu biểu mẫu (mnCSDanhmuc) để mở form quản lý danh mục biểu mẫu phiếu chăm sóc TT32; toàn bộ icon trên các nhóm và mục của ExplorerBar hiển thị đầy đủ, trực quan.
+- ✨: [OTH.XForms.v.1.0] Cập nhật form Danh mục chỉ tiêu biểu mẫu (XFrmCSDanhmuc): ẩn cột Thuộc tính (`colGiaTri_ThuocTinh`); bật viết hoa tự động (`CharacterCasing.Upper`) và cấu hình `MaskType.RegEx` (`[A-Z0-9_]{0,40}` cho `csNhom_MasoTextEdit`; `[A-Z0-9_]{0,60}` cho `csGiaTri_MasoTextEdit` và `csChiTieu_MaSoTextEdit`) để chỉ cho phép nhập chữ in hoa, số và dấu `_`.
+- 🐛: [OTH.XForms.v.1.0] Cột Thuộc tính của Danh mục giá trị do chưa có phát sinh nhu cầu thực tế nên chưa chuẩn hóa, tạm thời ẩn đi chưa sử dụng; sửa nhãn `labelControl12` từ `"Mã giá trị :"` thành `"Mã chỉ tiêu :"` và chặn ký tự đặc biệt (`%`, `!`, khoảng trắng, dấu...) trên các ô mã số của `XFrmCSDanhmuc` tránh lỗi lưu dữ liệu.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/891
+- 📗: Bảng current.cs_dm_nhom (`maso` VARCHAR(40)), current.cs_dm_chitieu (`maso` VARCHAR(60)) và current.cs_dm_giatri (`maso` VARCHAR(60)).
+- 📕: Mở phân hệ Quản trị HospitalAdmin -> Menu Khai báo số liệu -> Khác -> Danh mục chỉ tiêu biểu mẫu (XFrmCSDanhmuc): khi thêm mới, các ô mã số tự động viết hoa và chỉ nhận `A-Z`, `0-9`, `_`; tab Danh mục giá trị tạm thời ẩn cột Thuộc tính.
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-891/debug-image-treatment-phieuchamsoc-hienthi-donvi-report.jpg)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-891/debug-image-treatment-designer-ngay-gio-chamsoc.jpg)
+
 ## [v.3.26.1109.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611090-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [HosAdmin] Hỗ trợ nhập và lưu trữ mã số BHXH (sobhxh) lên 12 chữ số theo quy chuẩn mới của BHXH Việt Nam trên Danh mục nhân viên (FrmDmNhanVien).
 - 🐛: [HosAdmin] Nâng giới hạn sobhxhEditBox.MaxLength từ 10 lên 12 ký tự; cập nhật hàm IsValidBHXHNumber regex chấp nhận cả định dạng 10 số cũ và 12 số mới (^(\d{10}|\d{12})$); cập nhật cảnh báo định dạng nhập liệu.
