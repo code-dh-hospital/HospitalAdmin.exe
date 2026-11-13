@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.1113.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611130-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung cấu hình danh mục chỉ tiêu sinh hiệu Thông tư 32 cho Phiếu chăm sóc cấp 1 trong Tùy chọn in ấn (`XFrmOptionInAn`).
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/891
+- 📗: Cho phép thiết lập mã chỉ tiêu tương ứng cho Mạch, Nhiệt độ, Huyết áp, Nhịp thở, SpO2, Cân nặng để ánh xạ vào biểu đồ sinh hiệu.
+- 📕: Quản trị viên/Người dùng vào Quản trị hệ thống -> Tiện ích -> Tùy chọn in ấn -> Tab Phiếu chăm sóc TT32 để cấu hình mã chỉ tiêu.
+![Cấu hình chỉ tiêu sinh hiệu trên HospitalAdmin](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-891/debug-image-admin-xfrmoptioninan-cauhinh-tt32.jpg)
+
 ## [v.3.26.1111.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611110-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [HosAdmin] Phục hồi toàn bộ icon hiển thị trên hệ thống menu ExplorerBar (Janus ExplorerBar) và menu Bar của Form main Admin (FrmMain.designer.cs); khôi phục menu "Danh mục chỉ tiêu biểu mẫu" (mnCSDanhmuc) mở Form XFrmCSDanhmuc.
 - 🐛: [HosAdmin] Khắc phục triệt để lỗi mất toàn bộ icon trên menu ExplorerBar và mất menu "Danh mục chỉ tiêu biểu mẫu" do xung đột nhị phân UTF-16 khi merge subtree HosAdmin. Chuyển đổi mã hóa FrmMain.designer.cs sang UTF-8 with BOM chuẩn hóa.
