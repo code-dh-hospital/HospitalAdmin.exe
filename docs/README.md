@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.1116.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611160-NasDHSolutions.json)</sup></sup></sub>
+# 2026-11-16
+- ✨: Tích hợp menu [Hồ sơ SKSS/BMTE (Bộ Y tế)] tại Cổng Bộ Y tế và màn hình quản lý, điều phối gửi cổng hồ sơ Sức khỏe sinh sản & Bà mẹ trẻ em (e-MCH v1.15) tập trung.
+- 🐛: Đồng bộ luồng liên thông dữ liệu chuyên khoa SKSS lên Cổng Bộ Y tế (kèm DLL OTH.Adapter, OTH.XForms, HosAdmin).
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/967
+- 📗: Quản lý và đối soát dữ liệu bảng current.skss_bmte theo các tiêu chí thời gian, phân loại 6 loại hồ sơ và trạng thái gửi.
+- 📕: Quản trị viên vào 'DM dùng chung, cổng BHXH, BYT' -> 'Cổng Bộ Y tế' -> 'Hồ sơ SKSS/BMTE (Bộ Y tế)' để kiểm tra, xem trước XML, gửi cổng hàng loạt hoặc mở form chi tiết.
+![Menu Hồ sơ SKSS/BMTE trên HospitalAdmin](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-967/debug-image-hosadmin-menu-hoso-skss-bmte.jpg)
+![Form Quản lý Hồ sơ SKSS/BMTE](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-967/debug-image-hosadmin-xfrmquanlyhososkss-danhsach.jpg)
+
 ## [v.3.26.1113.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611130-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung cấu hình danh mục chỉ tiêu sinh hiệu Thông tư 32 cho Phiếu chăm sóc cấp 1 trong Tùy chọn in ấn (`XFrmOptionInAn`).
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/891
