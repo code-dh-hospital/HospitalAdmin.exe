@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.1117.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611170-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [HospitalAdmin] Bổ sung cấu hình và tính năng ghi nhận người thực hiện, ngày kết quả công khám bảng XML3 theo QĐ 3176/4750 (BV TMĐ TG)
+- 🐛: Đồng bộ cập nhật từ OTH.Entity, OTH.Adapter và OTH.XForms.v.1.0 phục vụ phân hệ Quản trị hệ thống
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/993
+- 📗: Lưu cấu hình EOptionBHXH vào `current.coderun`
+- 📕: Vào Quản trị hệ thống -> Cấu hình BHYT -> Tab XML4750 -> Thiết lập cấu hình công khám XML3
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-993/debug-image-admin-xfrmbkxuatxml4750-xml03-congkham.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-993/debug-image-admin-xfrmoptionbhxh-cauhinh-xml3.png)
+
 ## [v.3.26.1116.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611160-NasDHSolutions.json)</sup></sup></sub>
 # 2026-11-16
 - ✨: Tích hợp menu [Hồ sơ SKSS/BMTE (Bộ Y tế)] tại Cổng Bộ Y tế và màn hình quản lý, điều phối gửi cổng hồ sơ Sức khỏe sinh sản & Bà mẹ trẻ em (e-MCH v1.15) tập trung.
