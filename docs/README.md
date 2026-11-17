@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.1117.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611171-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611171-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611171-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [HosAdmin / Admin.DataAccess] Bổ sung cấu hình "Khám dịch vụ" cho danh mục đối tượng.
+- 🐛: Cho phép người quản trị cấu hình đối tượng mặc định khám dịch vụ khi tiếp nhận.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/1008
+- 📗: Cột khamdichvu NUMERIC(1,0) trong current.dmdoituong.
+- 📕: Mở Danh mục đối tượng -> Tick chọn "Khám dịch vụ" cho đối tượng có tính chất dịch vụ.
+- Thực hiện theo mô tả [TỰ ĐỘNG CHECK "KHÁM DỊCH VỤ" THEO CẤU HÌNH DANH MỤC ĐỐI TƯỢNG (YEUCAU #1008)](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/REGISTER/Mo-ta-Register-Prescription-tu-dong-check-kham-dich-vu-dm-doi-tuong-yeucau-1008.md)
+![Giao diện cấu hình Khám dịch vụ tại Danh mục đối tượng](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1008/debug-image-admin-frmdmdoituong-cauhinh-khamdichvu.png)
+
 ## [v.3.26.1117.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611170-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [HospitalAdmin] Bổ sung cấu hình và tính năng ghi nhận người thực hiện, ngày kết quả công khám bảng XML3 theo QĐ 3176/4750 (BV TMĐ TG)
 - 🐛: Đồng bộ cập nhật từ OTH.Entity, OTH.Adapter và OTH.XForms.v.1.0 phục vụ phân hệ Quản trị hệ thống
