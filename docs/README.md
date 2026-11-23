@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.1123.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611230-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Nâng cấp trường "Khám dịch vụ" trong Danh mục đối tượng (FrmDmDoiTuong) từ ô chọn checkbox thành ComboBoxEdit 3 mức giá trị: 0 - Không áp dụng (rỗng); 1 - Khám dịch vụ; 2 - Khám dịch vụ & chỉ định CLS DV. Đồng bộ lưu trường khamdichvu dạng số nguyên (0, 1, 2) xuống bảng dmdoituong.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/1032
+- 📗: Không thay đổi cấu trúc bảng CSDL; trường dmdoituong.khamdichvu lưu giá trị kiểu int (0: Không; 1: Khám DV; 2: Khám DV & chỉ định CLS DV).
+- 📕: Thực hiện theo mô tả [MỞ RỘNG CẤU HÌNH DANH MỤC ĐỐI TƯỢNG VÀ TỰ ĐỘNG CHECK DỊCH VỤ CẬN LÂM SÀNG KHI CHỈ ĐỊNH](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/CAN_LAM_SANG/Mo-ta-Prescription-Register-tu-dong-check-dich-vu-khi-chi-dinh-cls-yeucau-1032.md)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/FOR_HIS_BUCKET/issues/issue-1032/debug-image-hospitaladmin-frmdmdoituong-combobox-khamdichvu.png)
+
 ## [v.3.26.1117.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611171-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611171-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalAdminexe%2F32611171-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [HosAdmin / Admin.DataAccess] Bổ sung cấu hình "Khám dịch vụ" cho danh mục đối tượng.
 - 🐛: Cho phép người quản trị cấu hình đối tượng mặc định khám dịch vụ khi tiếp nhận.
